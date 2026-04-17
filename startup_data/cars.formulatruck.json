@@ -1,0 +1,57 @@
+[
+    {
+        "UniqueName": "iveco.stralis.ct",
+        "Name": "Iveco Stralis",
+        "CarClass": "formulatruck",
+        "Vendor": "",
+        "Year": 2017,
+        "Power": 1230,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "man.tgx.ct",
+        "Name": "MAN TGX",
+        "CarClass": "formulatruck",
+        "Vendor": "",
+        "Year": 2017,
+        "Power": 1210,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mercedes.benz.actros.ct",
+        "Name": "Mercedes-Benz Actros",
+        "CarClass": "formulatruck",
+        "Vendor": "mercedes",
+        "Year": 2017,
+        "Power": 1290,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "volkswagen.constellation.ct",
+        "Name": "Volkswagen Constellation",
+        "CarClass": "formulatruck",
+        "Vendor": "volkswagen",
+        "Year": 2017,
+        "Power": 1150,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "volvo.fh.ct",
+        "Name": "Volvo FH",
+        "CarClass": "formulatruck",
+        "Vendor": "volvo",
+        "Year": 2017,
+        "Power": 1200,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

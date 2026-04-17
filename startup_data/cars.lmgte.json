@@ -1,0 +1,94 @@
+[
+    {
+        "UniqueName": "astonmartin.amrvantage.gte",
+        "Name": "Aston Martin AMR Vantage GTE",
+        "CarClass": "lmgte",
+        "Vendor": "aston.martin",
+        "Year": 2018,
+        "Power": 536,
+        "AliasesRaw": "Aston Martin Vantage AMR"
+    },
+    {
+        "UniqueName": "bmw.m6.gtlm",
+        "Name": "BMW M6 GTLM",
+        "CarClass": "lmgte",
+        "Vendor": "bmw",
+        "Year": 2017,
+        "Power": 500
+    },
+    {
+        "UniqueName": "bmw.m8.gte",
+        "Name": "BMW M8 GTE",
+        "CarClass": "lmgte",
+        "Vendor": "bmw",
+        "Year": 2018,
+        "Power": 600
+    },
+    {
+        "UniqueName": "chevrolet.racing.corvette.c7r",
+        "Name": "Chevrolet Racing Corvette C7.R",
+        "CarClass": "lmgte",
+        "Vendor": "chevrolet",
+        "Year": 2014,
+        "Power": 491
+    },
+    {
+        "UniqueName": "chevrolet.corvette.c8r.gte",
+        "Name": "Chevrolet Corvette C8.R GTE",
+        "CarClass": "lmgte",
+        "Vendor": "chevrolet",
+        "Year": 2020,
+        "Power": 500,
+        "AliasesRaw": "Corvette C8.R GTE"
+    },
+    {
+        "UniqueName": "dodge.viper.gtsr",
+        "Name": "Dodge Viper GTS-R",
+        "CarClass": "lmgte",
+        "Vendor": "dodge",
+        "Year": 2014,
+        "Power": 475
+    },
+    {
+        "UniqueName": "ferrari.488.gte",
+        "Name": "Ferrari 488 GTE",
+        "CarClass": "lmgte",
+        "Vendor": "ferrari",
+        "Year": 2019,
+        "Power": 600,
+        "AliasesRaw": "Ferrari 488 GTE EVO"
+    },
+    {
+        "UniqueName": "ford.gtlm",
+        "Name": "Ford GT Le Mans",
+        "CarClass": "lmgte",
+        "Vendor": "ford",
+        "Year": 2016,
+        "Power": 530
+    },
+    {
+        "UniqueName": "porsche.991rsr",
+        "Name": "Porsche 991 RSR",
+        "CarClass": "lmgte",
+        "Vendor": "porsche",
+        "Year": 2015,
+        "Power": 490
+    },
+    {
+        "UniqueName": "porsche.911.rsr.19",
+        "Name": "Porsche 911 RSR-19",
+        "CarClass": "lmgte",
+        "Vendor": "porsche",
+        "Year": 2019,
+        "Power": 503,
+        "AliasesRaw": "Porsche 911 RSR-19"
+    },
+    {
+        "UniqueName": "porsche.911rsr.17",
+        "Name": "Porsche 911 RSR (2017)",
+        "CarClass": "lmgte",
+        "Vendor": "porsche",
+        "Year": 2017,
+        "Power": 503
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "UniqueName": "aston.martin.dbr9.gt1",
+        "Name": "Aston Martin DBR9 GT1",
+        "CarClass": "gt1",
+        "Vendor": "aston.martin",
+        "Year": 2005,
+        "Power": 626,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.corvette.c5.r",
+        "Name": "Chevrolet Corvette C5.R",
+        "CarClass": "gt1",
+        "Vendor": "chevrolet",
+        "Year": 2005,
+        "Power": 584,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "dodge.viper.gtsr.2005",
+        "Name": "Dodge Viper GTS-R",
+        "CarClass": "gt1",
+        "Vendor": "dodge",
+        "Year": 2005,
+        "Power": 638,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lamborghini.murcielago.rgt",
+        "Name": "Lamborghini Murcielago R-GT",
+        "CarClass": "gt1",
+        "Vendor": "lamborghini",
+        "Year": 2004,
+        "Power": 593,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "maserati.mc12.gt1",
+        "Name": "Maserati MC12 GT1",
+        "CarClass": "gt1",
+        "Vendor": "maserati",
+        "Year": 2005,
+        "Power": 615,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

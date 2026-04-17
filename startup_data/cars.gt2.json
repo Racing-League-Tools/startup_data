@@ -1,0 +1,50 @@
+[
+    {
+        "UniqueName": "audi.r8.lms.gt2",
+        "Name": "Audi R8 LMS GT2",
+        "CarClass": "gt2",
+        "Vendor": "audi",
+        "Power": 640,
+        "Year": 2021
+    },
+    {
+        "UniqueName": "ktm.xbow.gt2",
+        "Name": "KTM X-Bow GT2",
+        "CarClass": "gt2",
+        "Vendor": "ktm",
+        "Power": 600,
+        "Year": 2021
+    },
+    {
+        "UniqueName": "maserati.gt2",
+        "Name": "Maserati GT2",
+        "CarClass": "gt2",
+        "Vendor": "maserati",
+        "Power": 621,
+        "Year": 2023
+    },
+    {
+        "UniqueName": "mercedes.amg.gt2",
+        "Name": "Mercedes-AMG GT2",
+        "CarClass": "gt2",
+        "Vendor": "mercedes",
+        "Power": 707,
+        "Year": 2023
+    },
+    {
+        "UniqueName": "porsche.935.gt2",
+        "Name": "Porsche 935",
+        "CarClass": "gt2",
+        "Vendor": "porsche",
+        "Power": 700,
+        "Year": 2019
+    },
+    {
+        "UniqueName": "porsche.991.2.gt2.rs.cs.evo",
+        "Name": "Porsche 991 II GT2 RS CS Evo",
+        "CarClass": "gt2",
+        "Vendor": "porsche",
+        "Power": 700,
+        "Year": 2023
+    }
+]

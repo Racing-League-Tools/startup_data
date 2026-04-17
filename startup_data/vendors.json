@@ -1,0 +1,517 @@
+[
+  {
+    "UniqueName": "aston.martin",
+    "Name": "Aston Martin",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "audi",
+    "Name": "Audi",
+    "Country": "Germany"
+  },
+  {
+    "UniqueName": "bmw",
+    "Name": "BMW",
+    "Country": "Germany"
+  },
+  {
+    "UniqueName": "jaguar",
+    "Name": "Jaguar",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "ferrari",
+    "Name": "Ferrari",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "honda",
+    "Name": "Honda Motor",
+    "Country": "Japan"
+  },
+  {
+    "UniqueName": "lamborghini",
+    "Name": "Lamborghini",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "lexus",
+    "Name": "Lexus",
+    "Country": "Japan"
+  },
+  {
+    "UniqueName": "mclaren",
+    "Name": "McLaren",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "mercedes",
+    "Name": "Mercedes-Benz",
+    "Country": "Germany"
+  },
+  {
+    "UniqueName": "nissan",
+    "Name": "Nissan",
+    "Country": "Japan"
+  },
+  {
+    "UniqueName": "porsche",
+    "Name": "Porsche AG",
+    "Country": "Germany"
+  },
+  {
+    "UniqueName": "reiter",
+    "Name": "Reiter Engineering",
+    "Country": "Germany"
+  },
+  {
+    "UniqueName": "alpine",
+    "Name": "Alpine",
+    "Country": "France"
+  },
+  {
+    "UniqueName": "chevrolet",
+    "Name": "Chevrolet",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "ginetta",
+    "Name": "Ginetta",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "ktm",
+    "Name": "KTM",
+    "Country": "Austria"
+  },
+  {
+    "UniqueName": "maserati",
+    "Name": "Maserati",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "ford",
+    "Name": "Ford Motor",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "caterham",
+    "Name": "Caterham",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "fiat",
+    "Name": "Fiat",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "mini",
+    "Name": "Mini",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "puma",
+    "Name": "Puma",
+    "Country": "Brazil"
+  },
+  {
+    "UniqueName": "volkswagen",
+    "Name": "Volkswagen",
+    "Country": "Germany"
+  },
+  {
+    "UniqueName": "iveco",
+    "Name": "Iveco",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "man.truck",
+    "Name": "MAN",
+    "Country": "Germany"
+  },
+  {
+    "UniqueName": "volvo",
+    "Name": "Volvo",
+    "Country": "Sweden"
+  },
+  {
+    "UniqueName": "cadillac",
+    "Name": "Cadillac",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "dallara",
+    "Name": "Dallara",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "lotus",
+    "Name": "Lotus",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "lola",
+    "Name": "Lola",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "brabham",
+    "Name": "Brabham",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "toyota",
+    "Name": "Toyota",
+    "Country": "Japan"
+  },
+  {
+    "UniqueName": "eagle",
+    "Name": "Eagle",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "ultima",
+    "Name": "Ultima",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "dodge",
+    "Name": "Dodge",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "mitsubishi",
+    "Name": "Mitsubishi",
+    "Country": "Japan"
+  },
+  {
+    "UniqueName": "ligier",
+    "Name": "Ligier",
+    "Country": "France"
+  },
+  {
+    "UniqueName": "oreca",
+    "Name": "Oreca",
+    "Country": "France"
+  },
+  {
+    "UniqueName": "citroen",
+    "Name": "Citroen",
+    "Country": "France"
+  },
+  {
+    "UniqueName": "holden",
+    "Name": "Holden",
+    "Country": "Australia"
+  },
+  {
+    "UniqueName": "alfa.romeo",
+    "Name": "Alfa Romeo",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "brm",
+    "Name": "BRM",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "bugatti",
+    "Name": "Bugatti",
+    "Country": "France"
+  },
+  {
+    "UniqueName": "renault",
+    "Name": "Renault",
+    "Country": "France"
+  },
+  {
+    "UniqueName": "acura",
+    "Name": "Acura",
+    "Country": "Japan"
+  },
+  {
+    "UniqueName": "bentley",
+    "Name": "Bentley",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "chaparral",
+    "Name": "Chaparral",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "chevron",
+    "Name": "Chevron",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "matrasimca",
+    "Name": "Matra-Simca",
+    "Country": "France"
+  },
+  {
+    "UniqueName": "mazda",
+    "Name": "Mazda",
+    "Country": "Japan"
+  },
+  {
+    "UniqueName": "peugeot",
+    "Name": "Peugeot",
+    "Country": "France"
+  },
+  {
+    "UniqueName": "shelby",
+    "Name": "Shelby",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "hsv",
+    "Name": "HSV",
+    "Country": "Australia"
+  },
+  {
+    "UniqueName": "hyundai",
+    "Name": "Hyundai",
+    "Country": "South Korea"
+  },
+  {
+    "UniqueName": "lynkco",
+    "Name": "Lynk & Co",
+    "Country": "China"
+  },
+  {
+    "UniqueName": "mg",
+    "Name": "MG",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "subaru",
+    "Name": "Subaru",
+    "Country": "Japan"
+  },
+  {
+    "UniqueName": "vauxhall",
+    "Name": "Vauxhall",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "lancia",
+    "Name": "Lancia",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "ariel",
+    "Name": "Ariel",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "bac",
+    "Name": "BAC",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "donkervoort",
+    "Name": "Donkervoort",
+    "Country": "Luxembourg"
+  },
+  {
+    "UniqueName": "elemental",
+    "Name": "Elemental",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "exomotive",
+    "Name": "Exomotive",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "radical",
+    "Name": "Radical",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "vuhl",
+    "Name": "Vuhl",
+    "Country": "Mexico"
+  },
+  {
+    "UniqueName": "gordonmurray",
+    "Name": "Gordon Murray Automotive",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "hennessey",
+    "Name": "Hennessey",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "saleen",
+    "Name": "Saleen",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "spaniagta",
+    "Name": "Spania GTA",
+    "Country": "Spain"
+  },
+  {
+    "UniqueName": "srt",
+    "Name": "SRT",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "tvr",
+    "Name": "TVR",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "amc",
+    "Name": "AMC",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "buick",
+    "Name": "Buick",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "chrysler",
+    "Name": "Chrysler",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "mercury",
+    "Name": "Mercury",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "oldsmobile",
+    "Name": "Oldsmobile",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "plymouth",
+    "Name": "Plymouth",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "pontiac",
+    "Name": "Pontiac",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "infiniti",
+    "Name": "Infiniti",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "xpeng",
+    "Name": "Xpeng",
+    "Country": "China"
+  },
+  {
+    "UniqueName": "opel",
+    "Name": "Opel",
+    "Country": "Germany"
+  },
+  {
+    "UniqueName": "datsun",
+    "Name": "Datsun",
+    "Country": "Japan"
+  },
+  {
+    "UniqueName": "merkur",
+    "Name": "Merkur",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "pagani",
+    "Name": "Pagani",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "abarth",
+    "Name": "Abarth",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "apollo",
+    "Name": "Apollo",
+    "Country": "Germany"
+  },
+  {
+    "UniqueName": "austinhealey",
+    "Name": "Austin-Healey",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "automobilipininfarina",
+    "Name": "Automobili Pininfarina",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "koenigsegg",
+    "Name": "Koenigsegg",
+    "Country": "Sweden"
+  },
+  {
+    "UniqueName": "nio",
+    "Name": "Nio",
+    "Country": "China"
+  },
+  {
+    "UniqueName": "raesr",
+    "Name": "Raesr",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "rimac",
+    "Name": "Rimac",
+    "Country": "Croatia"
+  },
+  {
+    "UniqueName": "zenvo",
+    "Name": "Zenvo",
+    "Country": "Denmark"
+  },
+  {
+    "UniqueName": "hdt",
+    "Name": "HDT",
+    "Country": "Australia"
+  },
+  {
+    "UniqueName": "eagleweslake",
+    "Name": "Eagle-Weslake",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "detomaso",
+    "Name": "De Tomaso",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "vanwall",
+    "Name": "Vanwall",
+    "Country": "United Kingdom"
+  },
+  {
+    "UniqueName": "glickenhaus",
+    "Name": "Glickenhaus",
+    "Country": "United States Of America"
+  },
+  {
+    "UniqueName": "isotta.fraschini",
+    "Name": "Isotta Fraschini",
+    "Country": "Italy"
+  },
+  {
+    "UniqueName": "genesis",
+    "Name": "Genesis",
+    "Country": "South Korea"
+  },
+  {
+    "UniqueName": "duqueine",
+    "Name": "Duqueine",
+    "Country": "France"
+  }
+]

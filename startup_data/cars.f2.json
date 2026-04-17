@@ -1,0 +1,18 @@
+[
+    {
+        "UniqueName": "dallara.f22018",
+        "Name": "Dallara F2 2018",
+        "CarClass": "f2",
+        "Vendor": "dallara",
+        "Power": 620,
+        "Year": 2018
+    },
+    {
+        "UniqueName": "dallara.f22024",
+        "Name": "Dallara F2 2024",
+        "CarClass": "f2",
+        "Vendor": "dallara",
+        "Power": 620,
+        "Year": 2024
+    }
+]

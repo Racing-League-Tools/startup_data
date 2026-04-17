@@ -1,0 +1,154 @@
+[
+  {
+    "UniqueName": "f1",
+    "Name": "Formula 1"
+  },
+  {
+    "UniqueName": "f2",
+    "Name": "Formula 2"
+  },
+  {
+    "UniqueName": "f3",
+    "Name": "Formula 3"
+  },
+  {
+    "UniqueName": "f4",
+    "Name": "Formula 4"
+  },
+  {
+    "UniqueName": "open.wheel",
+    "Name": "Open Wheel"
+  },
+  {
+    "UniqueName": "fe",
+    "Name": "Formula E"
+  },
+  {
+    "UniqueName": "formulatruck",
+    "Name": "Formula Truck"
+  },
+  {
+    "UniqueName": "formuladrift",
+    "Name": "Formula Drift"
+  },
+  {
+    "UniqueName": "lmh",
+    "Name": "Le Mans Hypercar"
+  },
+  {
+    "UniqueName": "lmgte",
+    "Name": "LMGTE"
+  },
+  {
+    "UniqueName": "lmp1",
+    "Name": "LMP1"
+  },
+  {
+    "UniqueName": "lmp2",
+    "Name": "LMP2"
+  },
+  {
+    "UniqueName": "lmp3",
+    "Name": "LMP3"
+  },
+  {
+    "UniqueName": "gt1",
+    "Name": "GT1"
+  },
+  {
+    "UniqueName": "gt1classic",
+    "Name": "GT1 Classic"
+  },
+  {
+    "UniqueName": "gt2",
+    "Name": "GT2"
+  },
+  {
+    "UniqueName": "gt2classic",
+    "Name": "GT2 Classic"
+  },
+  {
+    "UniqueName": "gt3",
+    "Name": "GT3"
+  },
+  {
+    "UniqueName": "gt4",
+    "Name": "GT4"
+  },
+  {
+    "UniqueName": "gt5",
+    "Name": "GT5"
+  },
+  {
+    "UniqueName": "gtx",
+    "Name": "GTX SportCars"
+  },
+  {
+    "UniqueName": "hothatch",
+    "Name": "Hot Hatch"
+  },
+  {
+    "UniqueName": "indycar",
+    "Name": "IndyCar"
+  },
+  {
+    "UniqueName": "kart",
+    "Name": "Kart"
+  },
+  {
+    "UniqueName": "nascar",
+    "Name": "NASCAR"
+  },
+  {
+    "UniqueName": "rally",
+    "Name": "Rally"
+  },
+  {
+    "UniqueName": "roadcompact",
+    "Name": "Road Compact"
+  },
+  {
+    "UniqueName": "roadcoupe",
+    "Name": "Road Coupe"
+  },
+  {
+    "UniqueName": "roadgt",
+    "Name": "Road GT"
+  },
+  {
+    "UniqueName": "roadmuscle",
+    "Name": "Road Muscle"
+  },
+  {
+    "UniqueName": "roadtouring",
+    "Name": "Road Touring"
+  },
+  {
+    "UniqueName": "stock.car",
+    "Name": "Stock Car"
+  },
+  {
+    "UniqueName": "supercar",
+    "Name": "SuperCar"
+  },
+  {
+    "UniqueName": "touring",
+    "Name": "Touring Car"
+  },
+  {
+    "UniqueName": "touring.classic",
+    "Name": "Touring Car Classic"
+  },
+  {
+    "UniqueName": "trackday",
+    "Name": "Track Day"
+  },
+  {
+    "UniqueName": "tracktoy",
+    "Name": "Track Toy"
+  },
+  {
+    "UniqueName": "transam",
+    "Name": "Trans Am"
+  }
+]

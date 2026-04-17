@@ -1,0 +1,308 @@
+[
+  {
+    "ActionType": "P1",
+    "DriverPoints": 500,
+    "TeamPoints": 500,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 400,
+    "TeamPoints": 400,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 350,
+    "TeamPoints": 350,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 320,
+    "TeamPoints": 320,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 300,
+    "TeamPoints": 300,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 280,
+    "TeamPoints": 280,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 260,
+    "TeamPoints": 260,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 240,
+    "TeamPoints": 240,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 220,
+    "TeamPoints": 220,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 200,
+    "TeamPoints": 200,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P11",
+    "DriverPoints": 190,
+    "TeamPoints": 190,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P12",
+    "DriverPoints": 180,
+    "TeamPoints": 180,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P13",
+    "DriverPoints": 170,
+    "TeamPoints": 170,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P14",
+    "DriverPoints": 160,
+    "TeamPoints": 160,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P15",
+    "DriverPoints": 150,
+    "TeamPoints": 150,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P16",
+    "DriverPoints": 140,
+    "TeamPoints": 140,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P17",
+    "DriverPoints": 130,
+    "TeamPoints": 130,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P18",
+    "DriverPoints": 120,
+    "TeamPoints": 120,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P19",
+    "DriverPoints": 110,
+    "TeamPoints": 110,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P20",
+    "DriverPoints": 100,
+    "TeamPoints": 100,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P21",
+    "DriverPoints": 90,
+    "TeamPoints": 90,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P22",
+    "DriverPoints": 80,
+    "TeamPoints": 80,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P23",
+    "DriverPoints": 70,
+    "TeamPoints": 70,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P24",
+    "DriverPoints": 60,
+    "TeamPoints": 60,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P25",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P26",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P27",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P28",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P29",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P30",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P31",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P32",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P33",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P1",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "ChampionshipId": 2,
+    "Championship": "indycar",
+    "SessionType": "Qualification",
+    "QualificationType": "Regular"
+  }
+]

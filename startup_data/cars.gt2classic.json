@@ -1,0 +1,46 @@
+[
+    {
+        "UniqueName": "ferrari.360.gt",
+        "Name": "Ferrari 360 GT",
+        "CarClass": "gt2classic",
+        "Vendor": "ferrari",
+        "Year": 2002,
+        "Power": 430,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "porsche.996.gt3.rsr",
+        "Name": "Porsche 996 GT3 RSR",
+        "CarClass": "gt2classic",
+        "Vendor": "porsche",
+        "Year": 2004,
+        "Power": 457,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "bmw.m3.e46.gtr",
+        "Name": "BMW M3 E46 GTR",
+        "CarClass": "gt2classic",
+        "Vendor": "bmw",
+        "Year": 2001,
+        "Power": 493,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lamborghini.diablo.gtr.1999",
+        "Name": "Lamborghini Diablo GTR",
+        "CarClass": "gt2classic",
+        "Vendor": "lamborghini",
+        "Year": 1999,
+        "Power": 590,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

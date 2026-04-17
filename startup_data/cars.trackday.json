@@ -1,0 +1,333 @@
+[
+    {
+        "UniqueName": "brabham.bt62",
+        "Name": "Brabham BT62",
+        "CarClass": "trackday",
+        "Vendor": "brabham",
+        "Year": 2019,
+        "Power": 700,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ligier.js2.r",
+        "Name": "Ligier JS2 R",
+        "CarClass": "trackday",
+        "Vendor": "ligier",
+        "Year": 2018,
+        "Power": 330,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ferrari.f40.competizione",
+        "Name": "Ferrari F40 Competizione",
+        "CarClass": "trackday",
+        "Vendor": "ferrari",
+        "Year": 1989,
+        "Power": 691,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "astonmartin.vulcan",
+        "Name": "Aston Martin Vulcan",
+        "CarClass": "trackday",
+        "Vendor": "aston.martin",
+        "Year": 2016,
+        "Power": 820,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "astonmartin.vulkanamr.pro",
+        "Name": "Aston Martin Vulcan AMR Pro",
+        "CarClass": "trackday",
+        "Vendor": "aston.martin",
+        "Year": 2017,
+        "Power": 820,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "astonmartin.valkyrieamr.pro",
+        "Name": "Aston Martin Valkyrie AMR Pro",
+        "CarClass": "trackday",
+        "Vendor": "aston.martin",
+        "Year": 2022,
+        "Power": 1000,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ferrari.599xx",
+        "Name": "Ferrari 599XX",
+        "CarClass": "trackday",
+        "Vendor": "ferrari",
+        "Year": 2010,
+        "Power": 691,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ferrari.599xx.evo",
+        "Name": "Ferrari 599XX Evolution",
+        "CarClass": "trackday",
+        "Vendor": "ferrari",
+        "Year": 2012,
+        "Power": 740,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ferrari.fxxk",
+        "Name": "Ferrari FXX-K",
+        "CarClass": "trackday",
+        "Vendor": "ferrari",
+        "Year": 2014,
+        "Power": 1036,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ferrari.fxxk.evo",
+        "Name": "Ferrari FXX-K Evo",
+        "CarClass": "trackday",
+        "Vendor": "ferrari",
+        "Year": 2018,
+        "Power": 1036,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lamborghini.essenza.scv12",
+        "Name": "Lamborghini Essenza SCV12",
+        "CarClass": "trackday",
+        "Vendor": "lamborghini",
+        "Year": 2020,
+        "Power": 818,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mclaren.p1gtr",
+        "Name": "McLaren P1 GTR",
+        "CarClass": "trackday",
+        "Vendor": "mclaren",
+        "Year": 2015,
+        "Power": 986,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mclaren.senna.gtr",
+        "Name": "McLaren Senna GTR",
+        "CarClass": "trackday",
+        "Vendor": "mclaren",
+        "Year": 2019,
+        "Power": 814,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "pagani.huayra.r",
+        "Name": "Pagani Huayra R ",
+        "CarClass": "trackday",
+        "Vendor": "pagani",
+        "Year": 2022,
+        "Power": 838,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ginetta.g58",
+        "Name": "Ginetta G58",
+        "CarClass": "trackday",
+        "Vendor": "ginetta",
+        "Year": 2018,
+        "Power": 564,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.ajr.judd",
+        "Name": "Metalmoro AJR Judd",
+        "CarClass": "trackday",
+        "Year": 2017,
+        "Power": 556,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.ajr.nissan",
+        "Name": "Metalmoro AJR Nissan",
+        "CarClass": "trackday",
+        "Vendor": "nissan",
+        "Year": 2017,
+        "Power": 560,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.ajr.honda",
+        "Name": "Metalmoro AJR Honda",
+        "CarClass": "trackday",
+        "Vendor": "honda",
+        "Year": 2017,
+        "Power": 579,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.ajr.chevrolet",
+        "Name": "Metalmoro AJR Chevrolet",
+        "CarClass": "trackday",
+        "Vendor": "chevrolet",
+        "Year": 2017,
+        "Power": 594,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.ajr.gen2.",
+        "Name": "Metalmoro AJR Gen2 Chevrolet",
+        "CarClass": "trackday",
+        "Year": 2023,
+        "Power": 593,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.ajr.gen2.honda",
+        "Name": "Metalmoro AJR Gen2 Honda",
+        "CarClass": "trackday",
+        "Vendor": "honda",
+        "Year": 2023,
+        "Power": 575,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.ajr.gen2.nissan",
+        "Name": "Metalmoro AJR Gen2 Nissan",
+        "CarClass": "trackday",
+        "Year": 2023,
+        "Power": 561,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ginetta.g58.g2",
+        "Name": "Ginetta G58 Gen2",
+        "CarClass": "trackday",
+        "Vendor": "ginetta",
+        "Year": 2023,
+        "Power": 564,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "sigma.p1.g5",
+        "Name": "Sigma P1 G5",
+        "CarClass": "trackday",
+        "Year": 2023,
+        "Power": 573,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.mrx.duratec.p2",
+        "Name": "Metalmoro MRX Duratec P2",
+        "CarClass": "trackday",
+        "Year": 2018,
+        "Power": 372,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "sigma.p1",
+        "Name": "Sigma P1",
+        "CarClass": "trackday",
+        "Year": 2017,
+        "Power": 501,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.mrx,honda.p3",
+        "Name": "Metalmoro MRX Honda P3",
+        "CarClass": "trackday",
+        "Vendor": "honda",
+        "Year": 2009,
+        "Power": 303,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.mrx,duratec.p3",
+        "Name": "Metalmoro MRX Duratec P3",
+        "CarClass": "trackday",
+        "Year": 2009,
+        "Power": 360,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "roco.001",
+        "Name": "Roco 001",
+        "CarClass": "trackday",
+        "Year": 2019,
+        "Power": 283,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mcr.2000",
+        "Name": "MCR S2000",
+        "CarClass": "trackday",
+        "Year": 2013,
+        "Power": 217,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "metalmoro.mrx.duratec.p4",
+        "Name": "Metalmoro MRX Duratec P4",
+        "CarClass": "trackday",
+        "Year": 2009,
+        "Power": 311,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

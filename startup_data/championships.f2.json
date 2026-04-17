@@ -1,0 +1,562 @@
+[
+    {
+        "Name": "F2 2020",
+        "UniqueName": "f2.2020",
+        "BaseChampionship": "f2.2020",
+        "Games": ["f1.2020", "f1.2021"],
+        "Cars": ["dallara.f22018"],
+        "Teams": [
+            "dams.f2.2020",
+            "trident.f2.2020",
+            "prema.f2.2020",
+            "hwa.f2.2020",
+            "mp.f2.2020",
+            "hitech.f2.2020",
+            "campos.f2.2020",
+            "carlin.f2.2020",
+            "art.f2.2020",
+            "uni.f2.2020",
+            "charouz.f2.2020"
+        ],
+        "Tracks": [
+            "austin.2012",
+            "austin.short.2012",
+            "sakhir.2005",
+            "sakhir.short.2020",
+            "baku.2016",
+            "barcelona.2007",
+            "hanoi.2020",
+            "hungaroring.2003",
+            "interlagos.2000",
+            "albert.park.1996",
+            "mexico.2015",
+            "monaco.2015",
+            "montreal.2002",
+            "monza.2000",
+            "paulricard.2005",
+            "shanghai.2004",
+            "silverstone.2011",
+            "silverstone.short.2010",
+            "singapore.2018",
+            "sochi.2014",
+            "spa.2007",
+            "spielberg.2016",
+            "suzuka.2003",
+            "suzuka.short.2003",
+            "yasmarina.2009",
+            "zandvoort.2020"
+        ],
+        "EventFormat": {
+            "Presets": [
+                {
+                    "Name": "1 race per event",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Feature"
+                        }
+                    ]
+                },
+                {
+                    "Name": "3 races per event",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Sprint"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Sprint"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Feature"
+                        }
+                    ]
+                }
+            ]
+        },
+        "GridSize": 22,
+        "SeatsPerTeam": 2,
+        "SeatsReserve": 22,
+        "FastestLapPointsPositionEdge": 10,
+        "IgnoreWorstEventsEachDriver": 0,
+        "LineupsBasedType": "Teams",
+        "IsMinorRacesEqualsMajor": true
+    },
+
+    {
+        "Name": "F2 2021",
+        "UniqueName": "f2.2021",
+        "BaseChampionship": "f2.2021",
+        "Games": ["f1.2021"],
+        "Cars": ["dallara.f22018"],
+        "Teams": [
+            "trident.f2.2021",
+            "campos.f2.2021",
+            "dams.f2.2021",
+            "charouz.f2.2021",
+            "mp.f2.f2021",
+            "art.f2.2021",
+            "hitech.f2.2021",
+            "carlin.f2.2021",
+            "uni.f2.2021",
+            "prema.f2.2021",
+            "hwa.f2.2021"
+        ],
+        "Tracks": [
+            "austin.2012",
+            "sakhir.2005",
+            "sakhir.short.2020",
+            "baku.2016",
+            "barcelona.2021",
+            "hungaroring.2003",
+            "imola.2008",
+            "interlagos.2000",
+            "jeddah.2021",
+            "albert.park.1996",
+            "mexico.2015",
+            "monaco.2015",
+            "montreal.2002",
+            "monza.2000",
+            "paulricard.2005",
+            "algarve.2008",
+            "shanghai.2004",
+            "silverstone.2011",
+            "silverstone.short.2010",
+            "singapore.2018",
+            "sochi.2014",
+            "spa.2007",
+            "spielberg.2016",
+            "suzuka.2003",
+            "suzuka.short.2003",
+            "yasmarina.2021",
+            "zandvoort.2020",
+            "austin.short.2012"
+        ],
+        "EventFormat": {
+            "Presets": [
+                {
+                    "Name": "1 race per event",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Feature"
+                        }
+                    ]
+                },
+                {
+                    "Name": "2 races per event",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Feature"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Sprint"
+                        }
+                    ]
+                }
+            ]
+        },
+        "GridSize": 22,
+        "SeatsPerTeam": 2,
+        "SeatsReserve": 22,
+        "FastestLapPointsPositionEdge": 10,
+        "IgnoreWorstEventsEachDriver": 0,
+        "LineupsBasedType": "Teams",
+        "IsMinorRacesEqualsMajor": true
+    },
+
+    {
+        "Name": "F2 2022",
+        "UniqueName": "f2.2022",
+        "BaseChampionship": "f2.2022",
+        "Games": ["f1.22"],
+        "Cars": ["dallara.f22018"],
+        "Teams": [
+            "prema.f2.2022",
+            "virtuosi.f2.2022",
+            "carlin.f2.2022",
+            "hitech.f2.2022",
+            "art.f2.2022",
+            "mp.f2.2022",
+            "campos.f2.2022",
+            "dams.f2.2022",
+            "trident.f2.2022",
+            "charouz.f2.2022",
+            "var.f2.2022"
+        ],
+        "Tracks": [
+            "sakhir.2005",
+            "jeddah.2021",
+            "albert.park.2021",
+            "imola.2008",
+            "barcelona.2021",
+            "monaco.2015",
+            "baku.2016",
+            "montreal.2002",
+            "silverstone.2011",
+            "spielberg.2016",
+            "paulricard.2005",
+            "hungaroring.2003",
+            "spa.2007",
+            "zandvoort.2020",
+            "monza.2000",
+            "singapore.2018",
+            "suzuka.2003",
+            "austin.2012",
+            "mexico.2015",
+            "interlagos.2000",
+            "yasmarina.2021",
+            "miami.2022",
+            "silverstone.short.2010",
+            "austin.short.2012",
+            "sakhir.short.2020",
+            "suzuka.short.2003",
+            "algarve.2008",
+            "shanghai.2004"
+        ],
+        "EventFormat": {
+            "Presets": [
+                {
+                    "Name": "1 race per event",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Feature"
+                        }
+                    ]
+                },
+                {
+                    "Name": "2 races per event",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Sprint"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Feature"
+                        }
+                    ]
+                }
+            ]
+        },
+        "GridSize": 22,
+        "SeatsPerTeam": 2,
+        "SeatsReserve": 22,
+        "FastestLapPointsPositionEdge": 10,
+        "IgnoreWorstEventsEachDriver": 0,
+        "LineupsBasedType": "Teams",
+        "IsMinorRacesEqualsMajor": true
+    },
+
+    {
+        "Name": "F2 2023",
+        "UniqueName": "f2.2023",
+        "BaseChampionship": "f2.2023",
+        "Games": ["f1.23"],
+        "Cars": ["dallara.f22018"],
+        "Teams": [
+            "var.f2.2023",
+            "virtuosi.f2.2023",
+            "trident.f2.2023",
+            "prema.f2.2023",
+            "phm.f2.2023",
+            "mp.f2.2023",
+            "hitech.f2.2023",
+            "dams.f2.2023",
+            "carlin.f2.2023",
+            "campos.f2.2023",
+            "art.f2.2023"
+        ],
+        "Tracks": [
+            "sakhir.2005",
+            "jeddah.2021",
+            "albert.park.2021",
+            "imola.2008",
+            "barcelona.2021",
+            "monaco.2015",
+            "baku.2016",
+            "montreal.2002",
+            "silverstone.2011",
+            "spielberg.2016",
+            "paulricard.2005",
+            "hungaroring.2003",
+            "spa.2007",
+            "zandvoort.2020",
+            "monza.2000",
+            "singapore.2023",
+            "suzuka.2003",
+            "austin.2012",
+            "mexico.2015",
+            "interlagos.2000",
+            "yasmarina.2021",
+            "miami.2022",
+            "silverstone.short.2010",
+            "austin.short.2012",
+            "sakhir.short.2020",
+            "suzuka.short.2003",
+            "algarve.2008",
+            "shanghai.2004",
+            "las.vegas.2023",
+            "losail.2023"
+        ],
+        "EventFormat": {
+            "Presets": [
+                {
+                    "Name": "1 race per event",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Feature"
+                        }
+                    ]
+                },
+                {
+                    "Name": "2 races per event",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Sprint"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Feature"
+                        }
+                    ]
+                }
+            ]
+        },
+        "GridSize": 22,
+        "SeatsPerTeam": 2,
+        "SeatsReserve": 22,
+        "FastestLapPointsPositionEdge": 10,
+        "IgnoreWorstEventsEachDriver": 0,
+        "LineupsBasedType": "Teams",
+        "IsMinorRacesEqualsMajor": true
+    },
+
+  {
+    "Name": "F2 2024",
+    "UniqueName": "f2.2024",
+    "BaseChampionship": "f2.2023",
+    "Games": [ "f1.24" ],
+    "Cars": [ "dallara.f22024" ],
+    "Teams": [
+      "prema.f2.2024",
+      "invicta.f2.2024",
+      "rodin.f2.2024",
+      "hitech.f2.2024",
+      "art.f2.2024",
+      "mp.f2.2024",
+      "campos.f2.2024",
+      "dams.f2.2024",
+      "trident.f2.2024",
+      "phm.f2.2024",
+      "var.f2.2024"
+    ],
+    "Tracks": [
+      "sakhir.2005",
+      "jeddah.2021",
+      "albert.park.2021",
+      "suzuka.2003",
+      "shanghai.2004",
+      "miami.2022",
+      "imola.2008",
+      "monaco.2015",
+      "montreal.2002",
+      "barcelona.2021",
+      "spielberg.2016",
+      "silverstone.2011",
+      "hungaroring.2003",
+      "spa.2007",
+      "zandvoort.2020",
+      "monza.2000",
+      "baku.2016",
+      "singapore.2023",
+      "austin.2012",
+      "mexico.2015",
+      "interlagos.2000",
+      "las.vegas.2023",
+      "losail.2023",
+      "yasmarina.2021",
+      "paulricard.2005",
+      "algarve.2008",
+      "silverstone.short.2010",
+      "austin.short.2012",
+      "sakhir.short.2020",
+      "suzuka.short.2003"
+    ],
+    "EventFormat": {
+      "Presets": [
+        {
+          "Name": "1 race per event",
+          "Sessions": [
+            {
+              "SessionType": "Qualification",
+              "QualificationType": "Regular"
+            },
+            {
+              "SessionType": "Race",
+              "RaceType": "Feature"
+            }
+          ]
+        },
+        {
+          "Name": "2 races per event",
+          "Sessions": [
+            {
+              "SessionType": "Qualification",
+              "QualificationType": "Regular"
+            },
+            {
+              "SessionType": "Race",
+              "RaceType": "Sprint"
+            },
+            {
+              "SessionType": "Race",
+              "RaceType": "Feature"
+            }
+          ]
+        }
+      ]
+    },
+    "GridSize": 22,
+    "SeatsPerTeam": 2,
+    "SeatsReserve": 22,
+    "FastestLapPointsPositionEdge": 10,
+    "IgnoreWorstEventsEachDriver": 0,
+    "LineupsBasedType": "Teams",
+    "IsMinorRacesEqualsMajor": true
+  },
+
+  {
+    "Name": "F2 2025",
+    "UniqueName": "f2.2025",
+    "BaseChampionship": "f2.2023",
+    "Games": [ "f1.25" ],
+    "Cars": [ "dallara.f22024" ],
+    "Teams": [
+      "prema.f2.2025",
+      "invicta.f2.2025",
+      "rodin.f2.2025",
+      "hitech.f2.2025",
+      "art.f2.2025",
+      "mp.f2.2025",
+      "campos.f2.2025",
+      "dams.f2.2025",
+      "trident.f2.2025",
+      "aix.f2.2025",
+      "var.f2.2025"
+    ],
+    "Tracks": [
+      "sakhir.2005",
+      "jeddah.2021",
+      "albert.park.2021",
+      "suzuka.2003",
+      "shanghai.2004",
+      "miami.2022",
+      "imola.2008",
+      "monaco.2015",
+      "montreal.2002",
+      "barcelona.2021",
+      "spielberg.2016",
+      "silverstone.2011",
+      "hungaroring.2003",
+      "spa.2007",
+      "zandvoort.2020",
+      "monza.2000",
+      "baku.2016",
+      "singapore.2023",
+      "austin.2012",
+      "mexico.2015",
+      "interlagos.2000",
+      "las.vegas.2023",
+      "losail.2023",
+      "yasmarina.2021",
+      "paulricard.2005",
+      "algarve.2008",
+      "silverstone.short.2010",
+      "austin.short.2012",
+      "sakhir.short.2020",
+      "suzuka.short.2003"
+    ],
+    "EventFormat": {
+      "Presets": [
+        {
+          "Name": "1 race per event",
+          "Sessions": [
+            {
+              "SessionType": "Qualification",
+              "QualificationType": "Regular"
+            },
+            {
+              "SessionType": "Race",
+              "RaceType": "Feature"
+            }
+          ]
+        },
+        {
+          "Name": "2 races per event",
+          "Sessions": [
+            {
+              "SessionType": "Qualification",
+              "QualificationType": "Regular"
+            },
+            {
+              "SessionType": "Race",
+              "RaceType": "Sprint"
+            },
+            {
+              "SessionType": "Race",
+              "RaceType": "Feature"
+            }
+          ]
+        }
+      ]
+    },
+    "GridSize": 22,
+    "SeatsPerTeam": 2,
+    "SeatsReserve": 22,
+    "FastestLapPointsPositionEdge": 10,
+    "IgnoreWorstEventsEachDriver": 0,
+    "LineupsBasedType": "Teams",
+    "IsMinorRacesEqualsMajor": true
+  }
+
+]

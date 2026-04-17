@@ -1,0 +1,274 @@
+[
+    {
+        "UniqueName": "astonmartin.db5",
+        "Name": "Aston Martin DB5",
+        "CarClass": "roadcoupe",
+        "Vendor": "aston.martin",
+        "Year": 1964,
+        "Power": 282
+    },
+    {
+        "UniqueName": "austinhealey.3000.mk3",
+        "Name": "Austin-Healey 3000 MKIII",
+        "CarClass": "roadcoupe",
+        "Vendor": "austinhealey",
+        "Year": 1965,
+        "Power": 147
+    },
+    {
+        "UniqueName": "datsun.2000.roadster",
+        "Name": "Datsun 2000 Roadster",
+        "CarClass": "roadcoupe",
+        "Vendor": "datsun",
+        "Year": 1969,
+        "Power": 135
+    },
+    {
+        "UniqueName": "ferrari.250gt.berlinettalusso",
+        "Name": "Ferrari 250 GT Berlinetta Lusso",
+        "CarClass": "roadcoupe",
+        "Vendor": "ferrari",
+        "Year": 1962,
+        "Power": 254
+    },
+    {
+        "UniqueName": "honda.s800",
+        "Name": "Honda S800",
+        "CarClass": "roadcoupe",
+        "Vendor": "honda",
+        "Year": 1970,
+        "Power": 70
+    },
+    {
+        "UniqueName": "jaguar.mk2.38",
+        "Name": "Jaguar MKII 3.8",
+        "CarClass": "roadcoupe",
+        "Vendor": "jaguar",
+        "Year": 1959,
+        "Power": 220
+    },
+    {
+        "UniqueName": "mazda.cosmo.110s.series2",
+        "Name": "Mazda Cosmo 110S Series II",
+        "CarClass": "roadcoupe",
+        "Vendor": "mazda",
+        "Year": 1972,
+        "Power": 128
+    },
+    {
+        "UniqueName": "mercedes.benz.300sl.coupe",
+        "Name": "Mercedes-Benz 300 SL Coupe",
+        "CarClass": "roadcoupe",
+        "Vendor": "mercedes",
+        "Year": 1954,
+        "Power": 241
+    },
+    {
+        "UniqueName": "mg.mga.twincam",
+        "Name": "MG MGA Twin-Cam",
+        "CarClass": "roadcoupe",
+        "Vendor": "mg",
+        "Year": 1958,
+        "Power": 108
+    },
+    {
+        "UniqueName": "porsche.550.spyder",
+        "Name": "Porsche 550 Spyder",
+        "CarClass": "roadcoupe",
+        "Vendor": "porsche",
+        "Year": 1955,
+        "Power": 109
+    },
+    {
+        "UniqueName": "porsche.356a.speedster",
+        "Name": "Porsche 356A Speedster",
+        "CarClass": "roadcoupe",
+        "Vendor": "porsche",
+        "Year": 1957,
+        "Power": 60
+    },
+    {
+        "UniqueName": "toyota.2000gt",
+        "Name": "Toyota 2000GT",
+        "CarClass": "roadcoupe",
+        "Vendor": "toyota",
+        "Year": 1969,
+        "Power": 150
+    },
+    {
+        "UniqueName": "alfaromeo.4c.14",
+        "Name": "Alfa Romeo 4C",
+        "CarClass": "roadcoupe",
+        "Vendor": "alfa.romeo",
+        "Year": 2014,
+        "Power": 240
+    },
+    {
+        "UniqueName": "alpine.a110.17",
+        "Name": "Alpine A110",
+        "CarClass": "roadcoupe",
+        "Vendor": "alpine",
+        "Year": 2017,
+        "Power": 248
+    },
+    {
+        "UniqueName": "audi.ttrs",
+        "Name": "Audi TT RS",
+        "CarClass": "roadcoupe",
+        "Vendor": "audi",
+        "Year": 2018,
+        "Power": 350
+    },
+    {
+        "UniqueName": "audi.ttrs.coupe.20",
+        "Name": "Audi TT RS Coupe",
+        "CarClass": "roadcoupe",
+        "Vendor": "audi",
+        "Year": 2020,
+        "Power": 394
+    },
+    {
+        "UniqueName": "audi.rs3.sedan",
+        "Name": "Audi RS3 Sedan",
+        "CarClass": "roadcoupe",
+        "Vendor": "audi",
+        "Year": 2020,
+        "Power": 394
+    },
+    {
+        "UniqueName": "bmw.1series.mcoupe",
+        "Name": "BMW 1 Sereis M Coupe",
+        "CarClass": "roadcoupe",
+        "Vendor": "bmw",
+        "Year": 2011,
+        "Power": 335
+    },
+    {
+        "UniqueName": "bmw.z4.roadster.19",
+        "Name": "BMW Z4 Roadster",
+        "CarClass": "roadcoupe",
+        "Vendor": "bmw",
+        "Year": 2019,
+        "Power": 382
+    },
+    {
+        "UniqueName": "bmw.m2.competitioncoupe",
+        "Name": "BMW M2 Competition Coupe",
+        "CarClass": "roadcoupe",
+        "Vendor": "bmw",
+        "Year": 2020,
+        "Power": 405
+    },
+    {
+        "UniqueName": "bmw.m2.23",
+        "Name": "BMW M2",
+        "CarClass": "roadcoupe",
+        "Vendor": "bmw",
+        "Year": 2023,
+        "Power": 453
+    },
+    {
+        "UniqueName": "jaguar.ftyper.coupe",
+        "Name": "Jaguar F-Type R Coupe",
+        "CarClass": "roadcoupe",
+        "Vendor": "jaguar",
+        "Year": 2015,
+        "Power": 550
+    },
+    {
+        "UniqueName": "lexus.rcf.15",
+        "Name": "Lexus RC F",
+        "CarClass": "roadcoupe",
+        "Vendor": "lexus",
+        "Year": 2015,
+        "Power": 467
+    },
+    {
+        "UniqueName": "lexus.rcf.trackedition",
+        "Name": "Lexus RC F Track Edition",
+        "CarClass": "roadcoupe",
+        "Vendor": "lexus",
+        "Year": 2020,
+        "Power": 472
+    },
+    {
+        "UniqueName": "lotus.evoras.11",
+        "Name": "Lotus Evora S",
+        "CarClass": "roadcoupe",
+        "Vendor": "lotus",
+        "Year": 2011,
+        "Power": 345
+    },
+    {
+        "UniqueName": "lotus.evora.gt430",
+        "Name": "Lotus Evora GT430",
+        "CarClass": "roadcoupe",
+        "Vendor": "lotus",
+        "Year": 2018,
+        "Power": 430
+    },
+    {
+        "UniqueName": "mecedes.benz.slk55amg",
+        "Name": "Mercedes-Benz SLK 55 AMG",
+        "CarClass": "roadcoupe",
+        "Vendor": "mercedes",
+        "Year": 2012,
+        "Power": 415
+    },
+    {
+        "UniqueName": "nissan.370z.nismo.19",
+        "Name": "Nissan 370Z Nismo",
+        "CarClass": "roadcoupe",
+        "Vendor": "nissan",
+        "Year": 2019,
+        "Power": 350
+    },
+    {
+        "UniqueName": "nissan.z.23",
+        "Name": "Nissan Z",
+        "CarClass": "roadcoupe",
+        "Vendor": "nissan",
+        "Year": 2023,
+        "Power": 400
+    },
+    {
+        "UniqueName": "porsche.cayman.gts",
+        "Name": "Porsche Cayman GTS",
+        "CarClass": "roadcoupe",
+        "Vendor": "porsche",
+        "Year": 2015,
+        "Power": 340
+    },
+    {
+        "UniqueName": "porsche.718cayman.gts",
+        "Name": "Porsche 718 Cayman GTS",
+        "CarClass": "roadcoupe",
+        "Vendor": "porsche",
+        "Year": 2018,
+        "Power": 361
+    },
+    {
+        "UniqueName": "porsche.718cayman.gt4rs",
+        "Name": "Porsche 718 Cayman GT4 RS",
+        "CarClass": "roadcoupe",
+        "Vendor": "porsche",
+        "Year": 2022,
+        "Power": 493
+    },
+    {
+        "UniqueName": "toyota.grsupra5",
+        "Name": "Toyota GR Supra",
+        "CarClass": "roadcoupe",
+        "Vendor": "toyota",
+        "Year": 2020,
+        "Power": 335
+    },
+    {
+        "UniqueName": "porsche.cayman.gt4",
+        "Name": "Porsche Cayman GT4",
+        "CarClass": "roadcoupe",
+        "Vendor": "porsche",
+        "Year": 2016,
+        "Power": 385
+    }
+]

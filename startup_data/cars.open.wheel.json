@@ -1,0 +1,53 @@
+[
+    {
+        "UniqueName": "lotus.type.22",
+        "Name": "Lotus Type 22",
+        "CarClass": "open.wheel",
+        "Vendor": "lotus",
+        "Year": 1962,
+        "Power": 100,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "minelli.formula.inter.mg15",
+        "Name": "Minelli Formula Inter MG-15",
+        "CarClass": "open.wheel",
+        "Year": 2015,
+        "Power": 161,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "formula.vee.gen1",
+        "Name": "Formula Vee Gen 1",
+        "CarClass": "open.wheel",
+        "Year": 2011,
+        "Power": 93,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "formula.vee.fin",
+        "Name": "Formula Vee Fin",
+        "CarClass": "open.wheel",
+        "Year": 2019,
+        "Power": 93,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "formula.vee.gen2",
+        "Name": "Formula Vee Gen2",
+        "CarClass": "open.wheel",
+        "Year": 2025,
+        "Power": 96,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

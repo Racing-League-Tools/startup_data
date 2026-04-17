@@ -1,0 +1,242 @@
+[
+    {
+        "UniqueName": "amc.rebel.machine",
+        "Name": "AMC Rebel 'The Machine'",
+        "CarClass": "roadmuscle",
+        "Vendor": "amc",
+        "Year": 1970,
+        "Power": 340
+    },
+    {
+        "UniqueName": "buick.gsx.70",
+        "Name": "Buick GSX",
+        "CarClass": "roadmuscle",
+        "Vendor": "buick",
+        "Year": 1970,
+        "Power": 360
+    },
+    {
+        "UniqueName": "chevrolet.novass.396",
+        "Name": "Chevrolet Nova Super Sport 396",
+        "CarClass": "roadmuscle",
+        "Vendor": "chevrolet",
+        "Year": 1969,
+        "Power": 375
+    },
+    {
+        "UniqueName": "chevrolet.chevelless.454",
+        "Name": "Chevrolet Chevelle Super Sport 454",
+        "CarClass": "roadmuscle",
+        "Vendor": "chevrolet",
+        "Year": 1970,
+        "Power": 450
+    },
+    {
+        "UniqueName": "chrysler.vhvaliantcharger.rte49",
+        "Name": "Chrysler VH Valiant Charger R/T E49",
+        "CarClass": "roadmuscle",
+        "Vendor": "chrysler",
+        "Year": 1972,
+        "Power": 302
+    },
+    {
+        "UniqueName": "dodge.coronet.superbee",
+        "Name": "Dodge Coronet Super Bee",
+        "CarClass": "roadmuscle",
+        "Vendor": "dodge",
+        "Year": 1970,
+        "Power": 425
+    },
+    {
+        "UniqueName": "dodge.challenger.rt.70",
+        "Name": "Dodge Challenger R/T (1970)",
+        "CarClass": "roadmuscle",
+        "Vendor": "dodge",
+        "Year": 1970,
+        "Power": 425
+    },
+    {
+        "UniqueName": "holden.monaro.gts327",
+        "Name": "Holden Monaro GTS 327",
+        "CarClass": "roadmuscle",
+        "Vendor": "holden",
+        "Year": 1968,
+        "Power": 249
+    },
+    {
+        "UniqueName": "oldsmobile.hurstolds.442",
+        "Name": "Oldsmobile Hurst/Olds 442",
+        "CarClass": "roadmuscle",
+        "Vendor": "oldsmobile",
+        "Year": 1969,
+        "Power": 384
+    },
+    {
+        "UniqueName": "plymouth.gtx426.hemi",
+        "Name": "Plymouth GTX 426 HEMI",
+        "CarClass": "roadmuscle",
+        "Vendor": "plymouth",
+        "Year": 1971,
+        "Power": 425
+    },
+    {
+        "UniqueName": "pontiac.gto.judge",
+        "Name": "Pontiac GTO Judge",
+        "CarClass": "roadmuscle",
+        "Vendor": "pontiac",
+        "Year": 1969,
+        "Power": 365
+    },
+    {
+        "UniqueName": "amc.javelin.amx",
+        "Name": "AMC Javelin AMX",
+        "CarClass": "roadmuscle",
+        "Vendor": "amc",
+        "Year": 1971,
+        "Power": 330
+    },
+    {
+        "UniqueName": "chevrolet.corvette.stingray427.67",
+        "Name": "Chevrolet Corvette Stingray 427",
+        "CarClass": "roadmuscle",
+        "Vendor": "chevrolet",
+        "Year": 1967,
+        "Power": 435
+    },
+    {
+        "UniqueName": "chevrolet.camaross.coupe.69",
+        "Name": "Chevrolet Camaro Super Sport Coupe",
+        "CarClass": "roadmuscle",
+        "Vendor": "chevrolet",
+        "Year": 1969,
+        "Power": 375
+    },
+    {
+        "UniqueName": "chevrolet.camaro.jl3.me",
+        "Name": "Chevrolet Camaro jordan Luka 3 Motorsport Edition",
+        "CarClass": "roadmuscle",
+        "Vendor": "chevrolet",
+        "Year": 1969,
+        "Power": 525
+    },
+    {
+        "UniqueName": "chevrolet.camaro.z28",
+        "Name": "Chevrolet Camaro Z28",
+        "CarClass": "roadmuscle",
+        "Vendor": "chevrolet",
+        "Year": 1970,
+        "Power": 360
+    },
+    {
+        "UniqueName": "chevrolet.corvette.zr1.70",
+        "Name": "Chevrolet Corvette ZR1 (1970)",
+        "CarClass": "roadmuscle",
+        "Vendor": "chevrolet",
+        "Year": 1970,
+        "Power": 370
+    },
+    {
+        "UniqueName": "dodge.charger.daytona.hemi",
+        "Name": "Dodge Charger Daytona HEMI",
+        "CarClass": "roadmuscle",
+        "Vendor": "dodge",
+        "Year": 1969,
+        "Power": 425
+    },
+    {
+        "UniqueName": "dodge.chargerrt.69",
+        "Name": "Dodge Charger R/T (1969)",
+        "CarClass": "roadmuscle",
+        "Vendor": "dodge",
+        "Year": 1969,
+        "Power": 425
+    },
+    {
+        "UniqueName": "ford.mustang.gtcoupe",
+        "Name": "Ford Mustang GT Coupe",
+        "CarClass": "roadmuscle",
+        "Vendor": "ford",
+        "Year": 1965,
+        "Power": 271
+    },
+    {
+        "UniqueName": "ford.mustanggt.22fastback",
+        "Name": "Ford Mustang GT 2+2 Fastback",
+        "CarClass": "roadmuscle",
+        "Vendor": "ford",
+        "Year": 1968,
+        "Power": 325
+    },
+    {
+        "UniqueName": "ford.mustang.boss302",
+        "Name": "Ford Mustang Boss 302",
+        "CarClass": "roadmuscle",
+        "Vendor": "ford",
+        "Year": 1969,
+        "Power": 290
+    },
+    {
+        "UniqueName": "ford.falcon.xa.gtho",
+        "Name": "Ford Falcon XA GT-HO",
+        "CarClass": "roadmuscle",
+        "Vendor": "ford",
+        "Year": 1972,
+        "Power": 410
+    },
+    {
+        "UniqueName": "ford.xbfalcon.gt",
+        "Name": "Ford XB Falcon GT",
+        "CarClass": "roadmuscle",
+        "Vendor": "ford",
+        "Year": 1973,
+        "Power": 300
+    },
+    {
+        "UniqueName": "holden.hqmonaro.gts350",
+        "Name": "Holden HQ Monaro GTS 350",
+        "CarClass": "roadmuscle",
+        "Vendor": "holden",
+        "Year": 1973,
+        "Power": 275
+    },
+    {
+        "UniqueName": "mercury.cougar.eliminator",
+        "Name": "Mercury Cougar Eliminator",
+        "CarClass": "roadmuscle",
+        "Vendor": "mercury",
+        "Year": 1970,
+        "Power": 335
+    },
+    {
+        "UniqueName": "plymouth.cuda.426hemi",
+        "Name": "Plymouth Cuda 426 HEMI",
+        "CarClass": "roadmuscle",
+        "Vendor": "plymouth",
+        "Year": 1971,
+        "Power": 425
+    },
+    {
+        "UniqueName": "pontiac.firebirdta.69",
+        "Name": "Pontiac Firebird Trans Am",
+        "CarClass": "roadmuscle",
+        "Vendor": "pontiac",
+        "Year": 1969,
+        "Power": 345
+    },
+    {
+        "UniqueName": "pontiac.firebird.tasd455",
+        "Name": "Pontiac Firebird Trans Am SD-455",
+        "CarClass": "roadmuscle",
+        "Vendor": "pontiac",
+        "Year": 1973,
+        "Power": 372
+    },
+    {
+        "UniqueName": "shelby.gt500",
+        "Name": "Shelby GT 500",
+        "CarClass": "roadmuscle",
+        "Vendor": "shelby",
+        "Year": 1967,
+        "Power": 300
+    }
+]

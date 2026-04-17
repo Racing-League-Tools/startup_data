@@ -1,0 +1,299 @@
+[
+  {
+    "ActionType": "FastestLap",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "ChampionshipId": 0,
+    "Championship": "f1.2020",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "FastestLap",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P1",
+    "DriverPoints": 30,
+    "TeamPoints": 30,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 20,
+    "TeamPoints": 20,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2021",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "FastestLap",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P1",
+    "DriverPoints": 80,
+    "TeamPoints": 80,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 70,
+    "TeamPoints": 70,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 60,
+    "TeamPoints": 60,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 40,
+    "TeamPoints": 40,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 30,
+    "TeamPoints": 30,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 20,
+    "TeamPoints": 20,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2022",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P1",
+    "DriverPoints": 80,
+    "TeamPoints": 80,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 70,
+    "TeamPoints": 70,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 60,
+    "TeamPoints": 60,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 40,
+    "TeamPoints": 40,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 30,
+    "TeamPoints": 30,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 20,
+    "TeamPoints": 20,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 0,
+    "TeamPoints": 0,
+    "ChampionshipId": 0,
+    "Championship": "f1.2025",
+    "SessionType": "Race",
+    "RaceType": "Sprint"
+  }
+]

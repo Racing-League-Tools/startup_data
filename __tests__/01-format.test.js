@@ -1,0 +1,176 @@
+'use strict';
+
+const fs = require('fs');
+const path = require('path');
+const { loadAll, DATA_DIR, parseRelaxed, fmt } = require('./helpers/loader');
+
+let db;
+beforeAll(() => { db = loadAll(); });
+
+// ─────────────────────────────────────────────
+// 1. Every file in startup_data/ is valid JSON (after relaxed parsing: BOM, comments, trailing commas)
+// ─────────────────────────────────────────────
+describe('File format', () => {
+  const jsonFiles = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
+
+  it('every *.json file must parse as a JSON array (relaxed: BOM, comments, trailing commas allowed)', () => {
+    const nonArrayFiles = [];
+    for (const file of jsonFiles) {
+      let parsed;
+      try {
+        parsed = parseRelaxed(path.join(DATA_DIR, file));
+      } catch (e) {
+        nonArrayFiles.push(`${file}: ${e.message}`);
+        continue;
+      }
+      if (!Array.isArray(parsed)) {
+        nonArrayFiles.push(`${file}: root element is ${typeof parsed}, expected array`);
+      }
+    }
+    expect(fmt(nonArrayFiles)).toBe('');
+  });
+
+  it('files should not contain a UTF-8 BOM (byte order mark)', () => {
+    const bomFiles = jsonFiles.filter(file => {
+      const buf = fs.readFileSync(path.join(DATA_DIR, file));
+      return buf[0] === 0xEF && buf[1] === 0xBB && buf[2] === 0xBF;
+    });
+    expect(fmt(bomFiles)).toBe('');
+  });
+
+  it('files should be valid strict JSON (no comments, no trailing commas)', () => {
+    // Informational: shows which files rely on relaxed parsing features.
+    const strictFailures = [];
+    for (const file of jsonFiles) {
+      const raw = fs.readFileSync(path.join(DATA_DIR, file), 'utf8')
+        .replace(/^\uFEFF/, ''); // strip BOM only for this check
+      try {
+        JSON.parse(raw);
+      } catch (e) {
+        strictFailures.push(`${file}: ${e.message}`);
+      }
+    }
+    expect(fmt(strictFailures)).toBe('');
+  });
+});
+
+// ─────────────────────────────────────────────
+// 2. Required fields
+// ─────────────────────────────────────────────
+describe('Required fields', () => {
+
+  function missingField(records, ...fields) {
+    const violations = [];
+    for (const r of records) {
+      for (const f of fields) {
+        if (r[f] == null || r[f] === '') {
+          violations.push(`[${r._file}] ${JSON.stringify(r)} — missing required field "${f}"`);
+        }
+      }
+    }
+    return violations;
+  }
+
+  it('nations: Name is required', () => {
+    expect(fmt(missingField(db.nations, 'Name'))).toBe('');
+  });
+
+  it('car_classes: UniqueName and Name are required', () => {
+    expect(fmt(missingField(db.carClasses, 'UniqueName', 'Name'))).toBe('');
+  });
+
+  it('vendors: UniqueName and Name are required', () => {
+    expect(fmt(missingField(db.vendors, 'UniqueName', 'Name'))).toBe('');
+  });
+
+  it('games: UniqueName and Name are required', () => {
+    expect(fmt(missingField(db.games, 'UniqueName', 'Name'))).toBe('');
+  });
+
+  it('circuits: UniqueName and CircuitName are required', () => {
+    expect(fmt(missingField(db.circuits, 'UniqueName', 'CircuitName'))).toBe('');
+  });
+
+  it('cars: UniqueName and Name are required', () => {
+    expect(fmt(missingField(db.cars, 'UniqueName', 'Name'))).toBe('');
+  });
+
+  it('teams: UniqueName and Name are required', () => {
+    expect(fmt(missingField(db.teams, 'UniqueName', 'Name'))).toBe('');
+  });
+
+  it('drivers: Name is required', () => {
+    expect(fmt(missingField(db.drivers, 'Name'))).toBe('');
+  });
+
+  it('championships: UniqueName and Name are required', () => {
+    expect(fmt(missingField(db.championships, 'UniqueName', 'Name'))).toBe('');
+  });
+
+  it('lineups: Driver, Team, Championship and SeatType are required', () => {
+    expect(fmt(missingField(db.lineups, 'Driver', 'Team', 'Championship', 'SeatType'))).toBe('');
+  });
+
+  it('point_actions: ActionType, DriverPoints and SessionType are required', () => {
+    expect(fmt(missingField(db.pointActions, 'ActionType', 'SessionType'))).toBe('');
+  });
+});
+
+// ─────────────────────────────────────────────
+// 3. Color format in teams: #FFrrggbb (ARGB hex, 9 chars)
+// ─────────────────────────────────────────────
+describe('Team color format', () => {
+  const ARGB_HEX = /^#[0-9A-Fa-f]{8}$/;
+
+  function invalidColors(field) {
+    const violations = [];
+    for (const t of db.teams) {
+      const val = t[field];
+      if (val == null) continue; // optional field
+      if (!ARGB_HEX.test(val)) {
+        violations.push(`[${t._file}] Team "${t.UniqueName}" — ${field}: "${val}" is not a valid #FFrrggbb ARGB hex`);
+      }
+    }
+    return violations;
+  }
+
+  it('teams.Color must be #FFrrggbb when present', () => {
+    expect(fmt(invalidColors('Color'))).toBe('');
+  });
+
+  it('teams.SecondaryColor must be #FFrrggbb when present', () => {
+    expect(fmt(invalidColors('SecondaryColor'))).toBe('');
+  });
+
+  it('teams.TertiaryColor must be #FFrrggbb when present', () => {
+    expect(fmt(invalidColors('TertiaryColor'))).toBe('');
+  });
+});
+
+// ─────────────────────────────────────────────
+// 4. Lineup seat logic
+// ─────────────────────────────────────────────
+describe('Lineup seat logic', () => {
+  it('SeatType must be "Primary" or "Reserve"', () => {
+    const violations = db.lineups
+      .filter(l => l.SeatType !== 'Primary' && l.SeatType !== 'Reserve')
+      .map(l => `[${l._file}] Driver "${l.Driver}" — SeatType "${l.SeatType}" is invalid`);
+    expect(fmt(violations)).toBe('');
+  });
+
+  it('Primary seats: SeatPosition >= 1 and ReservePosition == 0', () => {
+    const violations = db.lineups
+      .filter(l => l.SeatType === 'Primary')
+      .filter(l => l.SeatPosition < 1 || l.ReservePosition !== 0)
+      .map(l => `[${l._file}] Driver "${l.Driver}" (Primary) — SeatPosition=${l.SeatPosition}, ReservePosition=${l.ReservePosition}`);
+    expect(fmt(violations)).toBe('');
+  });
+
+  it('Reserve seats: SeatPosition == 0 and ReservePosition >= 1', () => {
+    const violations = db.lineups
+      .filter(l => l.SeatType === 'Reserve')
+      .filter(l => l.SeatPosition !== 0 || l.ReservePosition < 1)
+      .map(l => `[${l._file}] Driver "${l.Driver}" (Reserve) — SeatPosition=${l.SeatPosition}, ReservePosition=${l.ReservePosition}`);
+    expect(fmt(violations)).toBe('');
+  });
+});

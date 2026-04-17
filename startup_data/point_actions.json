@@ -1,0 +1,62 @@
+[
+  {
+    "ActionType": "P1",
+    "DriverPoints": 250,
+    "TeamPoints": 250,
+    "SessionType": "Race"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 180,
+    "TeamPoints": 180,
+    "SessionType": "Race"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 150,
+    "TeamPoints": 150,
+    "SessionType": "Race"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 120,
+    "TeamPoints": 120,
+    "SessionType": "Race"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 100,
+    "TeamPoints": 100,
+    "SessionType": "Race"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 80,
+    "TeamPoints": 80,
+    "SessionType": "Race"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 60,
+    "TeamPoints": 60,
+    "SessionType": "Race"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 40,
+    "TeamPoints": 40,
+    "SessionType": "Race"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 20,
+    "TeamPoints": 20,
+    "SessionType": "Race"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "SessionType": "Race"
+  }
+]

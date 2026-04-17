@@ -1,0 +1,218 @@
+[
+  {
+    "SeatType": "Primary",
+    "Team": "aj.foyt.enterprises.2026",
+    "Driver": "Caio Collet",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "aj.foyt.enterprises.2026",
+    "Driver": "Santino Ferrucci",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "andretti.global.indy.2026",
+    "Driver": "Will Power",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "andretti.global.indy.2026",
+    "Driver": "Kyle Kirkwood",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "andretti.global.indy.2026",
+    "Driver": "Marcus Ericsson",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "arrows.mclaren.2026",
+    "Driver": "Pato O'Ward",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "arrows.mclaren.2026",
+    "Driver": "Nolan Siegel",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "arrows.mclaren.2026",
+    "Driver": "Christian Lundgaard",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "chip.ganassi.racing.2026",
+    "Driver": "Kyffin Simpson",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "chip.ganassi.racing.2026",
+    "Driver": "Scott Dixon",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "chip.ganassi.racing.2026",
+    "Driver": "Alex Palou",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "dale.coyne.racing.2026",
+    "Driver": "Romain Grosjean",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "dale.coyne.racing.2026",
+    "Driver": "Dennis Hauger",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "ed.carpenter.racing.2026",
+    "Driver": "Alexander Rossi",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "ed.carpenter.racing.2026",
+    "Driver": "Christian Rasmussen",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "juncos.hollinger.racing.2026",
+    "Driver": "Rinus VeeKay",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "juncos.hollinger.racing.2026",
+    "Driver": "Sting Ray Robb",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "meyer.shank.2026",
+    "Driver": "Felix Rosenqvist",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "meyer.shank.2026",
+    "Driver": "Marcus Armstrong",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "rahal.racing.2026",
+    "Driver": "Graham Rahal",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "rahal.racing.2026",
+    "Driver": "Louis Foster",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "rahal.racing.2026",
+    "Driver": "Mick Schumacher",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "team.penske.2026",
+    "Driver": "Josef Newgarden",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "team.penske.2026",
+    "Driver": "Scott McLaughlin",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "team.penske.2026",
+    "Driver": "David Malukas",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "meyer.shank.2026",
+    "Driver": "Helio Castroneves",
+    "SeatPosition": 0,
+    "ReservePosition": 1,
+    "Championship": "indycar"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "arrows.mclaren.2026",
+    "Driver": "Ryan Hunter-Reay",
+    "SeatPosition": 0,
+    "ReservePosition": 2,
+    "Championship": "indycar"
+  }
+]

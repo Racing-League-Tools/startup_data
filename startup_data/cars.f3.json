@@ -1,0 +1,24 @@
+[
+    {
+        "UniqueName": "dallara.f301",
+        "Name": "Dallara F301",
+        "CarClass": "f3",
+        "Vendor": "dallara",
+        "Year": 2001,
+        "Power": 260,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "dallara.f309",
+        "Name": "Dallara F309",
+        "CarClass": "f3",
+        "Vendor": "dallara",
+        "Year": 2009,
+        "Power": 260,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

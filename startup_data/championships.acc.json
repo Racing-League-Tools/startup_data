@@ -1,0 +1,118 @@
+﻿[
+    {
+        "UniqueName": "acc",
+        "Name": "ACC",
+        "BaseChampionship": "acc",
+        "Games": ["assetto.corsa.competizione"],
+      "Cars": [
+        "aston.v12.vantage.gt3",
+        "aston.v8.gt3",
+        "audi.r8.lms.gt3",
+        "audi.r8lms.evo",
+        "bentley.continental.gt3.2015",
+        "bentley.continental.gt3.2018",
+        "bmw.m6.gt3",
+        "jaguar.gt3",
+        "ferrari.488.gt3",
+        "ferrari.488.gt3.evo",
+        "honda.nsx.gt3",
+        "honda.nsx.gt3.evo",
+        "lamborghini.huracan.gt3",
+        "lamborghini.huracan.gt3.evo",
+        "lamborghini.huracan.st",
+        "lexus.rcf.gt3",
+        "mclaren.650s.gt3",
+        "mclaren.720s.gt3",
+        "mercedes.amg.gt3",
+        "mercedes.gt3.evo.2020",
+        "nissan.gtr.nismo.gt3.2015",
+        "nissan.gtr.nismo.gt3.2018",
+        "porsche.991.gt3.r",
+        "porsche.991.2.gt3.cup",
+        "porsche.991.2.gt3.r",
+        "reiter.rex.gt3",
+        "alpine.a110.gt4",
+        "aston.v8.vantage.gt4",
+        "audi.r8.lms.gt4",
+        "bmw.m4.gt4",
+        "chevrolet.camaro.gt4.r",
+        "ginetta.g55.gt4",
+        "ktm.xbow.gt4",
+        "maserati.granturismo.mc.gt4",
+        "mclaren.570s.gt4",
+        "mercedes.amg.gt4",
+        "porsche.718.cayman.gt4.clubsport",
+        "bmw.m2.cs",
+        "bmw.m4.gt3",
+        "porsche.992.gt3.cup",
+        "lamborghini.huracan.st.evo2",
+        "audi.r8lms.evo2",
+        "ferrari.488.challenge.evo",
+        "ferrari.296.gt3",
+        "porsche.992.gt3.cup",
+        "lamborghini.huracan.gt3.evo2",
+        "mclaren.720s.gt3.evo",
+        "audi.r8.lms.gt2",
+        "ktm.xbow.gt2",
+        "maserati.gt2",
+        "mercedes.amg.gt2",
+        "porsche.935.gt2",
+        "porsche.991.2.gt2.rs.cs.evo",
+        "ford.mustang.gt3"
+      ],
+        "Teams": [],
+        "Tracks": [
+            "suzuka.2003",
+            "zandvoort.2020",
+            "silverstone.2011",
+            "zolder",
+            "barcelona.2007",
+            "hungaroring.2003",
+            "nurburgring.2002",
+            "nurburgring.endurance",
+            "spa.2007",
+            "misano.2008",
+            "paulricard.1a.2005",
+            "brands.hatch.2003",
+            "monza.2000",
+            "kyalami.2015",
+            "laguna.seca.1996",
+            "mount.panorama.1987",
+            "donington.1986",
+            "oulton.2003",
+            "snetterton.2011",
+            "austin.2012",
+            "indianapolis.gp.2014",
+            "watkins.glen.1992",
+            "imola.2008",
+            "ricardo.tormo.1999",
+            "spielberg.2016"
+        ],
+
+        "EventFormat": {
+            "Presets": [
+                {
+                    "Name": "Default",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        "GridSize": 20,
+        "SeatsPerTeam": 2,
+        "SeatsReserve": 20,
+        "FastestLapPointsPositionEdge": -1,
+        "IgnoreWorstEventsEachDriver": 0,
+        "LineupsBasedType": "Cars",
+        "IsMinorRacesEqualsMajor": true
+    }
+]

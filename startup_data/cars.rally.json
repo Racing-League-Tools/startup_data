@@ -1,0 +1,57 @@
+[
+    {
+        "UniqueName": "citroen.ds3.rx",
+        "Name": "Citroen DS3 RX",
+        "CarClass": "rally",
+        "Vendor": "citroen",
+        "Year": 2013,
+        "Power": 595,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mini.countryman.r60.rx",
+        "Name": "Mini Countryman R60 RX",
+        "CarClass": "rally",
+        "Vendor": "mini",
+        "Year": 2013,
+        "Power": 595,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mitisubishi.lancer.evox.rx",
+        "Name": "Mitsubishi Lancer Evo X RX",
+        "CarClass": "rally",
+        "Vendor": "mitsubishi",
+        "Year": 2013,
+        "Power": 595,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "volkswagen.polo.rx",
+        "Name": "Volkswagen Polo RX",
+        "CarClass": "rally",
+        "Vendor": "volkswagen",
+        "Year": 2016,
+        "Power": 595,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "stadium.super.truck",
+        "Name": "Stadium Super Truck",
+        "CarClass": "rally",
+        "Vendor": "chevrolet",
+        "Year": 2013,
+        "Power": 600,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "UniqueName": "nissan.r390.gt1",
+        "Name": "Nissan R390 GT1",
+        "CarClass": "gt1classic",
+        "Vendor": "nissan",
+        "Year": 1998,
+        "Power": 550,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mclaren.f1.gtr.longtail",
+        "Name": "McLaren F1 GTR Longtail",
+        "CarClass": "gt1classic",
+        "Vendor": "mclaren",
+        "Year": 1997,
+        "Power": 581,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mercedes.benz.clk.lm",
+        "Name": "Mercedes-Benz CLK LM",
+        "CarClass": "gt1classic",
+        "Vendor": "mercedes",
+        "Year": 1998,
+        "Power": 597,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "porsche.911.gt1",
+        "Name": "Porsche 911 GT1",
+        "CarClass": "gt1classic",
+        "Vendor": "porsche",
+        "Year": 1998,
+        "Power": 554,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ferrari.f50gt.1996",
+        "Name": "Ferrari F50 GT",
+        "CarClass": "gt1classic",
+        "Vendor": "ferrari",
+        "Year": 1996,
+        "Power": 750,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mclaren.f1.gt.1997",
+        "Name": "McLaren F1 GT",
+        "CarClass": "gt1classic",
+        "Vendor": "mclaren",
+        "Year": 1997,
+        "Power": 618,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mercedes.benz.amg.clkgtr",
+        "Name": "Mercedes-Benz AMG CLK GTR",
+        "CarClass": "gt1classic",
+        "Vendor": "mercedes",
+        "Year": 1998,
+        "Power": 622,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

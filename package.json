@@ -1,0 +1,12 @@
+{
+  "name": "startup-data-validation",
+  "version": "1.0.0",
+  "description": "Integrity validation tests for startup_data JSON files",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "glob": "^10.4.5"
+  }
+}

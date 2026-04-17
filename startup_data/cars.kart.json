@@ -1,0 +1,64 @@
+[
+    {
+        "UniqueName": "kartcross",
+        "Name": "Kartcross",
+        "CarClass": "kart",
+        "Year": 2016,
+        "Power": 133,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "kart.2stroke.125cc",
+        "Name": "Kart 2-Stroke 125cc",
+        "CarClass": "kart",
+        "Year": 2016,
+        "Power": 32,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "kart.4stroke.gx390.race",
+        "Name": "Kart 4-Stroke GX390 Race",
+        "CarClass": "kart",
+        "Vendor": "honda",
+        "Year": 2016,
+        "Power": 11,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "kart.4stroke.gx390.rental",
+        "Name": "Kart 4-Stroke GX390 Rental",
+        "CarClass": "kart",
+        "Vendor": "honda",
+        "Year": 2016,
+        "Power": 12,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "kart.125cc.shifter",
+        "Name": "Kart 125cc Shifter",
+        "CarClass": "kart",
+        "Year": 2016,
+        "Power": 34,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "kart.super.250cc",
+        "Name": "Super Kart 250cc",
+        "CarClass": "kart",
+        "Year": 2019,
+        "Power": 93,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

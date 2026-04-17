@@ -1,0 +1,68 @@
+[
+    {
+        "UniqueName": "chevrolet.nascar.ng.camaro.zl1",
+        "Name": "Chevrolet NASCAR Next Gen Camaro ZL1",
+        "CarClass": "nascar",
+        "Vendor": "chevrolet",
+        "Year": 2024,
+        "Power": 670,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ford.nascar.ng.mustang.darkhorse",
+        "Name": "Ford NASCAR Next Gen Mustang Dark Horse",
+        "CarClass": "nascar",
+        "Vendor": "ford",
+        "Year": 2024,
+        "Power": 670,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "toyota.nascar.ng.camry.xse",
+        "Name": "Toyota NASCAR Next Gen Camry XSE",
+        "CarClass": "nascar",
+        "Vendor": "toyota",
+        "Year": 2024,
+        "Power": 670,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.monte.carlo.nascar",
+        "Name": "Chevrolet Monte Carlo NASCAR",
+        "CarClass": "nascar",
+        "Vendor": "chevrolet",
+        "Year": 1983,
+        "Power": 700,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.lumina.nascar",
+        "Name": "Chevrolet Lumina NASCAR",
+        "CarClass": "nascar",
+        "Vendor": "chevrolet",
+        "Year": 1989,
+        "Power": 700,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.nascar.ng.camaro.zl1.lm",
+        "Name": "Chevrolet LM NASCAR Next Gen Camaro ZL1",
+        "CarClass": "nascar",
+        "Vendor": "chevrolet",
+        "Year": 2023,
+        "Power": 670,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

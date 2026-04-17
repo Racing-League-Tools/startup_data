@@ -1,0 +1,132 @@
+[
+    {
+        "UniqueName": "indycar.2026",
+        "Name": "IndyCar 2026",
+        "BaseChampionship": "indycar",
+        "Games": [
+            "iracing"
+        ],
+        "Cars": [
+            "chevrolet.indycar.2025",
+            "honda.indycar.2025",
+            "dallara.ir18"
+        ],
+        "Teams": [
+            "aj.foyt.enterprises.2026",
+            "andretti.global.indy.2026",
+            "arrows.mclaren.2026",
+            "chip.ganassi.racing.2026",
+            "dale.coyne.racing.2026",
+            "ed.carpenter.racing.2026",
+            "juncos.hollinger.racing.2026",
+            "meyer.shank.2026",
+            "rahal.racing.2026",
+            "team.penske.2026"
+        ],
+        "Tracks": [
+            "laguna.seca.1996",
+            "indianapolis.gp.2014",
+            "indianapolis.oval.1909",
+            "road.america.1955",
+            "mid.ohio.1990",
+            "saint.petersburg.2003",
+            "phoenix.raceway.2011",
+            "arlington.streets.2026",
+            "barber.motorsport.park.2003",
+            "long.beach.2017",
+            "detroid.street.2023",
+            "gateway.motorsport.park.1997",
+            "nashville.superspeedway.2001",
+            "portland.international.2008",
+            "markham.centre.2026",
+            "milwaukee.mile.1945"
+        ],
+        "RacesCount": 1,
+        "QualsCount": 1,
+        "PracticesCount": 0,
+        "RaceType1": "Regular",
+        "RaceType2": "Regular",
+        "RaceType3": "Regular",
+        "QualType1": "Regular",
+        "QualType2": "Regular",
+        "QualType3": "Regular",
+        "GridSize": 33,
+        "SeatsPerTeam": 2,
+        "SeatsReserve": 20,
+        "EventFormat": {
+            "Presets": [
+                {
+                    "Name": "Default",
+                    "Sessions": [
+                        {
+                            "SessionType": "Practice",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Practice",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Practice",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Indy 500",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q1"
+                        },
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q2"
+                        },
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q3"
+                        },
+                        {
+                            "SessionType": "Practice",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                }
+            ]
+        },
+        "FastestLapPointsPositionEdge": 0,
+        "IgnoreWorstEventsEachDriver": 0,
+        "LineupsBasedType": "Teams",
+        "IsMinorRacesEqualsMajor": false,
+        "MaxTimePercentQualClassificationCriteria": 0,
+        "MinTimePercentRaceClassificationCriteria": 0,
+        "MinLapsRaceClassificationCriteria": 0,
+        "MinLapsPercentRaceClassificationCriteria": 0,
+        "MinTimeMinutesRaceClassificationCriteria": 0,
+        "MinDistanceMetersRaceClassificationCriteria": 0,
+        "MinDistancePercentRaceClassificationCriteria": 0
+    }
+]

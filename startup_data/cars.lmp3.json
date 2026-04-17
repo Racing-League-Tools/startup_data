@@ -1,0 +1,60 @@
+[
+    {
+        "UniqueName": "ligier.js.p3",
+        "Name": "Ligier JS P3",
+        "CarClass": "lmp3",
+        "Vendor": "ligier",
+        "Year": 2016,
+        "Power": 420,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ligier.js.p325",
+        "Name": "Ligier JS P325",
+        "CarClass": "lmp3",
+        "Vendor": "ligier",
+        "Year": 2025,
+        "Power": 470,
+        "AliasesRaw": "Ligier JS P325",
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ginetta.g61lt.p325.evo",
+        "Name": "Ginetta G61-LT-P325 Evo",
+        "CarClass": "lmp3",
+        "Vendor": "ginetta",
+        "Year": 2025,
+        "Power": 455,
+        "AliasesRaw": "Ginetta G61-LT-P325 Evo",
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "duqueine.d09.p3",
+        "Name": "Duqueine D09 P3",
+        "CarClass": "lmp3",
+        "Vendor": "duqueine",
+        "Year": 2025,
+        "Power": 460,
+        "AliasesRaw": "Duqueine D09 P3",
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ligier.js.p320",
+        "Name": "Ligier JS P320",
+        "CarClass": "lmp3",
+        "Vendor": "ligier",
+        "Year": 2020,
+        "Power": 588,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

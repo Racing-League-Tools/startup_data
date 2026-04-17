@@ -1,0 +1,101 @@
+[
+    {
+        "UniqueName": "chevrolet.copa.montana",
+        "Name": "Chevrolet Copa Montana",
+        "CarClass": "stock.car",
+        "Vendor": "chevrolet",
+        "Year": 2010,
+        "Power": 369,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.opala.sc.1979",
+        "Name": "Chevrolet Opala SC (1979)",
+        "CarClass": "stock.car",
+        "Vendor": "chevrolet",
+        "Year": 1979,
+        "Power": 176,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.opala.sc.1986",
+        "Name": "Chevrolet Opala SC (1986)",
+        "CarClass": "stock.car",
+        "Vendor": "chevrolet",
+        "Year": 1986,
+        "Power": 248,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.omega.sc",
+        "Name": "Chevrolet Omega SC",
+        "CarClass": "stock.car",
+        "Vendor": "chevrolet",
+        "Year": 1999,
+        "Power": 338,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.cruze.sc.2019",
+        "Name": "Chevrolet Cruze SC (2019)",
+        "CarClass": "stock.car",
+        "Vendor": "chevrolet",
+        "Year": 2019,
+        "Power": 473,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.cruze.sc.2020",
+        "Name": "Chevrolet Cruze SC (2020)",
+        "CarClass": "stock.car",
+        "Vendor": "chevrolet",
+        "Year": 2020,
+        "Power": 473,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.cruze.sc.2023",
+        "Name": "Chevrolet Cruze SC (2023)",
+        "CarClass": "stock.car",
+        "Vendor": "chevrolet",
+        "Year": 2023,
+        "Power": 473,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "toyota.corolla.sc.2020",
+        "Name": "Toyota Corolla SC (2020)",
+        "CarClass": "stock.car",
+        "Vendor": "toyota",
+        "Year": 2020,
+        "Power": 473,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "toyota.corolla.sc.2023",
+        "Name": "Toyota Corolla SC (2023)",
+        "CarClass": "stock.car",
+        "Vendor": "toyota",
+        "Year": 2023,
+        "Power": 473,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

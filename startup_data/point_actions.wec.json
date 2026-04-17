@@ -1,0 +1,281 @@
+[
+  {
+    "ActionType": "P1",
+    "DriverPoints": 250,
+    "TeamPoints": 250,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 180,
+    "TeamPoints": 180,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 150,
+    "TeamPoints": 150,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 120,
+    "TeamPoints": 120,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 100,
+    "TeamPoints": 100,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 80,
+    "TeamPoints": 80,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 60,
+    "TeamPoints": 60,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 40,
+    "TeamPoints": 40,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 20,
+    "TeamPoints": 20,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Regular"
+  },
+  {
+    "ActionType": "P1",
+    "DriverPoints": 500,
+    "TeamPoints": 500,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 360,
+    "TeamPoints": 360,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 300,
+    "TeamPoints": 300,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 240,
+    "TeamPoints": 240,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 200,
+    "TeamPoints": 200,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 160,
+    "TeamPoints": 160,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 120,
+    "TeamPoints": 120,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 80,
+    "TeamPoints": 80,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 40,
+    "TeamPoints": 40,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 20,
+    "TeamPoints": 20,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Main"
+  },
+  {
+    "ActionType": "P1",
+    "DriverPoints": 380,
+    "TeamPoints": 380,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 270,
+    "TeamPoints": 270,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 230,
+    "TeamPoints": 230,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 180,
+    "TeamPoints": 180,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 150,
+    "TeamPoints": 150,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 120,
+    "TeamPoints": 120,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 90,
+    "TeamPoints": 90,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 60,
+    "TeamPoints": 60,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 30,
+    "TeamPoints": 30,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 20,
+    "TeamPoints": 20,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Race",
+    "RaceType": "Feature"
+  },
+  {
+    "ActionType": "P1",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "ChampionshipId": 2,
+    "Championship": "wec",
+    "SessionType": "Qualification",
+    "QualificationType": "Q2"
+  }
+]

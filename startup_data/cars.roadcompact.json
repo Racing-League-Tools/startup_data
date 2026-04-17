@@ -1,0 +1,458 @@
+[
+    {
+        "UniqueName": "acura.integra.type.r",
+        "Name": "Acura Integra Type R",
+        "CarClass": "roadcompact",
+        "Vendor": "acura",
+        "Year": 2001,
+        "Power": 195
+    },
+    {
+        "UniqueName": "bmw.323ti.sport",
+        "Name": "BMW 323ti Sport",
+        "CarClass": "roadcompact",
+        "Vendor": "bmw",
+        "Year": 2000,
+        "Power": 168
+    },
+    {
+        "UniqueName": "bmw.z3mcoupe",
+        "Name": "BMW Z3 M Coupe",
+        "CarClass": "roadcompact",
+        "Vendor": "bmw",
+        "Year": 2002,
+        "Power": 315
+    },
+    {
+        "UniqueName": "dodge.stealthrt.turbo",
+        "Name": "Dodge Stealth R/T Turbo",
+        "CarClass": "roadcompact",
+        "Vendor": "dodge",
+        "Year": 1996,
+        "Power": 320
+    },
+    {
+        "UniqueName": "dodge.srt4acr",
+        "Name": "Dodge SRT-4 ACR",
+        "CarClass": "roadcompact",
+        "Vendor": "dodge",
+        "Year": 2005,
+        "Power": 230
+    },
+    {
+        "UniqueName": "eagle.talontsi.turbo",
+        "Name": "Eagle Talon TSi Turbo",
+        "CarClass": "roadcompact",
+        "Vendor": "eagle",
+        "Year": 1998,
+        "Power": 210
+    },
+    {
+        "UniqueName": "ford.racingpuma",
+        "Name": "Ford Racing Puma",
+        "CarClass": "roadcompact",
+        "Vendor": "ford",
+        "Year": 1999,
+        "Power": 153
+    },
+    {
+        "UniqueName": "honda.prelude.typesh",
+        "Name": "Honda Prelude Type SH",
+        "CarClass": "roadcompact",
+        "Vendor": "honda",
+        "Year": 2000,
+        "Power": 200
+    },
+    {
+        "UniqueName": "mazda.rx7.gslse",
+        "Name": "Mazda RX-7 GSL-SE",
+        "CarClass": "roadcompact",
+        "Vendor": "mazda",
+        "Year": 1985,
+        "Power": 135
+    },
+    {
+        "UniqueName": "mazda.mx5.miata.90",
+        "Name": "Mazda MX-5 Miata (1990)",
+        "CarClass": "roadcompact",
+        "Vendor": "mazda",
+        "Year": 1990,
+        "Power": 116
+    },
+    {
+        "UniqueName": "mazda.savanna.rx7",
+        "Name": "Mazda Savanna RX-7",
+        "CarClass": "roadcompact",
+        "Vendor": "mazda",
+        "Year": 1990,
+        "Power": 200
+    },
+    {
+        "UniqueName": "mazda.mx5.miata.94",
+        "Name": "Mazda MX-5 Miata (1994)",
+        "CarClass": "roadcompact",
+        "Vendor": "mazda",
+        "Year": 1994,
+        "Power": 128
+    },
+    {
+        "UniqueName": "mazda.rx7",
+        "Name": "Mazda RX-7",
+        "CarClass": "roadcompact",
+        "Vendor": "mazda",
+        "Year": 1997,
+        "Power": 261
+    },
+    {
+        "UniqueName": "mzada.rx7spiritrta",
+        "Name": "Mazda RX-7 Spirit R Type-A",
+        "CarClass": "roadcompact",
+        "Vendor": "mazda",
+        "Year": 2002,
+        "Power": 276
+    },
+    {
+        "UniqueName": "mitsubishi.galant.vr4",
+        "Name": "Mitsubishi Galant VR-4",
+        "CarClass": "roadcompact",
+        "Vendor": "mitsubishi",
+        "Year": 1992,
+        "Power": 237
+    },
+    {
+        "UniqueName": "mitsubishi.eclipse.gsx",
+        "Name": "Mitsubishi Eclipse GSX",
+        "CarClass": "roadcompact",
+        "Vendor": "mitsubishi",
+        "Year": 1995,
+        "Power": 210
+    },
+    {
+        "UniqueName": "mitsubishi.lancer.evo3.gsr",
+        "Name": "Mitsubishi Lancer Evo III GSR",
+        "CarClass": "roadcompact",
+        "Vendor": "mitsubishi",
+        "Year": 1995,
+        "Power": 267
+    },
+    {
+        "UniqueName": "mitsubishi.gto",
+        "Name": "Mitsubishi GTO",
+        "CarClass": "roadcompact",
+        "Vendor": "mitsubishi",
+        "Year": 1997,
+        "Power": 320
+    },
+    {
+        "UniqueName": "mitsubishi.ftogp.vr",
+        "Name": "Mitsubishi FTO GP Version R",
+        "CarClass": "roadcompact",
+        "Vendor": "mitsubishi",
+        "Year": 1998,
+        "Power": 197
+    },
+    {
+        "UniqueName": "mitsubishi.lancerevo6gsr",
+        "Name": "Mitsubishi Lancer Evo VI GSR",
+        "CarClass": "roadcompact",
+        "Vendor": "mitsubishi",
+        "Year": 1999,
+        "Power": 280
+    },
+    {
+        "UniqueName": "mitsubishi.lancerevo8mr",
+        "Name": "Mitsubishi Lancer Evo VIII MR",
+        "CarClass": "roadcompact",
+        "Vendor": "mitsubishi",
+        "Year": 2004,
+        "Power": 277
+    },
+    {
+        "UniqueName": "nissan.pulsar.gtir",
+        "Name": "Nissan Pulsar GTI-R",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 1990,
+        "Power": 227
+    },
+    {
+        "UniqueName": "nissan.silvia.clubks",
+        "Name": "Nissan Silvia Club K's",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 1992,
+        "Power": 202
+    },
+    {
+        "UniqueName": "nissan.240sxse",
+        "Name": "Nissan 240SX SE",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 1993,
+        "Power": 155
+    },
+    {
+        "UniqueName": "nissan.silviaks",
+        "Name": "Nissan Silvia K's",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 1994,
+        "Power": 217
+    },
+    {
+        "UniqueName": "nissan.silvia.ksaero",
+        "Name": "Nissan Silvia K's Aero",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 1998,
+        "Power": 217
+    },
+    {
+        "UniqueName": "nissan.silvia.specr",
+        "Name": "Nissan Silvia Spec-R",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 2000,
+        "Power": 250
+    },
+    {
+        "UniqueName": "nissan.fairladyz",
+        "Name": "Nissan Fairlady Z",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 2003,
+        "Power": 287
+    },
+    {
+        "UniqueName": "subaru.legacy.rs",
+        "Name": "Subaru Legacy RS",
+        "CarClass": "roadcompact",
+        "Vendor": "subaru",
+        "Year": 1990,
+        "Power": 217
+    },
+    {
+        "UniqueName": "subaru.impreza22b.sti",
+        "Name": "Subaru Impreza 22B-STi Version",
+        "CarClass": "roadcompact",
+        "Vendor": "subaru",
+        "Year": 1998,
+        "Power": 276
+    },
+    {
+        "UniqueName": "subaru.impreza.wrxsti",
+        "Name": "Subaru Impreza WRX STI",
+        "CarClass": "roadcompact",
+        "Vendor": "subaru",
+        "Year": 2004,
+        "Power": 278
+    },
+    {
+        "UniqueName": "toyota.mr2sc",
+        "Name": "Toyota MR2 SC",
+        "CarClass": "roadcompact",
+        "Vendor": "toyota",
+        "Year": 1989,
+        "Power": 145
+    },
+    {
+        "UniqueName": "toyota.supra2gt",
+        "Name": "Toyota Supra 2.0 GT",
+        "CarClass": "roadcompact",
+        "Vendor": "toyota",
+        "Year": 1992,
+        "Power": 206
+    },
+    {
+        "UniqueName": "toyota.celica.gt4rc.st185",
+        "Name": "Toyota Celica GT-Four RC ST185",
+        "CarClass": "roadcompact",
+        "Vendor": "toyota",
+        "Year": 1992,
+        "Power": 232
+    },
+    {
+        "UniqueName": "toyota.celica.gt4st205",
+        "Name": "Toyota Celica GT-Four ST205",
+        "CarClass": "roadcompact",
+        "Vendor": "toyota",
+        "Year": 1994,
+        "Power": 255
+    },
+    {
+        "UniqueName": "toyota.mr2gt",
+        "Name": "Toyota MR2 GT",
+        "CarClass": "roadcompact",
+        "Vendor": "toyota",
+        "Year": 1995,
+        "Power": 241
+    },
+    {
+        "UniqueName": "toyota.celicass2",
+        "Name": "Toyota Celica Sport Specialty II",
+        "CarClass": "roadcompact",
+        "Vendor": "toyota",
+        "Year": 2003,
+        "Power": 187
+    },
+    {
+        "UniqueName": "alfaromeo.giuliasprint.gtastradale",
+        "Name": "Alfa Romeo Giulia Sprint GTA Stradale",
+        "CarClass": "roadcompact",
+        "Vendor": "alfa.romeo",
+        "Year": 1965,
+        "Power": 115
+    },
+    {
+        "UniqueName": "bmw.2002.turbo",
+        "Name": "BMW 2002 Turbo",
+        "CarClass": "roadcompact",
+        "Vendor": "bmw",
+        "Year": 1973,
+        "Power": 168
+    },
+    {
+        "UniqueName": "datsun.510",
+        "Name": "Datsun 510",
+        "CarClass": "roadcompact",
+        "Vendor": "datsun",
+        "Year": 1970,
+        "Power": 96
+    },
+    {
+        "UniqueName": "ford.lotus.cortina",
+        "Name": "Ford Lotus Cortina",
+        "CarClass": "roadcompact",
+        "Vendor": "ford",
+        "Year": 1966,
+        "Power": 115
+    },
+    {
+        "UniqueName": "ford.escort.rs1600.73",
+        "Name": "Ford Escort RS1600",
+        "CarClass": "roadcompact",
+        "Vendor": "ford",
+        "Year": 1973,
+        "Power": 113
+    },
+    {
+        "UniqueName": "ford.escort.rs1800",
+        "Name": "Ford Escort RS1800",
+        "CarClass": "roadcompact",
+        "Vendor": "ford",
+        "Year": 1977,
+        "Power": 115
+    },
+    {
+        "UniqueName": "holden.torana.a9x",
+        "Name": "Holden Torana A9X",
+        "CarClass": "roadcompact",
+        "Vendor": "holden",
+        "Year": 1977,
+        "Power": 216
+    },
+    {
+        "UniqueName": "lotus.elan.sprint",
+        "Name": "Lotus Elan Sprint",
+        "CarClass": "roadcompact",
+        "Vendor": "lotus",
+        "Year": 1971,
+        "Power": 126
+    },
+    {
+        "UniqueName": "mazda.rx3.73",
+        "Name": "Mazda RX-3",
+        "CarClass": "roadcompact",
+        "Vendor": "mazda",
+        "Year": 1973,
+        "Power": 110
+    },
+    {
+        "UniqueName": "mg.mgb.gt",
+        "Name": "MG MGB Gt",
+        "CarClass": "roadcompact",
+        "Vendor": "mg",
+        "Year": 1966,
+        "Power": 95
+    },
+    {
+        "UniqueName": "mini.cooper.s",
+        "Name": "Mini Cooper S",
+        "CarClass": "roadcompact",
+        "Vendor": "mini",
+        "Year": 1965,
+        "Power": 75
+    },
+    {
+        "UniqueName": "nissan.fairladyz.432",
+        "Name": "Nissan Fairlady Z 432",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 1969,
+        "Power": 160
+    },
+    {
+        "UniqueName": "nissan.skyline.2000gtr",
+        "Name": "Nissan Skyline 2000GT-R",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 1971,
+        "Power": 160
+    },
+    {
+        "UniqueName": "nissan.skyline.ht2000gtr",
+        "Name": "Nissan Skyline H/T 2000GT-R",
+        "CarClass": "roadcompact",
+        "Vendor": "nissan",
+        "Year": 1973,
+        "Power": 158
+    },
+    {
+        "UniqueName": "opel.kadett.cgte",
+        "Name": "Opel Kadett C GT/E",
+        "CarClass": "roadcompact",
+        "Vendor": "opel",
+        "Year": 1979,
+        "Power": 114
+    },
+    {
+        "UniqueName": "porsche.9146",
+        "Name": "Porsche 914/6",
+        "CarClass": "roadcompact",
+        "Vendor": "porsche",
+        "Year": 1970,
+        "Power": 125
+    },
+    {
+        "UniqueName": "porsche.911carrerars.73",
+        "Name": "Porsche 911 Carrera RS",
+        "CarClass": "roadcompact",
+        "Vendor": "porsche",
+        "Year": 1973,
+        "Power": 207
+    },
+    {
+        "UniqueName": "renault.8gordini",
+        "Name": "Renault 8 Gordini",
+        "CarClass": "roadcompact",
+        "Vendor": "renault",
+        "Year": 1967,
+        "Power": 103
+    },
+    {
+        "UniqueName": "toyota.corolla.sr5",
+        "Name": "Toyota Corolla SR5",
+        "CarClass": "roadcompact",
+        "Vendor": "toyota",
+        "Year": 1974,
+        "Power": 88
+    },
+    {
+        "UniqueName": "toyota.celica.gt.74",
+        "Name": "Toyota Celica GT",
+        "CarClass": "roadcompact",
+        "Vendor": "toyota",
+        "Year": 1974,
+        "Power": 97
+    }
+]

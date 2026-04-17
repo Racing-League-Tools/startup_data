@@ -1,0 +1,386 @@
+﻿[
+    {
+        "UniqueName": "dodge.shelbyomni.glhs",
+        "Name": "Dodge Shelby Omin GLHS",
+        "CarClass": "hothatch",
+        "Vendor": "dodge",
+        "Year": 1986,
+        "Power": 175
+    },
+    {
+        "UniqueName": "ford.fiesta.xr2",
+        "Name": "Ford Fiesta XR2",
+        "CarClass": "hothatch",
+        "Vendor": "ford",
+        "Year": 1981,
+        "Power": 84
+    },
+    {
+        "UniqueName": "ford.escort.rsturbo",
+        "Name": "Ford Escort RS Turbo",
+        "CarClass": "hothatch",
+        "Vendor": "ford",
+        "Year": 1986,
+        "Power": 130
+    },
+    {
+        "UniqueName": "ford.escort.rscosworth",
+        "Name": "Ford Escort RS Cosworth",
+        "CarClass": "hothatch",
+        "Vendor": "ford",
+        "Year": 1992,
+        "Power": 224
+    },
+    {
+        "UniqueName": "honda.crx.sir",
+        "Name": "Honda CR-X SiR",
+        "CarClass": "hothatch",
+        "Vendor": "honda",
+        "Year": 1991,
+        "Power": 158
+    },
+    {
+        "UniqueName": "honda.civic.typer.97",
+        "Name": "Honda CIvic Type R (1997)",
+        "CarClass": "hothatch",
+        "Vendor": "honda",
+        "Year": 1997,
+        "Power": 182
+    },
+    {
+        "UniqueName": "lancia.deltahf.integraleevo",
+        "Name": "Lancia Delta HF Integrale EVo",
+        "CarClass": "hothatch",
+        "Vendor": "lancia",
+        "Year": 1992,
+        "Power": 248
+    },
+    {
+        "UniqueName": "mazda.323.gtr",
+        "Name": "Mazda 323 GT-R",
+        "CarClass": "hothatch",
+        "Vendor": "mazda",
+        "Year": 1992,
+        "Power": 207
+    },
+    {
+        "UniqueName": "peugeot.205.turbo16",
+        "Name": "Peugeot 205 Turbo 16",
+        "CarClass": "hothatch",
+        "Vendor": "peugeot",
+        "Year": 1984,
+        "Power": 200
+    },
+    {
+        "UniqueName": "renault.5turbo",
+        "Name": "Renault 5 Turbo",
+        "CarClass": "hothatch",
+        "Vendor": "renault",
+        "Year": 1980,
+        "Power": 156
+    },
+    {
+        "UniqueName": "renault.clio.williams",
+        "Name": "Renault Clio Williams",
+        "CarClass": "hothatch",
+        "Vendor": "renault",
+        "Year": 1993,
+        "Power": 142
+    },
+    {
+        "UniqueName": "toyota.sprinter.truenogtapex",
+        "Name": "Toyota Sprinter Trueno GT Apex",
+        "CarClass": "hothatch",
+        "Vendor": "toyota",
+        "Year": 1985,
+        "Power": 128
+    },
+    {
+        "UniqueName": "volkswagen.sciroccos",
+        "Name": "Volkswagen Scirocco S",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 1981,
+        "Power": 74
+    },
+    {
+        "UniqueName": "volkswagen.golfgti.83",
+        "Name": "Volkswagen Golf GTI",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 1983,
+        "Power": 212
+    },
+    {
+        "UniqueName": "volkswagen.scirocco16v",
+        "Name": "Volkswagen Scirocco 16v",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 1988,
+        "Power": 123
+    },
+    {
+        "UniqueName": "volkswagen.golfgti.16vmk2",
+        "Name": "Volkswagen Golf Gti 16v Mk2",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 1992,
+        "Power": 139
+    },
+    {
+        "UniqueName": "volkswagen.corrado.vr6",
+        "Name": "Volkswagen Corrado VR6",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 1995,
+        "Power": 178
+    },
+    {
+        "UniqueName": "volkswagen.gtivr6.mk3",
+        "Name": "Volkswagen GTI VR6 Mk3",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 1998,
+        "Power": 172
+    },
+    {
+        "UniqueName": "alfaromeo.guilietta.quadrifoglio.verde",
+        "Name": "Alfa Romeo Guilietta Quadrifoglio Verde",
+        "CarClass": "hothatch",
+        "Vendor": "alfa.romeo",
+        "Year": 2011,
+        "Power": 231
+    },
+    {
+        "UniqueName": "audi.rs3.sportback",
+        "Name": "Audi RS3 Sportback",
+        "CarClass": "hothatch",
+        "Vendor": "audi",
+        "Year": 2011,
+        "Power": 335
+    },
+    {
+        "UniqueName": "audi.s1.15",
+        "Name": "Audi S1",
+        "CarClass": "hothatch",
+        "Vendor": "audi",
+        "Year": 2015,
+        "Power": 228
+    },
+    {
+        "UniqueName": "citroen.ds3.racing",
+        "Name": "Citroen DS3 Racing",
+        "CarClass": "hothatch",
+        "Vendor": "citroen",
+        "Year": 2011,
+        "Power": 204
+    },
+    {
+        "UniqueName": "ford.focus.rs.03",
+        "Name": "Ford Focus RS (2003)",
+        "CarClass": "hothatch",
+        "Vendor": "ford",
+        "Year": 2003,
+        "Power": 212
+    },
+    {
+        "UniqueName": "ford.focusrs.09",
+        "Name": "Ford Focus RS (2009)",
+        "CarClass": "hothatch",
+        "Vendor": "ford",
+        "Year": 2009,
+        "Power": 300
+    },
+    {
+        "UniqueName": "ford.focusrs.17",
+        "Name": "Ford Focus RS (2017)",
+        "CarClass": "hothatch",
+        "Vendor": "ford",
+        "Year": 2017,
+        "Power": 350
+    },
+    {
+        "UniqueName": "honda.civic.typer.04",
+        "Name": "Honda Civic Type R (2004)",
+        "CarClass": "hothatch",
+        "Vendor": "honda",
+        "Year": 2004,
+        "Power": 212
+    },
+    {
+        "UniqueName": "honda.civictyper.18",
+        "Name": "Honda Civic Type R (2018)",
+        "CarClass": "hothatch",
+        "Vendor": "honda",
+        "Year": 2018,
+        "Power": 306
+    },
+    {
+        "UniqueName": "hyundai.velostern.19",
+        "Name": "Hyundai Veloster N",
+        "CarClass": "hothatch",
+        "Vendor": "hyundai",
+        "Year": 2019,
+        "Power": 275
+    },
+    {
+        "UniqueName": "hyunday.velostern.fe",
+        "Name": "Hyundai Veloster N Forza Edition",
+        "CarClass": "hothatch",
+        "Vendor": "hyundai",
+        "Year": 2019,
+        "Power": 276
+    },
+    {
+        "UniqueName": "hyundai.i30.n",
+        "Name": "Hyundai i30 N",
+        "CarClass": "hothatch",
+        "Vendor": "hyundai",
+        "Year": 2020,
+        "Power": 271
+    },
+    {
+        "UniqueName": "hyundai.i20.n",
+        "Name": "Hyundai i20 N",
+        "CarClass": "hothatch",
+        "Vendor": "hyundai",
+        "Year": 2021,
+        "Power": 201
+    },
+    {
+        "UniqueName": "hyundai.ioniq.5n",
+        "Name": "Hyundai IONIQ 5 N",
+        "CarClass": "hothatch",
+        "Vendor": "hyundai",
+        "Year": 2022,
+        "Power": 642
+    },
+    {
+        "UniqueName": "mercedes.benz.a45amg",
+        "Name": "Mercedes-Benz A45 AMG",
+        "CarClass": "hothatch",
+        "Vendor": "mercedes",
+        "Year": 2013,
+        "Power": 355
+    },
+    {
+        "UniqueName": "mini.jcw.gp.12",
+        "Name": "Mini John Cooper Works GP (2012)",
+        "CarClass": "hothatch",
+        "Vendor": "mini",
+        "Year": 2012,
+        "Power": 215
+    },
+    {
+        "UniqueName": "mini.jcw.gp.21",
+        "Name": "Mini John Cooper Works GP (2021)",
+        "CarClass": "hothatch",
+        "Vendor": "mini",
+        "Year": 2021,
+        "Power": 302
+    },
+    {
+        "UniqueName": "peugeot.308gti",
+        "Name": "Peugeot 308 GTI",
+        "CarClass": "hothatch",
+        "Vendor": "peugeot",
+        "Year": 2011,
+        "Power": 197
+    },
+    {
+        "UniqueName": "renault.sportcliov6.03",
+        "Name": "Renault Sport Clio V6",
+        "CarClass": "hothatch",
+        "Vendor": "renault",
+        "Year": 2003,
+        "Power": 251
+    },
+    {
+        "UniqueName": "renault.megane.r26r.08",
+        "Name": "Renault Megane R26.R",
+        "CarClass": "hothatch",
+        "Vendor": "renault",
+        "Year": 2008,
+        "Power": 227
+    },
+    {
+        "UniqueName": "renault.clio.rs16conc",
+        "Name": "Renault Clio R.S. 16 Concept",
+        "CarClass": "hothatch",
+        "Vendor": "renault",
+        "Year": 2016,
+        "Power": 270
+    },
+    {
+        "UniqueName": "renault.megane.rs.18",
+        "Name": "Renault Megane R.S.",
+        "CarClass": "hothatch",
+        "Vendor": "renault",
+        "Year": 2018,
+        "Power": 275
+    },
+    {
+        "UniqueName": "toyota.gr.yaris",
+        "Name": "Toyota GR Yaris",
+        "CarClass": "hothatch",
+        "Vendor": "toyota",
+        "Year": 2021,
+        "Power": 257
+    },
+    {
+        "UniqueName": "vauxhall.astravxr.06",
+        "Name": "Vauxhall Astra VXR (2006)",
+        "CarClass": "hothatch",
+        "Vendor": "vauxhall",
+        "Year": 2006,
+        "Power": 236
+    },
+    {
+        "UniqueName": "vauxhall.astravxr.16",
+        "Name": "Vauxhall Astra VXR (2016)",
+        "CarClass": "hothatch",
+        "Vendor": "vauxhall",
+        "Year": 2012,
+        "Power": 276
+    },
+    {
+        "UniqueName": "vauxhall.corsavxr",
+        "Name": "Vauxhall Corsa VXR",
+        "CarClass": "hothatch",
+        "Vendor": "vauxhall",
+        "Year": 2016,
+        "Power": 202
+    },
+    {
+        "UniqueName": "volkswagen.golf.r32.03",
+        "Name": "Volkswagen Golf R32",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 2003,
+        "Power": 212
+    },
+    {
+        "UniqueName": "volkswagen.golfr.14",
+        "Name": "Volkswagen Golf R (2014)",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 2014,
+        "Power": 296
+    },
+    {
+        "UniqueName": "volkswagen.golfr.21",
+        "Name": "Volkswagen Golf R (2021)",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 2021,
+        "Power": 288
+    },
+    {
+        "UniqueName": "volkswagen.golf.r.22",
+        "Name": "Volkswagen Golf R (2022)",
+        "CarClass": "hothatch",
+        "Vendor": "volkswagen",
+        "Year": 2022,
+        "Power": 315
+    }
+]

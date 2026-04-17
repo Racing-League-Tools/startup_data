@@ -1,0 +1,82 @@
+[
+    {
+        "UniqueName": "bmw.m2.fd",
+        "Name": "BMW M2 FD",
+        "CarClass": "formuladrift",
+        "Vendor": "bmw",
+        "Year": 2020,
+        "Power": 822
+    },
+    {
+        "UniqueName": "dodge.viper.srt10.fd",
+        "Name": "dodge Viper SRT10 FD",
+        "CarClass": "formuladrift",
+        "Vendor": "dodge",
+        "Year": 2006,
+        "Power": 1350
+    },
+    {
+        "UniqueName": "ford.mustang.fd",
+        "Name": "Ford Mustang FD",
+        "CarClass": "formuladrift",
+        "Vendor": "ford",
+        "Year": 2015,
+        "Power": 986
+    },
+    {
+        "UniqueName": "ford.mustang.rtrfd.88",
+        "Name": "Ford Mustang RTR FD #88",
+        "CarClass": "formuladrift",
+        "Vendor": "ford",
+        "Year": 2024,
+        "Power": 1132
+    },
+    {
+        "UniqueName": "ford.mustang.rtrfd.25",
+        "Name": "Ford Mustang RTR FD #25",
+        "CarClass": "formuladrift",
+        "Vendor": "ford",
+        "Year": 2024,
+        "Power": 1132
+    },
+    {
+        "UniqueName": "ford.mustang.rtrfd.130",
+        "Name": "Ford Mustang RTR FD #130",
+        "CarClass": "formuladrift",
+        "Vendor": "ford",
+        "Year": 2024,
+        "Power": 1159
+    },
+    {
+        "UniqueName": "hsv.maloo.genf.fd",
+        "Name": "HSV Maloo Gen-F FD",
+        "CarClass": "formuladrift",
+        "Vendor": "hsv",
+        "Year": 2016,
+        "Power": 1000
+    },
+    {
+        "UniqueName": "nissan.forsbergracing.datsun.280z",
+        "Name": "Nissan Forsberg Racing 'Gold Leader' Datsun 280Z",
+        "CarClass": "formuladrift",
+        "Vendor": "nissan",
+        "Year": 1975,
+        "Power": 424
+    },
+    {
+        "UniqueName": "nissan.240sx.fd",
+        "Name": "Nissan 240SX FD",
+        "CarClass": "formuladrift",
+        "Vendor": "nissan",
+        "Year": 1997,
+        "Power": 1258
+    },
+    {
+        "UniqueName": "toyota.gr.supra.fd",
+        "Name": "Toyota GR Supra FD",
+        "CarClass": "formuladrift",
+        "Vendor": "toyota",
+        "Year": 2020,
+        "Power": 1033
+    }
+]

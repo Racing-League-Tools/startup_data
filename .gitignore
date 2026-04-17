@@ -1,0 +1,16 @@
+node_modules/
+
+# Jest coverage
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+plan.md
+
+startup_data_wrong/

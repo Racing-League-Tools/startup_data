@@ -1,0 +1,90 @@
+[
+  {
+    "UniqueName": "alpine.a110.gt4",
+    "Name": "Alpine A110 GT4",
+    "CarClass": "gt4",
+    "Vendor": "alpine",
+    "Power": 360,
+    "Year": 2018
+  },
+  {
+    "UniqueName": "aston.v8.vantage.gt4",
+    "Name": "Aston Martin V8 Vantage GT4",
+    "CarClass": "gt4",
+    "Vendor": "aston.martin",
+    "Power": 420,
+    "Year": 2018
+  },
+  {
+    "UniqueName": "audi.r8.lms.gt4",
+    "Name": "Audi R8 LMS GT4",
+    "CarClass": "gt4",
+    "Vendor": "audi",
+    "Power": 495,
+    "Year": 2018
+  },
+  {
+    "UniqueName": "bmw.m4.gt4",
+    "Name": "BMW M4 GT4",
+    "CarClass": "gt4",
+    "Vendor": "bmw",
+    "Power": 500,
+    "Year": 2018
+  },
+  {
+    "UniqueName": "chevrolet.camaro.gt4.r",
+    "Name": "Chevrolet Camaro GT4.R",
+    "CarClass": "gt4",
+    "Vendor": "chevrolet",
+    "Power": 475,
+    "Year": 2017
+  },
+  {
+    "UniqueName": "ginetta.g55.gt4",
+    "Name": "Ginetta G55 GT4",
+    "CarClass": "gt4",
+    "Vendor": "ginetta",
+    "Power": 380,
+    "Year": 2012
+  },
+  {
+    "UniqueName": "ktm.xbow.gt4",
+    "Name": "KTM X-Bow GT4",
+    "CarClass": "gt4",
+    "Vendor": "ktm",
+    "Power": 360,
+    "Year": 2016
+  },
+  {
+    "UniqueName": "maserati.granturismo.mc.gt4",
+    "Name": "Maserati Granturismo MC GT4",
+    "CarClass": "gt4",
+    "Vendor": "maserati",
+    "Power": 430,
+    "Year": 2016
+  },
+  {
+    "UniqueName": "mclaren.570s.gt4",
+    "Name": "McLaren 570S GT4",
+    "CarClass": "gt4",
+    "Vendor": "mclaren",
+    "Power": 462,
+    "Year": 2016
+  },
+  {
+    "UniqueName": "mercedes.amg.gt4",
+    "Name": "Mercedes AMG GT4",
+    "CarClass": "gt4",
+    "Vendor": "mercedes",
+    "Power": 510,
+    "Year": 2016
+  },
+  {
+    "UniqueName": "porsche.718.cayman.gt4.clubsport",
+    "Name": "Porsche 718 Cayman GT4 Clubsport",
+    "CarClass": "gt4",
+    "Vendor": "porsche",
+    "Power": 425,
+    "Year": 2019
+  }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "UniqueName": "chevrolet.oreca.flm09",
+        "Name": "Chevrolet Oreca FLM09",
+        "CarClass": "lmp2",
+        "Vendor": "chevrolet",
+        "Year": 2010,
+        "Power": 430,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.corvette.daytona.proto",
+        "Name": "Chevrolet Corvette Daytona Prototype",
+        "CarClass": "lmp2",
+        "Vendor": "chevrolet",
+        "Year": 2015,
+        "Power": 580,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ford.daytona.proto",
+        "Name": "Ford Daytona Prototype",
+        "CarClass": "lmp2",
+        "Vendor": "ford",
+        "Year": 2015,
+        "Power": 600,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mazda.racing.b09.86",
+        "Name": "Mazda Racing B09/86",
+        "CarClass": "lmp2",
+        "Vendor": "mazda",
+        "Year": 2010,
+        "Power": 525,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mazda.lola.b12.80",
+        "Name": "Mazda Lola B12/80",
+        "CarClass": "lmp2",
+        "Vendor": "mazda",
+        "Year": 2014,
+        "Power": 450,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "oreca.07.17",
+        "Name": "Oreca 07 (2017)",
+        "CarClass": "lmp2",
+        "Vendor": "oreca",
+        "Year": 2017,
+        "Power": 603,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "oreca.07.20",
+        "Name": "Oreca 07 (2020)",
+        "CarClass": "lmp2",
+        "Vendor": "oreca",
+        "Year": 2020,
+        "Power": 603,
+        "AliasesRaw": "Oreca 07",
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lola.b0540.turbo",
+        "Name": "Lola B05/40 Turbo",
+        "CarClass": "lmp2",
+        "Vendor": "lola",
+        "Year": 2005,
+        "Power": 550,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lola.b0540.v8",
+        "Name": "Lola B05/40 V8",
+        "CarClass": "lmp2",
+        "Vendor": "lola",
+        "Year": 2005,
+        "Power": 548,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ligier.js.p217",
+        "Name": "Ligier JS P217",
+        "CarClass": "lmp2",
+        "Vendor": "ligier",
+        "Year": 2017,
+        "Power": 604,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

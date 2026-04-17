@@ -1,0 +1,46 @@
+[
+    {
+        "UniqueName": "ford.falcon.fgx",
+        "Name": "Ford Falcon FG X",
+        "CarClass": "supercar",
+        "Vendor": "ford",
+        "Year": 2017,
+        "Power": 650,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "holden.commodore.vf.13",
+        "Name": "Holden Commodore VF (2013)",
+        "CarClass": "supercar",
+        "Vendor": "holden",
+        "Year": 2013,
+        "Power": 620,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "holden.vf.commodore.17",
+        "Name": "Holden Commodore VF (2017)",
+        "CarClass": "supercar",
+        "Vendor": "holden",
+        "Year": 2017,
+        "Power": 650,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "nissan.altima.racecar",
+        "Name": "Nissan Altima Racecar",
+        "CarClass": "supercar",
+        "Vendor": "nissan",
+        "Year": 2017,
+        "Power": 668,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

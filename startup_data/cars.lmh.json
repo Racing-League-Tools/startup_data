@@ -1,0 +1,151 @@
+[
+  {
+    "UniqueName": "alpine.a424",
+    "Name": "Alpine A424",
+    "CarClass": "lmh",
+    "Vendor": "alpine",
+    "Year": 2024,
+    "Power": 670,
+    "AliasesRaw": "Alpine A424"
+  },
+  {
+    "UniqueName": "aston.valkyrie.lmh",
+    "Name": "Aston Martin Valkyrie",
+    "CarClass": "lmh",
+    "Vendor": "aston.martin",
+    "Year": 2025,
+    "Power": 670,
+    "AliasesRaw": "Aston Martin Valkyrie LMH"
+  },
+  {
+    "UniqueName": "bmw.m.hybridv8",
+    "Name": "BMW M Hybrid V8",
+    "CarClass": "lmh",
+    "Vendor": "bmw",
+    "Year": 2023,
+    "Power": 670,
+    "AliasesRaw": "BMW M Hybrid V8"
+  },
+  {
+    "UniqueName": "bmw.m.hybridv8.evo",
+    "Name": "BMW M Hybrid V8 Evo",
+    "CarClass": "lmh",
+    "Vendor": "bmw",
+    "Year": 2026,
+    "Power": 670
+  },
+  {
+    "UniqueName": "cadillac.vseriesr",
+    "Name": "Cadillac V-Series.R",
+    "CarClass": "lmh",
+    "Vendor": "cadillac",
+    "Year": 2023,
+    "Power": 671,
+    "AliasesRaw": "Cadillac V-Series.R"
+  },
+  {
+    "UniqueName": "cadillac.vseriesr.evo",
+    "Name": "Cadillac V-Series.R Evo",
+    "CarClass": "lmh",
+    "Vendor": "cadillac",
+    "Year": 2026,
+    "Power": 671
+  },
+  {
+    "UniqueName": "ferrari.499p",
+    "Name": "Ferrari 499P",
+    "CarClass": "lmh",
+    "Vendor": "ferrari",
+    "Year": 2023,
+    "Power": 670,
+    "AliasesRaw": "Ferrari 499P"
+  },
+  {
+    "UniqueName": "genesis.gmr.001",
+    "Name": "Genesis GMR 001",
+    "CarClass": "lmh",
+    "Vendor": "genesis",
+    "Year": 2026,
+    "Power": 671,
+    "AliasesRaw": ""
+  },
+  {
+    "UniqueName": "glickenhaus.scg007",
+    "Name": "Glickenhaus SCG 007 LMH",
+    "CarClass": "lmh",
+    "Vendor": "glickenhaus",
+    "Year": 2021,
+    "Power": 671,
+    "AliasesRaw": "Glickenhaus SCG007"
+  },
+  {
+    "UniqueName": "isotta.fraschini.tipo6.lmhc",
+    "Name": "Isotta Fraschini Tipo 6 LMH-C",
+    "CarClass": "lmh",
+    "Vendor": "isotta.fraschini",
+    "Year": 2024,
+    "Power": 671,
+    "AliasesRaw": "Isotta Fraschini TIPO6"
+  },
+  {
+    "UniqueName": "lamborghini.sc63",
+    "Name": "Lamborghini SC63",
+    "CarClass": "lmh",
+    "Vendor": "lamborghini",
+    "Year": 2024,
+    "Power": 670,
+    "AliasesRaw": "Lamborghini SC63"
+  },
+  {
+    "UniqueName": "peugeot.9x8",
+    "Name": "Peugeot 9X8",
+    "CarClass": "lmh",
+    "Vendor": "peugeot",
+    "Year": 2022,
+    "Power": 670
+  },
+  {
+    "UniqueName": "peugeot.9x8.wing",
+    "Name": "Peugeot 9X8 Wing",
+    "CarClass": "lmh",
+    "Vendor": "peugeot",
+    "Year": 2024,
+    "Power": 670,
+    "AliasesRaw": "Peugeot 9x8"
+  },
+  {
+    "UniqueName": "porsche.963",
+    "Name": "Porsche 963",
+    "CarClass": "lmh",
+    "Vendor": "porsche",
+    "Year": 2024,
+    "Power": 670,
+    "AliasesRaw": "Porsche 963"
+  },
+  {
+    "UniqueName": "toyota.gr010h",
+    "Name": "Toyota GR010 Hybrid",
+    "CarClass": "lmh",
+    "Vendor": "toyota",
+    "Year": 2021,
+    "Power": 670,
+    "AliasesRaw": "Toyota GR010"
+  },
+  {
+    "UniqueName": "toyota.tr010h",
+    "Name": "Toyota TR010 Hybrid",
+    "CarClass": "lmh",
+    "Vendor": "toyota",
+    "Year": 2026,
+    "Power": 670
+  },
+  {
+    "UniqueName": "vanwall.680",
+    "Name": "Vanwall 680",
+    "CarClass": "lmh",
+    "Vendor": "vanwall",
+    "Year": 2023,
+    "Power": 671,
+    "AliasesRaw": "Vanwall 680"
+  }
+]

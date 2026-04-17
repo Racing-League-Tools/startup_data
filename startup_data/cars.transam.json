@@ -1,0 +1,42 @@
+[
+    {
+        "UniqueName": "cadillac.ta.ctsv",
+        "Name": "Cadillac TA CTS-V",
+        "CarClass": "transam",
+        "Vendor": "cadillac",
+        "Year": 2018,
+        "Power": 850
+    },
+    {
+        "UniqueName": "chevrolet.ta.corvette",
+        "Name": "Chevrolet TA Corvette",
+        "CarClass": "transam",
+        "Vendor": "chevrolet",
+        "Year": 2018,
+        "Power": 850
+    },
+    {
+        "UniqueName": "dodge.ta.challenge",
+        "Name": "Dodge TA Challenger",
+        "CarClass": "transam",
+        "Vendor": "dodge",
+        "Year": 2019,
+        "Power": 855
+    },
+    {
+        "UniqueName": "ford.ta.mustang",
+        "Name": "Ford TA Mustang",
+        "CarClass": "transam",
+        "Vendor": "ford",
+        "Year": 2018,
+        "Power": 850
+    },
+    {
+        "UniqueName": "ford.mustang.boss302.ta",
+        "Name": "Ford Mustang Boss 302 Trans AM",
+        "CarClass": "transam",
+        "Vendor": "ford",
+        "Year": 2023,
+        "Power": 460
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "UniqueName": "ginetta.g40.gt5",
+        "Name": "Ginetta G40 GT5",
+        "CarClass": "gt5",
+        "Vendor": "ginetta",
+        "Year": 2011,
+        "Power": 142,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "puma.p052.gt5",
+        "Name": "Puma P052",
+        "CarClass": "gt5",
+        "Vendor": "puma",
+        "Year": 2017,
+        "Power": 163,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

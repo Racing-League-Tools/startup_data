@@ -1,0 +1,232 @@
+[
+    {
+        "UniqueName": "dallara.ir18",
+        "Name": "Dallara IR18",
+        "CarClass": "indycar",
+        "Vendor": "dallara",
+        "Year": 2018,
+        "Power": 700,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lola.t9500.ford.cosworth",
+        "Name": "Lola T95/00 Ford-Cosworth",
+        "CarClass": "indycar",
+        "Vendor": "ford",
+        "Year": 1995,
+        "Power": 810,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lola.t9500.mercedes.benz",
+        "Name": "Lola T95/00 Mercedes-Benz",
+        "CarClass": "indycar",
+        "Vendor": "mercedes",
+        "Year": 1995,
+        "Power": 810,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.95i.ford.cosworth",
+        "Name": "Reynard 95i Ford-Cosworth",
+        "CarClass": "indycar",
+        "Vendor": "ford",
+        "Year": 1995,
+        "Power": 810,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.95i.honda",
+        "Name": "Reynard 95i Honda",
+        "CarClass": "indycar",
+        "Vendor": "honda",
+        "Year": 1995,
+        "Power": 810,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.95i.mercedes",
+        "Name": "Reynard 95i Mercedes",
+        "CarClass": "indycar",
+        "Vendor": "mercedes",
+        "Year": 1995,
+        "Power": 810,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lola.t9800.ford.cosworth",
+        "Name": "Lola T98/00 Ford-Cosworth",
+        "CarClass": "indycar",
+        "Vendor": "ford",
+        "Year": 1998,
+        "Power": 875,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reinard.98i.ford.cosworth",
+        "Name": "Reynard 98i Ford-Cosworth",
+        "CarClass": "indycar",
+        "Vendor": "ford",
+        "Year": 1998,
+        "Power": 875,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.98i.honda",
+        "Name": "Reynard 98i Honda",
+        "CarClass": "indycar",
+        "Vendor": "honda",
+        "Year": 1998,
+        "Power": 875,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.98i.mercedes.benz",
+        "Name": "Reynard 98i Mercedes-Benz",
+        "CarClass": "indycar",
+        "Vendor": "mercedes",
+        "Year": 1998,
+        "Power": 875,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.98i.toyota",
+        "Name": "Reynard 98i Toyota",
+        "CarClass": "indycar",
+        "Vendor": "toyota",
+        "Year": 1998,
+        "Power": 847,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "swift.009c.ford.cosworth",
+        "Name": "Swift 009c Ford-Cosworth",
+        "CarClass": "indycar",
+        "Year": 1998,
+        "Power": 875,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lola.b2k00.ford.cosworth",
+        "Name": "Lola B2K/00 Ford-Cosworth",
+        "CarClass": "indycar",
+        "Vendor": "ford",
+        "Year": 2000,
+        "Power": 910,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lola.b2k00.mercedes.benz",
+        "Name": "Lola B2K/00 Mercedes-Benz",
+        "CarClass": "indycar",
+        "Vendor": "mercedes",
+        "Year": 2000,
+        "Power": 895,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lola.b2k00.toyota",
+        "Name": "Lola B2K/00 Toyota",
+        "CarClass": "indycar",
+        "Vendor": "toyota",
+        "Year": 2000,
+        "Power": 917,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.2ki.ford.cosworth",
+        "Name": "Reynard 2Ki Ford-Cosworth",
+        "CarClass": "indycar",
+        "Vendor": "ford",
+        "Year": 2000,
+        "Power": 910,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.2ki.honda",
+        "Name": "Reynard 2Ki Honda",
+        "CarClass": "indycar",
+        "Vendor": "honda",
+        "Year": 2000,
+        "Power": 917,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.2ki.mercedes.benz",
+        "Name": "Reynard 2Ki Mercedes-Benz",
+        "CarClass": "indycar",
+        "Vendor": "mercedes",
+        "Year": 2000,
+        "Power": 895,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "reynard.2ki.toyota",
+        "Name": "Reynard 2Ki Toyota",
+        "CarClass": "indycar",
+        "Vendor": "toyota",
+        "Year": 2000,
+        "Power": 917,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "chevrolet.indycar.2025",
+        "Name": "Chevrolet IndyCar",
+        "CarClass": "indycar",
+        "Vendor": "chevrolet",
+        "Year": 2026,
+        "Power": 795,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "honda.indycar.2025",
+        "Name": "Honda IndyCar",
+        "CarClass": "indycar",
+        "Vendor": "honda",
+        "Year": 2026,
+        "Power": 795,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

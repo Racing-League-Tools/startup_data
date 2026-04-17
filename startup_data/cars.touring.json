@@ -1,0 +1,178 @@
+[
+    {
+        "UniqueName": "audi.sport.rs3.lms",
+        "Name": "Audi Sport RS3 LMS",
+        "CarClass": "touring",
+        "Vendor": "audi",
+        "Year": 2018,
+        "Power": 370,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ford.focus.stbtcc",
+        "Name": "Ford Focus ST BTCC",
+        "CarClass": "touring",
+        "Vendor": "ford",
+        "Year": 2014,
+        "Power": 330,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "honda.racing.civic",
+        "Name": "Honda Racing Civic",
+        "CarClass": "touring",
+        "Vendor": "honda",
+        "Year": 2020,
+        "Power": 340,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "hyundai.velostern.wtcc",
+        "Name": "Hyundai Racing Veloster N",
+        "CarClass": "touring",
+        "Vendor": "hyundai",
+        "Year": 2020,
+        "Power": 350,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "hyundai.elantra.n.tcr",
+        "Name": "Hyundai Elantra N TCR",
+        "CarClass": "touring",
+        "Vendor": "hyundai",
+        "Year": 2021,
+        "Power": 350,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "lynkco.racing03",
+        "Name": "Lynk & Co Racing 03",
+        "CarClass": "touring",
+        "Vendor": "lynkco",
+        "Year": 2020,
+        "Power": 340,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mercedes.a45",
+        "Name": "Mercedes-Benz A-Class A45",
+        "CarClass": "touring",
+        "Vendor": "mercedes",
+        "Year": 2017,
+        "Power": 350,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "mg.racing.mg6",
+        "Name": "MG MG6 Xpower",
+        "CarClass": "touring",
+        "Vendor": "mg",
+        "Year": 2020,
+        "Power": 340,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "peugeot.competition308",
+        "Name": "Peugeot Competition 308",
+        "CarClass": "touring",
+        "Vendor": "peugeot",
+        "Year": 2018,
+        "Power": 343,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "subaru.levorggt",
+        "Name": "Subaru Levorg GT",
+        "CarClass": "touring",
+        "Vendor": "subaru",
+        "Year": 2018,
+        "Power": 350,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "vauxhall.racing.astra",
+        "Name": "Vauxhall Racing Astra",
+        "CarClass": "touring",
+        "Vendor": "vauxhall",
+        "Year": 2017,
+        "Power": 350,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "volkswagen.racing.golfgti",
+        "Name": "Volkswagen Racing Golf GTI",
+        "CarClass": "touring",
+        "Vendor": "volkswagen",
+        "Year": 2018,
+        "Power": 345,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "volkswagen.polo.tsicup",
+        "Name": "Volkswagen Polo TSI Cup",
+        "CarClass": "touring",
+        "Vendor": "volkswagen",
+        "Year": 2021,
+        "Power": 129,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "volkswagen.polo.gts.tsicup",
+        "Name": "Volkswagen Polo GTS TSI Cup",
+        "CarClass": "touring",
+        "Vendor": "volkswagen",
+        "Year": 2021,
+        "Power": 148,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "volkswagen.virtus.tsicup",
+        "Name": "Volkswagen Virtus TSI Cup",
+        "CarClass": "touring",
+        "Vendor": "volkswagen",
+        "Year": 2021,
+        "Power": 129,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "volkswagen.virtus.gts.tsicup",
+        "Name": "Volkswagen Virtus GTS TSI Cup",
+        "CarClass": "touring",
+        "Vendor": "volkswagen",
+        "Year": 2021,
+        "Power": 148,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    }
+]

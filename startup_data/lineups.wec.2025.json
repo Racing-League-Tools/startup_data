@@ -1,0 +1,978 @@
+[
+  {
+    "SeatType": "Reserve",
+    "Team": "porsche.5.2025",
+    "Driver": "Nico Muller",
+    "SeatPosition": 0,
+    "ReservePosition": 1,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "porsche.6.2025",
+    "Driver": "Pascal Wehrlein",
+    "SeatPosition": 0,
+    "ReservePosition": 2,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "bmw.20.2025",
+    "Driver": "Marco Wittmann",
+    "SeatPosition": 0,
+    "ReservePosition": 3,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "spirit.lemans.10.2025",
+    "Driver": "Anthony McIntosh",
+    "SeatPosition": 0,
+    "ReservePosition": 4,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "wrt.31.2025",
+    "Driver": "Pedro Ebrahim",
+    "SeatPosition": 0,
+    "ReservePosition": 5,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "iron.lynx.60.2025",
+    "Driver": "Brenton Grove",
+    "SeatPosition": 0,
+    "ReservePosition": 6,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "iron.lynx.60.2025",
+    "Driver": "Claudio Schiavoni",
+    "SeatPosition": 0,
+    "ReservePosition": 7,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "iron.lynx.60.2025",
+    "Driver": "Lorcan Hanafin",
+    "SeatPosition": 0,
+    "ReservePosition": 8,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "iron.lynx.60.2025",
+    "Driver": "Stephen Grove",
+    "SeatPosition": 0,
+    "ReservePosition": 9,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "iron.lynx.61.2025",
+    "Driver": "Christian Ried",
+    "SeatPosition": 0,
+    "ReservePosition": 10,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "akkodis.78.2025",
+    "Driver": "Ben Barnicoat",
+    "SeatPosition": 0,
+    "ReservePosition": 11,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "akkodis.78.2025",
+    "Driver": "Esteban Masson",
+    "SeatPosition": 0,
+    "ReservePosition": 12,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "akkodis.78.2025",
+    "Driver": "Jack Hawksworth",
+    "SeatPosition": 0,
+    "ReservePosition": 13,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Reserve",
+    "Team": "iron.dames.85.2025",
+    "Driver": "Sarah Bovy",
+    "SeatPosition": 0,
+    "ReservePosition": 14,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "aston.007.2025",
+    "Driver": "Tom Gamble",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "aston.007.2025",
+    "Driver": "Harry Tincknell",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "aston.007.2025",
+    "Driver": "Ross Gunn",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "aston.009.2025",
+    "Driver": "Alex Riberas",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "aston.009.2025",
+    "Driver": "Marco Sorensen",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "aston.009.2025",
+    "Driver": "Roman De Angelis",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "porsche.5.2025",
+    "Driver": "Julien Andlauer",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "porsche.5.2025",
+    "Driver": "Michael Christensen",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "porsche.5.2025",
+    "Driver": "Mathieu Jaminet",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "porsche.6.2025",
+    "Driver": "Kevin Estre",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "porsche.6.2025",
+    "Driver": "Laurens Vanthoor",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "porsche.6.2025",
+    "Driver": "Matt Campbell",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "toyota.7.2025",
+    "Driver": "Mike Conway",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "toyota.7.2025",
+    "Driver": "Kamui Kobayashi",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "toyota.7.2025",
+    "Driver": "Nyck de Vries",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "toyota.8.2025",
+    "Driver": "Brendon Hartley",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "toyota.8.2025",
+    "Driver": "Ryo Hirakawa",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "toyota.8.2025",
+    "Driver": "Sebastien Buemi",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "cadillac.12.2025",
+    "Driver": "Alex Lynn",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "cadillac.12.2025",
+    "Driver": "Norman Nato",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "cadillac.12.2025",
+    "Driver": "Will Stevens",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "cadillac.38.2025",
+    "Driver": "Earl Bamber",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "cadillac.38.2025",
+    "Driver": "Sebastien Bourdais",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "cadillac.38.2025",
+    "Driver": "Jenson Button",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "bmw.15.2025",
+    "Driver": "Kevin Magnussen",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "bmw.15.2025",
+    "Driver": "Raffaele Marciello",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "bmw.15.2025",
+    "Driver": "Dries Vanthoor",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "bmw.20.2025",
+    "Driver": "Rene Rast",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "bmw.20.2025",
+    "Driver": "Robin Frijns",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "bmw.20.2025",
+    "Driver": "Sheldon van der Linde",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "alpine.35.2025",
+    "Driver": "Paul-Loup Chatin",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "alpine.35.2025",
+    "Driver": "Ferdinand Habsburg",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "alpine.35.2025",
+    "Driver": "Charles Milesi",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "alpine.36.2025",
+    "Driver": "Jules Gounon",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "alpine.36.2025",
+    "Driver": "Frederic Makowiecki",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "alpine.36.2025",
+    "Driver": "Mick Schumacher",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "ferrari.50.2025",
+    "Driver": "Antonio Fuoco",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "ferrari.50.2025",
+    "Driver": "Miguel Molina",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "ferrari.50.2025",
+    "Driver": "Nicklas Nielsen",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "ferrari.51.2025",
+    "Driver": "James Calado",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "ferrari.51.2025",
+    "Driver": "Antonio Giovinazzi",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "ferrari.51.2025",
+    "Driver": "Alessandro Pier Guidi",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "afcorse.83.2025",
+    "Driver": "Phil Hanson",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "afcorse.83.2025",
+    "Driver": "Robert Kubica",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "afcorse.83.2025",
+    "Driver": "Yifei Ye",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "peugeot.93.2025",
+    "Driver": "Paul di Resta",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "peugeot.93.2025",
+    "Driver": "Mikkel Jensen",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "peugeot.93.2025",
+    "Driver": "Jean-Eric Vergne",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "peugeot.94.2025",
+    "Driver": "Loic Duval",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "peugeot.94.2025",
+    "Driver": "Malthe Jakobsen",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "peugeot.94.2025",
+    "Driver": "Stoffel Vandoorne",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "proton.99.2025",
+    "Driver": "Neel Jani",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "proton.99.2025",
+    "Driver": "Nico Pino",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "proton.99.2025",
+    "Driver": "Nicolas Varrone",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "spirit.lemans.10.2025",
+    "Driver": "Eduardo Barrichello",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "spirit.lemans.10.2025",
+    "Driver": "Valentin Hasse-Clot",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "spirit.lemans.10.2025",
+    "Driver": "Derek DeBoer",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "heart.racing.27.2025",
+    "Driver": "Mattia Drudi",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "heart.racing.27.2025",
+    "Driver": "Ian James",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "heart.racing.27.2025",
+    "Driver": "Zacharie Robichon",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "af.corse.21.2025",
+    "Driver": "Francois Heriau",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "af.corse.21.2025",
+    "Driver": "Simon Mann",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "af.corse.21.2025",
+    "Driver": "Alessio Rovera",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "af.corse.54.2025",
+    "Driver": "Francesco Castellacci",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "af.corse.54.2025",
+    "Driver": "Thomas Flohr",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "af.corse.54.2025",
+    "Driver": "Davide Rigon",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "wrt.31.2025",
+    "Driver": "Augusto Farfus",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "wrt.31.2025",
+    "Driver": "Yasser Shahin",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "wrt.31.2025",
+    "Driver": "Timur Boguslavskiy",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "wrt.46.2025",
+    "Driver": "Ahmad Al Harthy",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "wrt.46.2025",
+    "Driver": "Valentino Rossi",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "wrt.46.2025",
+    "Driver": "Kelvin van der Linde",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "tf.sport.33.2025",
+    "Driver": "Jonny Edgar",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "tf.sport.33.2025",
+    "Driver": "Daniel Juncadella",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "tf.sport.33.2025",
+    "Driver": "Ben Keating",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "tf.sport.81.2025",
+    "Driver": "Rui Andrade",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "tf.sport.81.2025",
+    "Driver": "Charlie Eastwood",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "tf.sport.81.2025",
+    "Driver": "Tom van Rompuy",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "united.59.2025",
+    "Driver": "Sebastien Baud",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "united.59.2025",
+    "Driver": "James Cottingham",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "united.59.2025",
+    "Driver": "Gregoire Saucy",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "united.95.2025",
+    "Driver": "Sean Gelael",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "united.95.2025",
+    "Driver": "Darren Leung",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "united.95.2025",
+    "Driver": "Marino Sato",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "iron.lynx.60.2025",
+    "Driver": "Matteo Cairoli",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "iron.lynx.60.2025",
+    "Driver": "Matteo Cressoni",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "iron.lynx.60.2025",
+    "Driver": "Andrew Gilbert",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "iron.lynx.61.2025",
+    "Driver": "Lin Hodenius",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "iron.lynx.61.2025",
+    "Driver": "Maxime Martin",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "iron.lynx.61.2025",
+    "Driver": "Martin Berry",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "proton.77.2025",
+    "Driver": "Ben Barker",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "proton.77.2025",
+    "Driver": "Bernardo Sousa",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "proton.77.2025",
+    "Driver": "Ben Tuck",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "proton.88.2025",
+    "Driver": "Stefano Gattuso",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "proton.88.2025",
+    "Driver": "Giammarco Levorato",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "proton.88.2025",
+    "Driver": "Dennis Olsen",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "akkodis.78.2025",
+    "Driver": "Finn Gehrsitz",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "akkodis.78.2025",
+    "Driver": "Arnold Robin",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "akkodis.78.2025",
+    "Driver": "Yuichi Nakayama",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "akkodis.87.2025",
+    "Driver": "Jose Maria Lopez",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "akkodis.87.2025",
+    "Driver": "Clemens Schmid",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "akkodis.87.2025",
+    "Driver": "Razvan Umbrarescu",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "iron.dames.85.2025",
+    "Driver": "Rahel Frey",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "iron.dames.85.2025",
+    "Driver": "Celia Martin",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "iron.dames.85.2025",
+    "Driver": "Michelle Gatting",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "manthey.92.2025",
+    "Driver": "Ryan Hardwick",
+    "SeatPosition": 1,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "manthey.92.2025",
+    "Driver": "Richard Lietz",
+    "SeatPosition": 2,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  },
+  {
+    "SeatType": "Primary",
+    "Team": "manthey.92.2025",
+    "Driver": "Riccardo Pera",
+    "SeatPosition": 3,
+    "ReservePosition": 0,
+    "Championship": "wec"
+  }
+]
