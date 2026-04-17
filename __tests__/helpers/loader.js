@@ -178,4 +178,4 @@ function fmt(violations, limit = 10) {
   return shown.join('\n') + tail;
 }
 
-module.exports = { loadAll, DATA_DIR, parseRelaxed, fmt };
+module.exports = { loadAll, DATA_DIR, parseRelaxed, stripComments, fmt };

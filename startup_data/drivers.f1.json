@@ -128,5 +128,25 @@
     "Name": "Liam Lawson",
     "Nationality": "New Zealand",
     "RaceNumber": 30
+  },
+  {
+    "Name": "Sebastian Vettel",
+    "Nationality": "Germany",
+    "RaceNumber": 5
+  },
+  {
+    "Name": "Kimi Raikkonen",
+    "Nationality": "Finland",
+    "RaceNumber": 7
+  },
+  {
+    "Name": "Nikita Mazepin",
+    "Nationality": "Russia",
+    "RaceNumber": 9
+  },
+  {
+    "Name": "Nicholas Latifi",
+    "Nationality" : "Canada",
+    "RaceNumber": 6
   }
 ]

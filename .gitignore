@@ -3,6 +3,9 @@ node_modules/
 # Jest coverage
 coverage/
 
+# Jest JUnit reporter output
+test-results/
+
 # OS
 .DS_Store
 Thumbs.db

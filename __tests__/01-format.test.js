@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { loadAll, DATA_DIR, parseRelaxed, fmt } = require('./helpers/loader');
+const { loadAll, DATA_DIR, parseRelaxed, stripComments, fmt } = require('./helpers/loader');
 
 let db;
 beforeAll(() => { db = loadAll(); });
@@ -38,19 +38,19 @@ describe('File format', () => {
     expect(fmt(bomFiles)).toBe('');
   });
 
-  it('files should be valid strict JSON (no comments, no trailing commas)', () => {
-    // Informational: shows which files rely on relaxed parsing features.
-    const strictFailures = [];
+  it('files should have no trailing commas (// comments are allowed, as in .jsonc)', () => {
+    const violations = [];
     for (const file of jsonFiles) {
-      const raw = fs.readFileSync(path.join(DATA_DIR, file), 'utf8')
-        .replace(/^\uFEFF/, ''); // strip BOM only for this check
+      let raw = fs.readFileSync(path.join(DATA_DIR, file), 'utf8')
+        .replace(/^\uFEFF/, ''); // strip BOM
+      raw = stripComments(raw);  // strip // comments — they are permitted
       try {
         JSON.parse(raw);
       } catch (e) {
-        strictFailures.push(`${file}: ${e.message}`);
+        violations.push(`${file}: ${e.message}`);
       }
     }
-    expect(fmt(strictFailures)).toBe('');
+    expect(fmt(violations)).toBe('');
   });
 });
 
