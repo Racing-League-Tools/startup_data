@@ -281,18 +281,27 @@ Parser settings applied by the application:
 | `Car` | string | | Default car: `cars.UniqueName`. |
 | `Nationality` | string | | Country name. Should match a `nations.Name` value. |
 | `Position` | integer | | Display sort order. |
-| `Color` | string | | Primary colour as ARGB hex (e.g. `"#FFEC001E"`). The leading `FF` byte is the alpha channel. |
-| `SecondaryColor` | string | | Secondary colour (ARGB hex). |
-| `TertiaryColor` | string | | Tertiary colour (ARGB hex). |
-| `ColorRaw` | integer | | Raw integer representation of the primary colour (legacy field). |
-| `SecondaryColorRaw` | integer | | Raw integer for secondary colour (legacy). |
+| `Color` | string | | Primary colour. Accepted formats: see **Colour formats** note below. |
+| `SecondaryColor` | string | | Secondary colour. Same accepted formats. |
+| `TertiaryColor` | string | | Tertiary colour. Same accepted formats. |
+| `ColorRaw` | integer | | Legacy field — ignored by the current loader. Keep at `0`. |
+| `SecondaryColorRaw` | integer | | Legacy field — ignored by the current loader. Keep at `0`. |
 | `Year` | integer | | Season year this team entry corresponds to. |
 | `Seats` | integer | | Number of seats/drivers in the team. `0` means unspecified. |
 | `AliasesRaw` | string | | Comma-separated alternative names used for matching external results. |
 | `Origin` | string | | Manufacturer / parent organisation name. |
 | `Prestige` | integer | | Prestige ranking (informational). |
 
-> **Note:** Colour values use ARGB format with an `#FF` alpha prefix. When displayed in UI or exported as hex colours the alpha byte is dropped and the remaining 6 digits are used.
+> **Colour formats** — the `Color`, `SecondaryColor`, and `TertiaryColor` fields are parsed by `RltColor.Parse()` and accept the following formats:
+>
+> | Format | Example | Alpha |
+> |--------|---------|-------|
+> | `#RRGGBB` — 6-digit hex | `"#ED1C24"` | Assumed `FF` (fully opaque) |
+> | `#AARRGGBB` — 8-digit hex | `"#FFED1C24"` | Explicit, first byte |
+> | `R,G,B` — comma-separated bytes | `"237,28,36"` | Assumed `255` (fully opaque) |
+> | `R,G,B,A` — comma-separated bytes with alpha | `"237,28,36,255"` | Fourth value |
+>
+> All four formats are equivalent at runtime. The 8-digit hex (`#AARRGGBB`) is used in the built-in files and is the **recommended** form for new files. The `ColorRaw` / `SecondaryColorRaw` integer fields are **legacy** and are no longer read by the colour system; leave them as `0`.
 
 ```json
 [
@@ -430,4 +439,4 @@ The following checks are recommended when validating startup data files:
 | 15 | `PointAction.Championship` (when set) references an existing `championships.UniqueName`. |
 | 16 | Files are placed directly inside `startup_data/` — not in sub-folders. |
 | 17 | File names follow the `<type>[.<qualifier>].json` convention. |
-| 18 | Colour fields in `teams` use 8-digit ARGB hex format (`#FFrrggbb`). |
+| 18 | Colour fields in `teams` use one of the four supported formats: `#RRGGBB`, `#AARRGGBB`, `R,G,B`, or `R,G,B,A`. |

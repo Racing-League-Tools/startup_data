@@ -4287,7 +4287,7 @@
     "RaceLapRecordYear": 2017
   },
   {
-    "UniqueName": "silverstone.reverse.2011",
+    "UniqueName": "silverstone.reverse.2010",
     "CircuitName": "Silverstone Reverse",
     "CircuitFullName": "Silverstone Circuit Reverse",
     "LocationName": "Silverstone",
@@ -4825,21 +4825,6 @@
     "Nation": "United Kingdom",
     "Length": 5891,
     "NumberTurns": 18,
-    "RaceLapRecordTimeMs": 0,
-    "RaceLapRecordYear": 0
-  },
-  {
-    "UniqueName": "spielberg.reverse.2016",
-    "CircuitName": "Spielberg Reverse",
-    "CircuitFullName": "Red Bull Ring Reverse",
-    "LocationName": "Spielberg",
-    "CircuitOrigin": "Spielberg",
-    "Years": "2016",
-    "TrackLayout": "GrandPrix",
-    "TrackType": "Race",
-    "Nation": "Austria",
-    "Length": 4318,
-    "NumberTurns": 10,
     "RaceLapRecordTimeMs": 0,
     "RaceLapRecordYear": 0
   }
