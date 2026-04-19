@@ -33,6 +33,8 @@ jobs:
         run: npm test
         env:
           JEST_JUNIT_OUTPUT_DIR: ./test-results
+          JEST_JUNIT_CLASSNAME: "{filepath}"
+          JEST_JUNIT_TITLE: "{classname} › {title}"
 
       - name: Publish test results
         uses: EnricoMi/publish-unit-test-result-action@v2
