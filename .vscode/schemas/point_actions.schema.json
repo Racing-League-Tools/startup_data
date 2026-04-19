@@ -17,7 +17,7 @@
       "TeamPoints":          { "type": "number", "description": "Points awarded to the team. Defaults to DriverPoints if omitted." },
       "SessionType":         { "type": "string", "enum": ["Race", "Qualification", "Practice"] },
       "Championship":        { "type": "string", "description": "championships.UniqueName or BaseChampionship. Empty = global default." },
-      "ChampionshipId":      { "type": "integer", "const": 0, "description": "Internal id. Always 0 in startup data." },
+      "ChampionshipId":      { "type": "integer", "description": "Internal id." },
       "RaceType":            { "type": ["string", "null"], "description": "\"Main\", \"Sprint\", \"Feature\", etc. Null = any." },
       "QualificationType":   { "type": ["string", "null"], "description": "Qualification sub-type. Null = any." }
     }
