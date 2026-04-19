@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Nations",
+  "description": "Array of nation / country records (nations*.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Name"],
+    "additionalProperties": true,
+    "properties": {
+      "Name":         { "type": "string", "minLength": 1, "description": "Full country name. Unique key." },
+      "Code":         { "type": "string", "description": "ISO country code, e.g. \"GBR\"." },
+      "FlagFileName": { "type": "string", "description": "Flag image asset file name." }
+    }
+  }
+}

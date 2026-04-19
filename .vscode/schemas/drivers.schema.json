@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Drivers",
+  "description": "Array of driver records (drivers*.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Name"],
+    "additionalProperties": true,
+    "properties": {
+      "Name":        { "type": "string", "minLength": 1, "description": "Full driver name. Unique key. Referenced by LineUp.Driver." },
+      "Nationality": { "type": "string", "description": "nations.Name" },
+      "RaceNumber":  { "type": "integer" },
+      "ShortName":   { "type": "string", "description": "Three-letter abbreviation, e.g. \"HAM\"." },
+      "RealName":    { "type": "string" },
+      "Platform":    { "type": "string", "description": "\"PC\", \"PlayStation\", \"Xbox\", etc." },
+      "Description": { "type": "string" },
+      "Discord":     { "type": "string" },
+      "Steam":       { "type": "string" }
+    }
+  }
+}

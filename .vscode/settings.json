@@ -1,0 +1,48 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["startup_data/nations*.json"],
+      "url": "./.vscode/schemas/nations.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/car_classes*.json"],
+      "url": "./.vscode/schemas/car_classes.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/cars*.json"],
+      "url": "./.vscode/schemas/cars.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/vendors*.json"],
+      "url": "./.vscode/schemas/vendors.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/games*.json"],
+      "url": "./.vscode/schemas/games.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/circuits*.json"],
+      "url": "./.vscode/schemas/circuits.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/drivers*.json"],
+      "url": "./.vscode/schemas/drivers.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/teams*.json"],
+      "url": "./.vscode/schemas/teams.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/championships*.json"],
+      "url": "./.vscode/schemas/championships.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/lineups*.json"],
+      "url": "./.vscode/schemas/lineups.schema.json"
+    },
+    {
+      "fileMatch": ["startup_data/point_actions*.json"],
+      "url": "./.vscode/schemas/point_actions.schema.json"
+    }
+  ]
+}

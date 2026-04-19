@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Lineups",
+  "description": "Array of driver/team assignment records (lineups*.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["Driver", "Team", "Championship", "SeatType"],
+    "additionalProperties": true,
+    "properties": {
+      "Driver":          { "type": "string", "minLength": 1, "description": "drivers.Name" },
+      "Team":            { "type": "string", "minLength": 1, "description": "teams.UniqueName" },
+      "Championship":    { "type": "string", "minLength": 1, "description": "championships.UniqueName or BaseChampionship" },
+      "SeatType":        { "type": "string", "enum": ["Primary", "Reserve"], "description": "\"Primary\" or \"Reserve\"." },
+      "SeatPosition": {
+        "type": "integer",
+        "description": "Seat number for Primary drivers (1-based). 0 for Reserve drivers."
+      },
+      "ReservePosition": {
+        "type": "integer",
+        "description": "Reserve slot number (1-based). 0 for Primary drivers."
+      }
+    },
+    "if": { "properties": { "SeatType": { "const": "Primary" } } },
+    "then": {
+      "properties": {
+        "SeatPosition":    { "type": "integer", "minimum": 1 },
+        "ReservePosition": { "type": "integer", "const": 0 }
+      }
+    },
+    "else": {
+      "properties": {
+        "SeatPosition":    { "type": "integer", "const": 0 },
+        "ReservePosition": { "type": "integer", "minimum": 1 }
+      }
+    }
+  }
+}

@@ -280,7 +280,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "metalmoro.mrx,honda.p3",
+        "UniqueName": "metalmoro.mrx.honda.p3",
         "Name": "Metalmoro MRX Honda P3",
         "CarClass": "trackday",
         "Vendor": "honda",
@@ -291,7 +291,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "metalmoro.mrx,duratec.p3",
+        "UniqueName": "metalmoro.mrx.duratec.p3",
         "Name": "Metalmoro MRX Duratec P3",
         "CarClass": "trackday",
         "Year": 2009,

@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Point Actions",
+  "description": "Array of points scoring rule records (point_actions*.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["ActionType", "DriverPoints", "SessionType"],
+    "additionalProperties": true,
+    "properties": {
+      "ActionType": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Position or bonus identifier, e.g. \"P1\", \"FastestLap\", \"PolePosition\"."
+      },
+      "DriverPoints":        { "type": "number", "description": "Points awarded to the driver." },
+      "TeamPoints":          { "type": "number", "description": "Points awarded to the team. Defaults to DriverPoints if omitted." },
+      "SessionType":         { "type": "string", "enum": ["Race", "Qualification", "Practice"] },
+      "Championship":        { "type": "string", "description": "championships.UniqueName or BaseChampionship. Empty = global default." },
+      "ChampionshipId":      { "type": "integer", "const": 0, "description": "Internal id. Always 0 in startup data." },
+      "RaceType":            { "type": ["string", "null"], "description": "\"Main\", \"Sprint\", \"Feature\", etc. Null = any." },
+      "QualificationType":   { "type": ["string", "null"], "description": "Qualification sub-type. Null = any." }
+    }
+  }
+}

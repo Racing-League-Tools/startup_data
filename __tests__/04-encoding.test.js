@@ -5,15 +5,18 @@ const { loadAll, fmt } = require('./helpers/loader');
 let db;
 beforeAll(() => { db = loadAll(); });
 
+// Fields that intentionally hold arbitrary text (URLs, file paths) — skip non-ASCII check.
+const SKIP_FIELDS = new Set(['_file', 'OfficialLink', 'FlagFileName']);
+
 /**
- * Scan records for non-ASCII characters in the given string fields.
- * Returns violation strings showing the offending characters.
+ * Scan ALL string fields in every record for non-ASCII characters.
+ * Returns violation strings showing the file, record key, field name and offending glyphs.
  */
-function nonAsciiFields(records, keyFn, ...fields) {
+function nonAsciiAll(records, keyFn) {
   const violations = [];
   for (const r of records) {
-    for (const field of fields) {
-      const val = r[field];
+    for (const [field, val] of Object.entries(r)) {
+      if (SKIP_FIELDS.has(field)) continue;
       if (typeof val !== 'string' || val === '') continue;
       const bad = [...val].filter(ch => ch.charCodeAt(0) > 0x7E);
       if (bad.length) {
@@ -29,56 +32,56 @@ function nonAsciiFields(records, keyFn, ...fields) {
  * Scan records to ensure UniqueName-style keys contain only [a-z0-9._-].
  */
 function invalidUniqueNames(records, keyFn) {
-  const SAFE = /^[a-z0-9._-]+$/;
+  const SAFE = /^[a-z0-9.]+$/;
   const violations = [];
   for (const r of records) {
     const val = r.UniqueName;
     if (typeof val !== 'string' || val === '') continue;
     if (!SAFE.test(val)) {
-      violations.push(`[${r._file}] "${keyFn(r)}" — UniqueName: "${val}" contains invalid characters (allowed: a-z 0-9 . _ -)`);
+      violations.push(`[${r._file}] "${keyFn(r)}" — UniqueName: "${val}" contains invalid characters (allowed: a-z 0-9 .)`);
     }
   }
   return violations;
 }
 
 // ─────────────────────────────────────────────
-// 1. Non-ASCII characters in display name fields
+// 1. Non-ASCII characters in any string field
 // ─────────────────────────────────────────────
-describe('Non-ASCII characters in name fields', () => {
-  it('nations.Name must be ASCII', () => {
-    expect(fmt(nonAsciiFields(db.nations, r => r.Name, 'Name'))).toBe('');
+describe('Non-ASCII characters in string fields', () => {
+  it('nations — all string fields must be ASCII', () => {
+    expect(fmt(nonAsciiAll(db.nations, r => r.Name))).toBe('');
   });
 
-  it('car_classes.Name must be ASCII', () => {
-    expect(fmt(nonAsciiFields(db.carClasses, r => r.UniqueName, 'Name'))).toBe('');
+  it('car_classes — all string fields must be ASCII', () => {
+    expect(fmt(nonAsciiAll(db.carClasses, r => r.UniqueName))).toBe('');
   });
 
-  it('vendors.Name must be ASCII', () => {
-    expect(fmt(nonAsciiFields(db.vendors, r => r.UniqueName, 'Name'))).toBe('');
+  it('vendors — all string fields must be ASCII', () => {
+    expect(fmt(nonAsciiAll(db.vendors, r => r.UniqueName))).toBe('');
   });
 
-  it('games.Name must be ASCII', () => {
-    expect(fmt(nonAsciiFields(db.games, r => r.UniqueName, 'Name'))).toBe('');
+  it('games — all string fields must be ASCII', () => {
+    expect(fmt(nonAsciiAll(db.games, r => r.UniqueName))).toBe('');
   });
 
-  it('circuits.CircuitName must be ASCII', () => {
-    expect(fmt(nonAsciiFields(db.circuits, r => r.UniqueName, 'CircuitName', 'Name'))).toBe('');
+  it('circuits — all string fields must be ASCII', () => {
+    expect(fmt(nonAsciiAll(db.circuits, r => r.UniqueName))).toBe('');
   });
 
-  it('cars.Name must be ASCII', () => {
-    expect(fmt(nonAsciiFields(db.cars, r => r.UniqueName, 'Name'))).toBe('');
+  it('cars — all string fields must be ASCII', () => {
+    expect(fmt(nonAsciiAll(db.cars, r => r.UniqueName))).toBe('');
   });
 
-  it('teams.Name must be ASCII', () => {
-    expect(fmt(nonAsciiFields(db.teams, r => r.UniqueName, 'Name'))).toBe('');
+  it('teams — all string fields must be ASCII', () => {
+    expect(fmt(nonAsciiAll(db.teams, r => r.UniqueName))).toBe('');
   });
 
-  it('drivers.Name must be ASCII', () => {
-    expect(fmt(nonAsciiFields(db.drivers, r => r.Name, 'Name'))).toBe('');
+  it('drivers — all string fields must be ASCII', () => {
+    expect(fmt(nonAsciiAll(db.drivers, r => r.Name))).toBe('');
   });
 
-  it('championships.Name must be ASCII', () => {
-    expect(fmt(nonAsciiFields(db.championships, r => r.UniqueName, 'Name'))).toBe('');
+  it('championships — all string fields must be ASCII', () => {
+    expect(fmt(nonAsciiAll(db.championships, r => r.UniqueName))).toBe('');
   });
 });
 
@@ -86,31 +89,31 @@ describe('Non-ASCII characters in name fields', () => {
 // 2. UniqueName keys must use [a-z0-9._-] only
 // ─────────────────────────────────────────────
 describe('UniqueName character set', () => {
-  it('car_classes.UniqueName must use only [a-z0-9._-]', () => {
+  it('car_classes.UniqueName must use only [a-z0-9.]', () => {
     expect(fmt(invalidUniqueNames(db.carClasses, r => r.UniqueName))).toBe('');
   });
 
-  it('vendors.UniqueName must use only [a-z0-9._-]', () => {
+  it('vendors.UniqueName must use only [a-z0-9.]', () => {
     expect(fmt(invalidUniqueNames(db.vendors, r => r.UniqueName))).toBe('');
   });
 
-  it('games.UniqueName must use only [a-z0-9._-]', () => {
+  it('games.UniqueName must use only [a-z0-9.]', () => {
     expect(fmt(invalidUniqueNames(db.games, r => r.UniqueName))).toBe('');
   });
 
-  it('circuits.UniqueName must use only [a-z0-9._-]', () => {
+  it('circuits.UniqueName must use only [a-z0-9.]', () => {
     expect(fmt(invalidUniqueNames(db.circuits, r => r.UniqueName))).toBe('');
   });
 
-  it('cars.UniqueName must use only [a-z0-9._-]', () => {
+  it('cars.UniqueName must use only [a-z0-9.]', () => {
     expect(fmt(invalidUniqueNames(db.cars, r => r.UniqueName))).toBe('');
   });
 
-  it('teams.UniqueName must use only [a-z0-9._-]', () => {
+  it('teams.UniqueName must use only [a-z0-9.]', () => {
     expect(fmt(invalidUniqueNames(db.teams, r => r.UniqueName))).toBe('');
   });
 
-  it('championships.UniqueName must use only [a-z0-9._-]', () => {
+  it('championships.UniqueName must use only [a-z0-9.]', () => {
     expect(fmt(invalidUniqueNames(db.championships, r => r.UniqueName))).toBe('');
   });
 });

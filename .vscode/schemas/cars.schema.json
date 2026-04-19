@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Cars",
+  "description": "Array of car / vehicle records (cars*.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["UniqueName", "Name"],
+    "additionalProperties": true,
+    "properties": {
+      "UniqueName": {
+        "type": "string",
+        "pattern": "^[a-z0-9.]+$",
+        "description": "Stable identifier - accepted lowercase letters, digits, and dots. Referenced by Team.Car, Championship.Cars[]."
+      },
+      "Name":           { "type": "string", "minLength": 1 },
+      "CarClass":       { "type": "string", "description": "car_classes.UniqueName" },
+      "Vendor":         { "type": "string", "description": "vendors.UniqueName" },
+      "Year":           { "type": "integer" },
+      "Power":          { "type": "integer", "description": "Horsepower." },
+      "AliasesRaw":     { "type": "string", "description": "Comma-separated alternative names." },
+      "Color":          { "$ref": "#/$defs/colour" },
+      "SecondaryColor": { "$ref": "#/$defs/colour" },
+      "TertiaryColor":  { "$ref": "#/$defs/colour" }
+    }
+  },
+  "$defs": {
+    "colour": {
+      "description": "RltColor.Parse() format: #RRGGBB, #AARRGGBB, R,G,B or R,G,B,A. Empty string means no colour.",
+      "type": "string",
+      "anyOf": [
+        { "const": "" },
+        { "pattern": "^#[0-9A-Fa-f]{6}$" },
+        { "pattern": "^#[0-9A-Fa-f]{8}$" },
+        { "pattern": "^(25[0-5]|2[0-4]\\d|1?\\d{1,2}),(25[0-5]|2[0-4]\\d|1?\\d{1,2}),(25[0-5]|2[0-4]\\d|1?\\d{1,2})$" },
+        { "pattern": "^(25[0-5]|2[0-4]\\d|1?\\d{1,2}),(25[0-5]|2[0-4]\\d|1?\\d{1,2}),(25[0-5]|2[0-4]\\d|1?\\d{1,2}),(25[0-5]|2[0-4]\\d|1?\\d{1,2})$" }
+      ]
+    }
+  }
+}

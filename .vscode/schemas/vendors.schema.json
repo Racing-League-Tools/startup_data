@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vendors",
+  "description": "Array of manufacturer / vendor records (vendors*.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["UniqueName", "Name"],
+    "additionalProperties": true,
+    "properties": {
+      "UniqueName": {
+        "type": "string",
+        "pattern": "^[a-z0-9.]+$",
+        "description": "Stable identifier - accepted lowercase letters, digits, and dots. Referenced by Car.Vendor."
+      },
+      "Name":    { "type": "string", "minLength": 1, "description": "Display name, e.g. \"Ferrari\"." },
+      "Country": { "type": "string", "description": "Country of origin. Should match a nations.Name value." }
+    }
+  }
+}
