@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Car Classes",
+  "description": "Array of car class records (car_classes*.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["UniqueName", "Name"],
+    "additionalProperties": true,
+    "properties": {
+      "UniqueName": {
+        "type": "string",
+        "pattern": "^[a-z0-9.]+$",
+        "description": "Stable identifier - accepted lowercase letters, digits, and dots. Referenced by Car.CarClass."
+      },
+      "Name": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Display name, e.g. \"Formula 1\"."
+      }
+    }
+  }
+}

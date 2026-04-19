@@ -506,7 +506,7 @@
   {
     "UniqueName": "ascurra.2011",
     "CircuitName": "Ascurra",
-    "CircuitFullName": "Autódromo Max Mohr",
+    "CircuitFullName": "Autodromo Max Mohr",
     "LocationName": "Ascurra",
     "CircuitOrigin": "Ascurra",
     "Years": "2011",
@@ -522,7 +522,7 @@
   {
     "UniqueName": "ascurra.rx.2011",
     "CircuitName": "Ascurra RX",
-    "CircuitFullName": "Autódromo Max Mohr",
+    "CircuitFullName": "Autodromo Max Mohr",
     "LocationName": "Ascurra",
     "CircuitOrigin": "Ascurra",
     "Years": "2011",
@@ -648,11 +648,11 @@
     "RaceLapRecordYear": 2004
   },
   {
-        "UniqueName": "brasilia.2014",
-    "CircuitName": "Brasília",
-    "CircuitFullName": "Autódromo Internacional de Brasília",
-    "LocationName": "Brasília",
-    "CircuitOrigin": "Brasília",
+    "UniqueName": "brasilia.2014",
+    "CircuitName": "Brasilia",
+    "CircuitFullName": "Autodromo Internacional de Brasilia",
+    "LocationName": "Brasilia",
+    "CircuitOrigin": "Brasilia",
     "Years": "2014",
     "TrackLayout": "International",
     "TrackType": "Race",
@@ -665,10 +665,10 @@
   },
   {
     "UniqueName": "brasilia.anelexterno.2014",
-    "CircuitName": "Brasília Anel Externo",
-    "CircuitFullName": "Autódromo Internacional de Brasília",
-    "LocationName": "Brasília",
-    "CircuitOrigin": "Brasília",
+    "CircuitName": "Brasilia Anel Externo",
+    "CircuitFullName": "Autodromo Internacional de Brasilia",
+    "LocationName": "Brasilia",
+    "CircuitOrigin": "Brasilia",
     "Years": "2014",
     "TrackLayout": "Short",
     "TrackType": "Race",
@@ -682,7 +682,7 @@
   {
     "UniqueName": "buenos.aires.no6.1972",
     "CircuitName": "Buenos Aires No. 6S",
-    "CircuitFullName": "Autódromo de Buenos Aires Oscar y Juan Gálvez",
+    "CircuitFullName": "Autodromo de Buenos Aires Oscar y Juan Galvez",
     "LocationName": "Buenos Aires",
     "CircuitOrigin": "Buenos Aires",
     "Years": "1972",
@@ -698,7 +698,7 @@
   {
     "UniqueName": "buenos.aires.no6s.1995",
     "CircuitName": "Buenos Aires No. 6",
-    "CircuitFullName": "Autódromo de Buenos Aires Oscar y Juan Gálvez",
+    "CircuitFullName": "Autodromo de Buenos Aires Oscar y Juan Galvez",
     "LocationName": "Buenos Aires",
     "CircuitOrigin": "Buenos Aires",
     "Years": "1995",
@@ -714,7 +714,7 @@
   {
     "UniqueName": "buenos.aires.no7.1972",
     "CircuitName": "Buenos Aires No. 7",
-    "CircuitFullName": "Autódromo de Buenos Aires Oscar y Juan Gálvez",
+    "CircuitFullName": "Autodromo de Buenos Aires Oscar y Juan Galvez",
     "LocationName": "Buenos Aires",
     "CircuitOrigin": "Buenos Aires",
     "Years": "1972",
@@ -730,7 +730,7 @@
   {
     "UniqueName": "buenos.aires.no8.1972",
     "CircuitName": "Buenos Aires No. 8",
-    "CircuitFullName": "Autódromo de Buenos Aires Oscar y Juan Gálvez",
+    "CircuitFullName": "Autodromo de Buenos Aires Oscar y Juan Galvez",
     "LocationName": "Buenos Aires",
     "CircuitOrigin": "Buenos Aires",
     "Years": "1972",
@@ -746,7 +746,7 @@
   {
     "UniqueName": "buenos.aires.no9.1972",
     "CircuitName": "Buenos Aires No. 9",
-    "CircuitFullName": "Autódromo de Buenos Aires Oscar y Juan Gálvez",
+    "CircuitFullName": "Autodromo de Buenos Aires Oscar y Juan Galvez",
     "LocationName": "Buenos Aires",
     "CircuitOrigin": "Buenos Aires",
     "Years": "1972",
@@ -763,7 +763,7 @@
   {
     "UniqueName": "buenos.aires.no12.1972",
     "CircuitName": "Buenos Aires No. 12",
-    "CircuitFullName": "Autódromo de Buenos Aires Oscar y Juan Gálvez",
+    "CircuitFullName": "Autodromo de Buenos Aires Oscar y Juan Galvez",
     "LocationName": "Buenos Aires",
     "CircuitOrigin": "Buenos Aires",
     "Years": "1972",
@@ -779,7 +779,7 @@
   {
     "UniqueName": "buenos.aires.no15.1972",
     "CircuitName": "Buenos Aires No. 15",
-    "CircuitFullName": "Autódromo de Buenos Aires Oscar y Juan Gálvez",
+    "CircuitFullName": "Autodromo de Buenos Aires Oscar y Juan Galvez",
     "LocationName": "Buenos Aires",
     "CircuitOrigin": "Buenos Aires",
     "Years": "1972",
@@ -843,7 +843,7 @@
   {
     "UniqueName": "campo.grande.2009",
     "CircuitName": "Campo Grande",
-    "CircuitFullName": "Autódromo Internacional Orlando Moura",
+    "CircuitFullName": "Autodromo Internacional Orlando Moura",
     "LocationName": "Campo Grande",
     "CircuitOrigin": "Campo Grande",
     "Years": "2009",
@@ -859,7 +859,7 @@
   {
     "UniqueName": "estoril.2000",
     "CircuitName": "Estoril",
-    "CircuitFullName": "Autódromo do Estoril",
+    "CircuitFullName": "Autodromo do Estoril",
     "LocationName": "Cascais",
     "CircuitOrigin": "Estoril",
     "Years": "2000",
@@ -875,7 +875,7 @@
   {
     "UniqueName": "estoril.atl.2018",
     "CircuitName": "Estoril Alt",
-    "CircuitFullName": "Autódromo do Estoril",
+    "CircuitFullName": "Autodromo do Estoril",
     "LocationName": "Cascais",
     "CircuitOrigin": "Estoril",
     "Years": "2018",
@@ -891,7 +891,7 @@
   {
     "UniqueName": "cascavel.1970",
     "CircuitName": "Cascavel",
-    "CircuitFullName": "Autódromo Internacional Zilmar Beux de Cascavel",
+    "CircuitFullName": "Autodromo Internacional Zilmar Beux de Cascavel",
     "LocationName": "Cascavel",
     "CircuitOrigin": "Cascavel",
     "Years": "1970",
@@ -954,9 +954,9 @@
   },
   {
     "UniqueName": "cordoba.1998",
-    "CircuitName": "Córdoba",
-    "CircuitFullName": "Autódromo Oscar Cabalén",
-    "LocationName": "Córdoba",
+    "CircuitName": "Cordoba",
+    "CircuitFullName": "Autodromo Oscar Cabalen",
+    "LocationName": "Cordoba",
     "CircuitOrigin": "Cordoba",
     "Years": "1998",
     "TrackLayout": "GrandPrix",
@@ -971,8 +971,8 @@
   {
     "UniqueName": "cordoba.outer.1998",
     "CircuitName": "Cordoba International",
-    "CircuitFullName": "Autódromo Oscar Cabalén",
-    "LocationName": "Córdoba",
+    "CircuitFullName": "Autodromo Oscar Cabalen",
+    "LocationName": "Cordoba",
     "CircuitOrigin": "Cordoba",
     "Years": "1998",
     "TrackLayout": "International",
@@ -987,8 +987,8 @@
   {
     "UniqueName": "cordoba.short.1998",
     "CircuitName": "Cordoba National",
-    "CircuitFullName": "Autódromo Oscar Cabalén",
-    "LocationName": "Córdoba",
+    "CircuitFullName": "Autodromo Oscar Cabalen",
+    "LocationName": "Cordoba",
     "CircuitOrigin": "Cordoba",
     "Years": "1998",
     "TrackLayout": "National",
@@ -1003,7 +1003,7 @@
   {
     "UniqueName": "curitiba.2022",
     "CircuitName": "Curitiba",
-    "CircuitFullName": "Autódromo Internacional de Curitiba",
+    "CircuitFullName": "Autodromo Internacional de Curitiba",
     "LocationName": "Pinhais",
     "CircuitOrigin": "Curitiba",
     "Years": "1988-2022",
@@ -1019,7 +1019,7 @@
   {
     "UniqueName": "curitiba.outer.2022",
     "CircuitName": "Curitiba Outer",
-    "CircuitFullName": "Autódromo Internacional de Curitiba",
+    "CircuitFullName": "Autodromo Internacional de Curitiba",
     "LocationName": "Pinhais",
     "CircuitOrigin": "Curitiba",
     "Years": "1988-2022",
@@ -1162,9 +1162,9 @@
   },
   {
     "UniqueName": "foz.2013",
-    "CircuitName": "Foz do Iguaçu",
-    "CircuitFullName": "X Games Foz do Iguaçu",
-    "LocationName": "Foz do Iguaçu",
+    "CircuitName": "Foz do Iguacu",
+    "CircuitFullName": "X Games Foz do Iguacu",
+    "LocationName": "Foz do Iguacu",
     "CircuitOrigin": "Foz",
     "Years": "2013",
     "TrackLayout": "National",
@@ -1178,8 +1178,8 @@
   },
   {
     "UniqueName": "galeao.2022",
-    "CircuitName": "Galeão",
-    "CircuitFullName": "Circuito Cacá Bueno",
+    "CircuitName": "Galeao",
+    "CircuitFullName": "Circuito Caca Bueno",
     "LocationName": "Rio de Janeiro",
     "CircuitOrigin": "Galeao",
     "Years": "2022",
@@ -1242,9 +1242,9 @@
   },
   {
     "UniqueName": "goiania.1974",
-    "CircuitName": "Goiânia",
-    "CircuitFullName": "Autódromo Internacional Ayrton Senna",
-    "LocationName": "Goiânia",
+    "CircuitName": "Goiania",
+    "CircuitFullName": "Autodromo Internacional Ayrton Senna",
+    "LocationName": "Goiania",
     "CircuitOrigin": "Goiania",
     "Years": "1974",
     "TrackLayout": "GrandPrix",
@@ -1258,9 +1258,9 @@
   },
   {
     "UniqueName": "goiania.oval.1974",
-    "CircuitName": "Goiânia Oval",
-    "CircuitFullName": "Autódromo Internacional Ayrton Senna",
-    "LocationName": "Goiânia",
+    "CircuitName": "Goiania Oval",
+    "CircuitFullName": "Autodromo Internacional Ayrton Senna",
+    "LocationName": "Goiania",
     "CircuitOrigin": "Goiania",
     "Years": "1974",
     "TrackLayout": "Regular",
@@ -1274,9 +1274,9 @@
   },
   {
     "UniqueName": "goiania.short.1974",
-    "CircuitName": "Goiânia Short",
-    "CircuitFullName": "Autódromo Internacional Ayrton Senna",
-    "LocationName": "Goiânia",
+    "CircuitName": "Goiania Short",
+    "CircuitFullName": "Autodromo Internacional Ayrton Senna",
+    "LocationName": "Goiania",
     "CircuitOrigin": "Goiania",
     "Years": "1974",
     "TrackLayout": "Short",
@@ -1291,7 +1291,7 @@
   {
     "UniqueName": "granja.viana.sps2.1996",
     "CircuitName": "Granja Viana SPS2",
-    "CircuitFullName": "Kartódromo Internacional da Granja Viana",
+    "CircuitFullName": "Kartodromo Internacional da Granja Viana",
     "LocationName": "Cotia",
     "CircuitOrigin": "Granja Viana",
     "Years": "1996",
@@ -1307,7 +1307,7 @@
   {
     "UniqueName": "granja.viana.101.1996",
     "CircuitName": "Granja Viana 101",
-    "CircuitFullName": "Kartódromo Internacional da Granja Viana",
+    "CircuitFullName": "Kartodromo Internacional da Granja Viana",
     "LocationName": "Cotia",
     "CircuitOrigin": "Granja Viana",
     "Years": "1996",
@@ -1323,7 +1323,7 @@
   {
     "UniqueName": "granja.viana.102.1996",
     "CircuitName": "Granja Viana 102",
-    "CircuitFullName": "Kartódromo Internacional da Granja Viana",
+    "CircuitFullName": "Kartodromo Internacional da Granja Viana",
     "LocationName": "Cotia",
     "CircuitOrigin": "Granja Viana",
     "Years": "1996",
@@ -1339,7 +1339,7 @@
   {
     "UniqueName": "granja.viana.121.1996",
     "CircuitName": "Granja Viana 121",
-    "CircuitFullName": "Kartódromo Internacional da Granja Viana",
+    "CircuitFullName": "Kartodromo Internacional da Granja Viana",
     "LocationName": "Cotia",
     "CircuitOrigin": "Granja Viana",
     "Years": "1996",
@@ -1354,9 +1354,9 @@
   },
   {
     "UniqueName": "guapore.1976",
-    "CircuitName": "Guaporé",
-    "CircuitFullName": "Autódromo Internacional de Guaporé",
-    "LocationName": "Guaporé",
+    "CircuitName": "Guapore",
+    "CircuitFullName": "Autodromo Internacional de Guapore",
+    "LocationName": "Guapore",
     "CircuitOrigin": "Guapore",
     "Years": "1976",
     "TrackLayout": "GrandPrix",
@@ -1370,9 +1370,9 @@
   },
   {
     "UniqueName": "guapore.stt.1976",
-    "CircuitName": "Guaporé STT",
-    "CircuitFullName": "Guaporé Super Trophy Trucks",
-    "LocationName": "Guaporé",
+    "CircuitName": "Guapore STT",
+    "CircuitFullName": "Guapore Super Trophy Trucks",
+    "LocationName": "Guapore",
     "CircuitOrigin": "Guapore",
     "Years": "1976",
     "TrackLayout": "Regular",
@@ -1547,7 +1547,7 @@
   {
     "UniqueName": "ibarra.1983",
     "CircuitName": "Yahuarcocha",
-    "CircuitFullName": "Autodromo Internacional José Tobar",
+    "CircuitFullName": "Autodromo Internacional Jose Tobar",
     "LocationName": "Ibarra",
     "CircuitOrigin": "Yahuarcocha",
     "Years": "1983",
@@ -1563,7 +1563,7 @@
   {
     "UniqueName": "ibarra.1983.2",
     "CircuitName": "Yahuarcocha Reverse",
-    "CircuitFullName": "Autodromo Internacional José Tobar",
+    "CircuitFullName": "Autodromo Internacional Jose Tobar",
     "LocationName": "Ibarra",
     "CircuitOrigin": "Yahuarcocha",
     "Years": "1983",
@@ -1578,7 +1578,7 @@
   {
     "UniqueName": "ibarra.reverse.1983",
     "CircuitName": "Yahuarcocha Reverse",
-    "CircuitFullName": "Autodromo Internacional José Tobar",
+    "CircuitFullName": "Autodromo Internacional Jose Tobar",
     "LocationName": "Ibarra",
     "CircuitOrigin": "Yahuarcocha",
     "Years": "1983",
@@ -1707,7 +1707,7 @@
   {
     "UniqueName": "interlagos.scb.2011",
     "CircuitName": "Interlagos SCB ",
-    "CircuitFullName": "Autódromo José Carlos Pace",
+    "CircuitFullName": "Autodromo Jose Carlos Pace",
     "LocationName": "Sao Paulo",
     "CircuitOrigin": "Interlagos",
     "Years": "2011-2017",
@@ -1723,7 +1723,7 @@
   {
     "UniqueName": "interlagos.kart1.2000",
     "CircuitName": "Interlagos Kart 1",
-    "CircuitFullName": "Autódromo José Carlos Pace",
+    "CircuitFullName": "Autodromo Jose Carlos Pace",
     "LocationName": "Sao Paulo",
     "CircuitOrigin": "Interlagos",
     "Years": "2000",
@@ -1739,7 +1739,7 @@
   {
     "UniqueName": "interlagos.kart2.2000",
     "CircuitName": "Interlagos Kart 2",
-    "CircuitFullName": "Autódromo José Carlos Pace",
+    "CircuitFullName": "Autodromo Jose Carlos Pace",
     "LocationName": "Sao Paulo",
     "CircuitOrigin": "Interlagos",
     "Years": "2000",
@@ -1755,7 +1755,7 @@
   {
     "UniqueName": "interlagos.kart3.2000",
     "CircuitName": "Interlagos Kart 3",
-    "CircuitFullName": "Autódromo José Carlos Pace",
+    "CircuitFullName": "Autodromo Jose Carlos Pace",
     "LocationName": "Sao Paulo",
     "CircuitOrigin": "Interlagos",
     "Years": "2000",
@@ -1771,7 +1771,7 @@
   {
     "UniqueName": "interlagos.1940",
     "CircuitName": "Interlagos",
-    "CircuitFullName": "Autódromo de Interlagos",
+    "CircuitFullName": "Autodromo de Interlagos",
     "LocationName": "Sao Paulo",
     "CircuitOrigin": "Interlagos",
     "Years": "1940-1979",
@@ -1787,7 +1787,7 @@
   {
     "UniqueName": "interlagos.outer.1940",
     "CircuitName": "Interlagos Outer",
-    "CircuitFullName": "Autódromo de Interlagos",
+    "CircuitFullName": "Autodromo de Interlagos",
     "LocationName": "Sao Paulo",
     "CircuitOrigin": "Interlagos",
     "Years": "1940-1979",
@@ -1803,7 +1803,7 @@
   {
     "UniqueName": "interlagos.1990",
     "CircuitName": "Interlagos",
-    "CircuitFullName": "Autódromo José Carlos Pace",
+    "CircuitFullName": "Autodromo Jose Carlos Pace",
     "LocationName": "Sao paulo",
     "CircuitOrigin": "Interlagos",
     "Years": "1990-1995",
@@ -1818,8 +1818,8 @@
   },
   {
     "UniqueName": "jacarepagua.1996",
-    "CircuitName": "Jacarepaguá",
-    "CircuitFullName": "Autódromo Internacional Nelson Piquet",
+    "CircuitName": "Jacarepagua",
+    "CircuitFullName": "Autodromo Internacional Nelson Piquet",
     "LocationName": "Rio de janeiro",
     "CircuitOrigin": "Jacarepagua",
     "Years": "1996-2005",
@@ -1834,7 +1834,7 @@
   },
   {
     "UniqueName": "jacarepagua.oval.1996",
-    "CircuitName": "Jacarepaguá Oval",
+    "CircuitName": "Jacarepagua Oval",
     "CircuitFullName": "Emerson Fittipaldi Speedway",
     "LocationName": "Rio de janeiro",
     "CircuitOrigin": "Jacarepagua",
@@ -1850,8 +1850,8 @@
   },
   {
     "UniqueName": "jacarepagua.short.1996",
-    "CircuitName": "Jacarepaguá Short",
-    "CircuitFullName": "Autódromo Internacional Nelson Piquet",
+    "CircuitName": "Jacarepagua Short",
+    "CircuitFullName": "Autodromo Internacional Nelson Piquet",
     "LocationName": "Rio de janeiro",
     "CircuitOrigin": "Jacarepagua",
     "Years": "1996-2012",
@@ -1866,8 +1866,8 @@
   },
   {
     "UniqueName": "jacarepagua.scb.1996",
-    "CircuitName": "Jacarepaguá SCB",
-    "CircuitFullName": "Autódromo Internacional Nelson Piquet",
+    "CircuitName": "Jacarepagua SCB",
+    "CircuitFullName": "Autodromo Internacional Nelson Piquet",
     "LocationName": "Rio de janeiro",
     "CircuitOrigin": "Jacarepagua",
     "Years": "1996-2012",
@@ -1882,8 +1882,8 @@
   },
   {
     "UniqueName": "jacarepagua.1978",
-    "CircuitName": "Jacarepaguá",
-    "CircuitFullName": "Autódromo Internacional Nelson Piquet",
+    "CircuitName": "Jacarepagua",
+    "CircuitFullName": "Autodromo Internacional Nelson Piquet",
     "LocationName": "Rio de janeiro",
     "CircuitOrigin": "Jacarepagua",
     "Years": "1978-1995",
@@ -1899,7 +1899,7 @@
   {
     "UniqueName": "jerez.1994",
     "CircuitName": "Jerez",
-    "CircuitFullName": "Circuito de Jerez – Ángel Nieto",
+    "CircuitFullName": "Circuito de Jerez - Angel Nieto",
     "LocationName": "Jerez de la Frontera",
     "CircuitOrigin": "Jerez",
     "Years": "1994",
@@ -1915,7 +1915,7 @@
   {
     "UniqueName": "jerez.moto.1992",
     "CircuitName": "Jerez Moto",
-    "CircuitFullName": "Circuito de Jerez – Ángel Nieto",
+    "CircuitFullName": "Circuito de Jerez - Angel Nieto",
     "LocationName": "Jerez de la Frontera",
     "CircuitOrigin": "Jerez",
     "Years": "1992",
@@ -1931,7 +1931,7 @@
   {
     "UniqueName": "jerez.1985",
     "CircuitName": "Jerez",
-    "CircuitFullName": "Circuito de Jerez – Ángel Nieto",
+    "CircuitFullName": "Circuito de Jerez - Angel Nieto",
     "LocationName": "Jerez de la Frontera",
     "CircuitOrigin": "Jerez",
     "Years": "1985-1991",
@@ -2060,7 +2060,7 @@
   {
     "UniqueName": "londrina.2004",
     "CircuitName": "Londrina Short",
-    "CircuitFullName": "Autódromo Internacional Ayrton Senna",
+    "CircuitFullName": "Autodromo Internacional Ayrton Senna",
     "LocationName": "Londrina",
     "CircuitOrigin": "Londrina",
     "Years": "2004",
@@ -2076,7 +2076,7 @@
   {
     "UniqueName": "londrina.1992",
     "CircuitName": "Londrina",
-    "CircuitFullName": "Autódromo Internacional Ayrton Senna",
+    "CircuitFullName": "Autodromo Internacional Ayrton Senna",
     "LocationName": "Londrina",
     "CircuitOrigin": "Londrina",
     "Years": "1992",
@@ -2092,7 +2092,7 @@
   {
     "UniqueName": "londrina.kart1.2002",
     "CircuitName": "Londrina Kart 1",
-    "CircuitFullName": "Autódromo Internacional Ayrton Senna",
+    "CircuitFullName": "Autodromo Internacional Ayrton Senna",
     "LocationName": "Londrina",
     "CircuitOrigin": "Londrina",
     "Years": "2002",
@@ -2108,7 +2108,7 @@
   {
     "UniqueName": "londrina.kart2.2002",
     "CircuitName": "Londrina Kart 2",
-    "CircuitFullName": "Autódromo Internacional Ayrton Senna",
+    "CircuitFullName": "Autodromo Internacional Ayrton Senna",
     "LocationName": "Londrina",
     "CircuitOrigin": "Londrina",
     "Years": "2002",
@@ -2364,7 +2364,7 @@
   {
     "UniqueName": "nurburgring.sudschleife.1927",
     "CircuitName": "Sudschleife",
-    "CircuitFullName": "Nurburgring Südschleife",
+    "CircuitFullName": "Nurburgring Sudschleife",
     "LocationName": "Nurburg",
     "CircuitOrigin": "Nurburgring",
     "Years": "1927-1982",
@@ -2764,7 +2764,7 @@
   {
     "UniqueName": "santa.cruz.sul.2005",
     "CircuitName": "Santa Cruz do Sul",
-    "CircuitFullName": "Autódromo Internacional de Santa Cruz do Sul",
+    "CircuitFullName": "Autodromo Internacional de Santa Cruz do Sul",
     "LocationName": "Santa Cruz do Sul",
     "CircuitOrigin": "Santa Cruz do Sul",
     "Years": "2005",
@@ -3181,9 +3181,9 @@
   },
   {
     "UniqueName": "taruma.1970",
-    "CircuitName": "Tarumã",
-    "CircuitFullName": "Autódromo Internacional de Tarumã",
-    "LocationName": "Viamão",
+    "CircuitName": "Taruma",
+    "CircuitFullName": "Autodromo Internacional de Taruma",
+    "LocationName": "Viamao",
     "CircuitOrigin": "Taruma",
     "Years": "1970",
     "TrackLayout": "GrandPrix",
@@ -3197,9 +3197,9 @@
   },
   {
     "UniqueName": "taruma.scb.2014",
-    "CircuitName": "Tarumã SCB",
-    "CircuitFullName": "Autódromo Internacional de Tarumã",
-    "LocationName": "Viamão",
+    "CircuitName": "Taruma SCB",
+    "CircuitFullName": "Autodromo Internacional de Taruma",
+    "LocationName": "Viamao",
     "CircuitOrigin": "Taruma",
     "Years": "2014",
     "TrackLayout": "Regular",
@@ -3213,9 +3213,9 @@
   },
   {
     "UniqueName": "rio.hondo.2013",
-    "CircuitName": "Termas de Río Hondo",
-    "CircuitFullName": "Autódromo Termas de Río Hondo",
-    "LocationName": "Termas de Río Hondo",
+    "CircuitName": "Termas de Rio Hondo",
+    "CircuitFullName": "Autodromo Termas de Rio Hondo",
+    "LocationName": "Termas de Rio Hondo",
     "CircuitOrigin": "Rio Hondo",
     "Years": "2013",
     "TrackLayout": "GrandPrix",
@@ -3293,9 +3293,9 @@
   },
   {
     "UniqueName": "velo.citta.2015",
-    "CircuitName": "Velo Città",
-    "CircuitFullName": "Autódromo Velo Città",
-    "LocationName": "Mogi Guaçu",
+    "CircuitName": "Velo Citta",
+    "CircuitFullName": "Autodromo Velo Citta",
+    "LocationName": "Mogi Guacu",
     "CircuitOrigin": "Velo Citta",
     "Years": "2015",
     "TrackLayout": "GrandPrix",
@@ -3309,9 +3309,9 @@
   },
   {
     "UniqueName": "velo.citta.trackday.2015",
-    "CircuitName": "Velo Città Track Day",
-    "CircuitFullName": "Autódromo Velo Città Track Day",
-    "LocationName": "Mogi Guaçu",
+    "CircuitName": "Velo Citt Track Day",
+    "CircuitFullName": "Autodromo Velo Citt Track Day",
+    "LocationName": "Mogi Guacu",
     "CircuitOrigin": "Velo Citta",
     "Years": "2015",
     "TrackLayout": "Regular",
@@ -3325,9 +3325,9 @@
   },
   {
     "UniqueName": "velo.citta.club.2015",
-    "CircuitName": "Velo Città Club",
-    "CircuitFullName": "Autódromo Velo Città Club Day",
-    "LocationName": "Mogi Guaçu",
+    "CircuitName": "Velo Citta Club",
+    "CircuitFullName": "Autodromo Velo Citta Club Day",
+    "LocationName": "Mogi Guacu",
     "CircuitOrigin": "Velo Citta",
     "Years": "2015",
     "TrackLayout": "Short",
@@ -4287,7 +4287,7 @@
     "RaceLapRecordYear": 2017
   },
   {
-    "UniqueName": "silverstone.reverse.2011",
+    "UniqueName": "silverstone.reverse.2010",
     "CircuitName": "Silverstone Reverse",
     "CircuitFullName": "Silverstone Circuit Reverse",
     "LocationName": "Silverstone",
@@ -4801,7 +4801,7 @@
   {
     "UniqueName": "granja.viana.sps1.1996",
     "CircuitName": "Granja Viana SPS1",
-    "CircuitFullName": "Kartódromo Internacional da Granja Viana",
+    "CircuitFullName": "Kartodromo Internacional da Granja Viana",
     "LocationName": "Cotia",
     "CircuitOrigin": "Granja Viana",
     "Years": "1996",
@@ -4825,21 +4825,6 @@
     "Nation": "United Kingdom",
     "Length": 5891,
     "NumberTurns": 18,
-    "RaceLapRecordTimeMs": 0,
-    "RaceLapRecordYear": 0
-  },
-  {
-    "UniqueName": "spielberg.reverse.2016",
-    "CircuitName": "Spielberg Reverse",
-    "CircuitFullName": "Red Bull Ring Reverse",
-    "LocationName": "Spielberg",
-    "CircuitOrigin": "Spielberg",
-    "Years": "2016",
-    "TrackLayout": "GrandPrix",
-    "TrackType": "Race",
-    "Nation": "Austria",
-    "Length": 4318,
-    "NumberTurns": 10,
     "RaceLapRecordTimeMs": 0,
     "RaceLapRecordYear": 0
   }

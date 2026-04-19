@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Circuits",
+  "description": "Array of race track / circuit records (circuits*.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["UniqueName", "CircuitName"],
+    "additionalProperties": true,
+    "properties": {
+      "UniqueName": {
+        "type": "string",
+        "pattern": "^[a-z0-9.]+$",
+        "description": "Stable identifier - accepted lowercase letters, digits, and dots. Referenced by Championship.Tracks[]."
+      },
+      "CircuitName":             { "type": "string", "minLength": 1, "description": "Short circuit name, ASCII only." },
+      "CircuitFullName":         { "type": "string" },
+      "LocationName":            { "type": "string" },
+      "CircuitOrigin":           { "type": "string" },
+      "Years":                   { "type": "string" },
+      "TrackLayout":             { "type": "string", "description": "Layout variant, e.g. \"GrandPrix\"." },
+      "TrackType":               { "type": "string" },
+      "Nation":                  { "type": "string", "description": "nations.Name" },
+      "Length":                  { "type": "integer", "description": "Track length in metres." },
+      "NumberTurns":             { "type": "integer" },
+      "RaceLapRecordTimeMs":     { "type": "integer" },
+      "RaceLapRecordDriverName": { "type": "string" },
+      "RaceLapRecordYear":       { "type": "integer" }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Championships",
+  "description": "Array of championship / series preset records (championships*.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["UniqueName", "Name"],
+    "additionalProperties": true,
+    "properties": {
+      "UniqueName": {
+        "type": "string",
+        "pattern": "^[a-z0-9.]+$",
+        "description": "Stable identifier - accepted lowercase letters, digits, and dots. Referenced by LineUp.Championship, PointAction.Championship."
+      },
+      "Name":              { "type": "string", "minLength": 1 },
+      "BaseChampionship":  { "type": "string", "description": "Parent series identifier, e.g. \"wec\", \"f1\"." },
+      "Games": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "games.UniqueName values."
+      },
+      "Cars": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "cars.UniqueName values."
+      },
+      "Teams": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "teams.UniqueName values."
+      },
+      "Tracks": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "circuits.UniqueName values."
+      }
+    }
+  }
+}

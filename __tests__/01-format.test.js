@@ -116,34 +116,59 @@ describe('Required fields', () => {
   });
 });
 
+// 3. Color format — accepted formats (RltColor.Parse):
+//   #RRGGBB        — 6-digit hex, alpha assumed FF
+//   #AARRGGBB      — 8-digit hex, explicit alpha
+//   R,G,B          — comma-separated bytes 0-255
+//   R,G,B,A        — comma-separated bytes with alpha
+// Empty string ("") is NOT valid — omit the field instead.
+// Applies to: teams.*, cars.*
 // ─────────────────────────────────────────────
-// 3. Color format in teams: #FFrrggbb (ARGB hex, 9 chars)
-// ─────────────────────────────────────────────
-describe('Team color format', () => {
-  const ARGB_HEX = /^#[0-9A-Fa-f]{8}$/;
+describe('Color format', () => {
+  const HEX6  = /^#[0-9A-Fa-f]{6}$/;
+  const HEX8  = /^#[0-9A-Fa-f]{8}$/;
+  const BYTE  = '(25[0-5]|2[0-4]\\d|1?\\d{1,2})';
+  const RGB   = new RegExp(`^${BYTE},${BYTE},${BYTE}$`);
+  const RGBA  = new RegExp(`^${BYTE},${BYTE},${BYTE},${BYTE}$`);
 
-  function invalidColors(field) {
+  function isValidColor(val) {
+    return HEX6.test(val) || HEX8.test(val) || RGB.test(val) || RGBA.test(val);
+  }
+
+  function invalidColors(records, keyFn, field) {
     const violations = [];
-    for (const t of db.teams) {
-      const val = t[field];
-      if (val == null) continue; // optional field
-      if (!ARGB_HEX.test(val)) {
-        violations.push(`[${t._file}] Team "${t.UniqueName}" — ${field}: "${val}" is not a valid #FFrrggbb ARGB hex`);
+    for (const r of records) {
+      const val = r[field];
+      if (val == null || val === '') continue; // absent or empty = no colour set
+      if (!isValidColor(val)) {
+        violations.push(`[${r._file}] "${keyFn(r)}" — ${field}: "${val}" is not a valid colour`);
       }
     }
     return violations;
   }
 
-  it('teams.Color must be #FFrrggbb when present', () => {
-    expect(fmt(invalidColors('Color'))).toBe('');
+  it('teams.Color must be a valid colour when present', () => {
+    expect(fmt(invalidColors(db.teams, t => t.UniqueName, 'Color'))).toBe('');
   });
 
-  it('teams.SecondaryColor must be #FFrrggbb when present', () => {
-    expect(fmt(invalidColors('SecondaryColor'))).toBe('');
+  it('teams.SecondaryColor must be a valid colour when present', () => {
+    expect(fmt(invalidColors(db.teams, t => t.UniqueName, 'SecondaryColor'))).toBe('');
   });
 
-  it('teams.TertiaryColor must be #FFrrggbb when present', () => {
-    expect(fmt(invalidColors('TertiaryColor'))).toBe('');
+  it('teams.TertiaryColor must be a valid colour when present', () => {
+    expect(fmt(invalidColors(db.teams, t => t.UniqueName, 'TertiaryColor'))).toBe('');
+  });
+
+  it('cars.Color must be a valid colour when present', () => {
+    expect(fmt(invalidColors(db.cars, c => c.UniqueName, 'Color'))).toBe('');
+  });
+
+  it('cars.SecondaryColor must be a valid colour when present', () => {
+    expect(fmt(invalidColors(db.cars, c => c.UniqueName, 'SecondaryColor'))).toBe('');
+  });
+
+  it('cars.TertiaryColor must be a valid colour when present', () => {
+    expect(fmt(invalidColors(db.cars, c => c.UniqueName, 'TertiaryColor'))).toBe('');
   });
 });
 

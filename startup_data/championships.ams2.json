@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "UniqueName": "automobilista.2",
     "Name": "Automobilista 2",
@@ -15,8 +15,8 @@
       "fedge.m3",
       "chevrolet.camaro.arc",
       "caterham.620r",
-      "porsche.911,gt3,cup.38.2016",
-      "porsche,911,gt3.cup.40.2019",
+      "porsche.911.gt3.cup.38.2016",
+      "porsche.911.gt3.cup.40.2019",
       "caterham.270r",
       "caterham.360r",
       "caterham.360r.ss",
@@ -83,7 +83,7 @@
       "lotus.type72e",
       "brabham.bt46b",
       "formula.retro.gen2",
-      "shadow.dN9",
+      "shadow.dn9",
       "lotus.type79",
       "brabham.bt49",
       "formula.hitech.g1.m1",
@@ -254,8 +254,8 @@
       "sigma.p1.g5",
       "metalmoro.mrx.duratec.p2",
       "sigma.p1",
-      "metalmoro.mrx,honda.p3",
-      "metalmoro.mrx,duratec.p3",
+      "metalmoro.mrx.honda.p3",
+      "metalmoro.mrx.duratec.p3",
       "roco.001",
       "mcr.2000",
       "metalmoro.mrx.duratec.p4",

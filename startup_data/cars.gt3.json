@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "UniqueName": "aston.v12.vantage.gt3",
         "Name": "Aston Martin Racing V12 Vantage GT3",
@@ -347,7 +347,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "porsche.911,gt3,cup.38.2016",
+        "UniqueName": "porsche.911.gt3.cup.38.2016",
         "Name": "Porsche 911 GT3 Cup 3.8",
         "CarClass": "gt3",
         "Vendor": "porsche",
@@ -358,7 +358,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "porsche,911,gt3.cup.40.2019",
+        "UniqueName": "porsche.911.gt3.cup.40.2019",
         "Name": "Porsche 911 GT3 Cup 4.0",
         "CarClass": "gt3",
         "Vendor": "porsche",
@@ -437,7 +437,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "lamborghini.lp620-2.st",
+        "UniqueName": "lamborghini.lp6202.st",
         "Name": "Lamborghini Huracan LP620-2 Super Trofeo",
         "CarClass": "gt3",
         "Vendor": "lamborghini",
