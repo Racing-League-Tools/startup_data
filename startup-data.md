@@ -119,6 +119,9 @@ Parser settings applied by the application:
 | `Year` | integer | | Model year. |
 | `Power` | integer | | Horsepower figure. |
 | `AliasesRaw` | string | | Comma-separated list of alternative names used for matching external results. |
+| `Color` | string | | Primary colour. Accepted formats: see **Colour formats** note in the `teams` section below. |
+| `SecondaryColor` | string | | Secondary colour. Same accepted formats. |
+| `TertiaryColor` | string | | Tertiary colour. Same accepted formats. |
 
 ```json
 [
@@ -439,4 +442,4 @@ The following checks are recommended when validating startup data files:
 | 15 | `PointAction.Championship` (when set) references an existing `championships.UniqueName`. |
 | 16 | Files are placed directly inside `startup_data/` — not in sub-folders. |
 | 17 | File names follow the `<type>[.<qualifier>].json` convention. |
-| 18 | Colour fields in `teams` use one of the four supported formats: `#RRGGBB`, `#AARRGGBB`, `R,G,B`, or `R,G,B,A`. |
+| 18 | Colour fields (`Color`, `SecondaryColor`, `TertiaryColor`) in `teams` and `cars` use one of the four supported formats: `#RRGGBB`, `#AARRGGBB`, `R,G,B`, or `R,G,B,A`. |
