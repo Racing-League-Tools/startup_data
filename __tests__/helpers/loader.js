@@ -178,4 +178,39 @@ function fmt(violations, limit = 10) {
   return shown.join('\n') + tail;
 }
 
-module.exports = { loadAll, DATA_DIR, parseRelaxed, stripComments, fmt };
+const IMAGES_DIR = path.resolve(__dirname, '../../images');
+
+/**
+ * Recursively list all .png files under a given directory.
+ * Returns an array of objects { base, variants } where:
+ *   base     — filename without extension and without __variant suffix
+ *   variants — Set of variant suffixes found (e.g. 'dark', 'light', 'alternative')
+ *              Empty set means no variants, just the plain file.
+ *   rawName  — filename without extension (full, including __variant)
+ *   relPath  — path relative to IMAGES_DIR (using forward slashes)
+ */
+function listImages(subDir) {
+  const dir = path.join(IMAGES_DIR, subDir);
+  const results = [];
+  if (!fs.existsSync(dir)) return results;
+
+  function walk(current) {
+    for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
+      const full = path.join(current, entry.name);
+      if (entry.isDirectory()) {
+        walk(full);
+      } else if (entry.name.endsWith('.png')) {
+        const rawName = entry.name.slice(0, -4); // strip .png
+        const relPath = path.relative(IMAGES_DIR, full).replace(/\\/g, '/');
+        const dblIdx = rawName.indexOf('__');
+        const base    = dblIdx === -1 ? rawName : rawName.slice(0, dblIdx);
+        const variant = dblIdx === -1 ? null    : rawName.slice(dblIdx + 2);
+        results.push({ base, variant, rawName, relPath });
+      }
+    }
+  }
+  walk(dir);
+  return results;
+}
+
+module.exports = { loadAll, DATA_DIR, IMAGES_DIR, parseRelaxed, stripComments, fmt, listImages };
