@@ -391,7 +391,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "audi.r8lms.evo2",
+        "UniqueName": "audi.r8.lms.evo2",
         "Name": "Audi R8 LMS Evo II",
         "CarClass": "gt3",
         "Vendor": "audi",
@@ -426,7 +426,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "audi.r8lms.evo",
+        "UniqueName": "audi.r8.lms.evo",
         "Name": "Audi R8 LMS Evo",
         "CarClass": "gt3",
         "Vendor": "audi",
