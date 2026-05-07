@@ -1,190 +1,191 @@
 [
-  {
-    "UniqueName": "f1.2020",
-    "Name": "F1 2020",
-    "Developer": "Codemasters",
-    "Publisher": "Codemasters",
-    "ReleaseDate": "07.07.2020",
-    "PlatformsRaw": "PC, XboxOne, PS4, Stadia",
-    "OfficialLink": "https://www.codemasters.com/game/f1-2020/"
-  },
-  {
-    "UniqueName": "f1.2021",
-    "Name": "F1 2021",
-    "Developer": "Codemasters",
-    "Publisher": "EA",
-    "ReleaseDate": "16.07.2021",
-    "PlatformsRaw": "PC, XboxOne, XboxSeries, PS4, PS5",
-    "OfficialLink": "https://www.ea.com/games/f1/f1-2021"
-  },
-  {
-    "UniqueName": "assetto.corsa",
-    "Name": "Assetto Corsa",
-    "Developer": "Kunos Simulazioni",
-    "Publisher": "505 Games",
-    "ReleaseDate": "19.12.2014",
-    "PlatformsRaw": "PC, XboxOne, PS4",
-    "OfficialLink": "http://www.assettocorsa.net/"
-  },
-  {
-    "UniqueName": "assetto.corsa.competizione",
-    "Name": "Assetto Corsa Competizione",
-    "Developer": "Kunos Simulazioni",
-    "Publisher": "505 Games",
-    "ReleaseDate": "29.05.2019",
-    "PlatformsRaw": "PC, XboxOne, PS4",
-    "OfficialLink": "http://www.assettocorsacompetizione.net/"
-  },
-  {
-    "UniqueName": "iracing",
-    "Name": "iRacing",
-    "Developer": "iRacing",
-    "Publisher": "iRacing",
-    "ReleaseDate": "26.08.2008",
-    "PlatformsRaw": "PC",
-    "OfficialLink": "http://www.iracing.com/"
-  },
-  {
-    "UniqueName": "raceroom",
-    "Name": "RaceRoom Racing Experience",
-    "Developer": "Sector3 Studios",
-    "Publisher": "Sector3 Studios",
-    "ReleaseDate": "12.02.2013",
-    "PlatformsRaw": "PC",
-    "OfficialLink": "http://game.raceroom.com/"
-  },
-  {
-    "UniqueName": "rfactor.2",
-    "Name": "rFactor 2",
-    "Developer": "Image Space Inc.",
-    "Publisher": "Studio 397",
-    "ReleaseDate": "12.11.2015",
-    "PlatformsRaw": "PC",
-    "OfficialLink": "https://www.studio-397.com/"
-  },
-  {
-    "UniqueName": "rfactor",
-    "Name": "rFactor",
-    "Developer": "Image Space Inc.",
-    "Publisher": "Image Space Inc.",
-    "ReleaseDate": "31.08.2005",
-    "PlatformsRaw": "PC",
-    "OfficialLink": "http://rfactor.net/web/rf1/"
-  },
-  {
-    "UniqueName": "f1.22",
-    "Name": "F1 22",
-    "Developer": "Codemasters",
-    "Publisher": "EA",
-    "ReleaseDate": "01.07.2022",
-    "PlatformsRaw": "PC, XboxOne, XboxSeries, PS4, PS5",
-    "OfficialLink": "https://www.ea.com/games/f1/f1-22"
-  },
-  {
-    "UniqueName": "f1.23",
-    "Name": "F1 23",
-    "Developer": "Codemasters",
-    "Publisher": "EA",
-    "ReleaseDate": "16.06.2023",
-    "PlatformsRaw": "PC, XboxOne, XboxSeries, PS4, PS5",
-    "OfficialLink": "https://www.ea.com/games/f1/f1-23"
-  },
-  {
-    "UniqueName": "f1.24",
-    "Name": "F1 24",
-    "Developer": "Codemasters",
-    "Publisher": "EA",
-    "ReleaseDate": "31.05.2024",
-    "PlatformsRaw": "PC, XboxOne, XboxSeries, PS4, PS5",
-    "OfficialLink": "https://www.ea.com/games/f1/f1-24"
-  },
-  {
-    "UniqueName": "forza.motorsport.2023",
-    "Name": "Forza Motorsport",
-    "Developer": "Turn 10 Studios",
-    "Publisher": "Xbox Game Studios",
-    "ReleaseDate": "10.10.2023",
-    "PlatformsRaw": "PC, XboxSeries",
-    "OfficialLink": "https://www.xbox.com/games/store/forza-motorsport"
-  },
-  {
-    "UniqueName": "ea.sports.wrc",
-    "Name": "EA Sports WRC",
-    "Developer": "Codemasters",
-    "Publisher": "EA Sports",
-    "ReleaseDate": "03.11.2023",
-    "PlatformsRaw": "PC, XboxSeries, PS5",
-    "OfficialLink": "https://www.ea.com/games/ea-sports-wrc"
-  },
-  {
-    "UniqueName": "gran.turismo.sport",
-    "Name": "Gran Turismo Sport",
-    "Developer": "Polyphony Digital",
-    "Publisher": "Sony Interactive Entertainment",
-    "ReleaseDate": "17.10.2017",
-    "PlatformsRaw": "PS4, PS5",
-    "OfficialLink": "https://www.gran-turismo.com/products/gtsport"
-  },
-  {
-    "UniqueName": "gran.turismo.7",
-    "Name": "Gran Turismo 7",
-    "Developer": "Polyphony Digital",
-    "Publisher": "Sony Interactive Entertainment",
-    "ReleaseDate": "04.03.2022",
-    "PlatformsRaw": "PS4, PS5",
-    "OfficialLink": "https://www.gran-turismo.com/products/gt7"
-  },
-  {
-    "UniqueName": "assetto.corsa.evo",
-    "Name": "Assetto Corsa EVO",
-    "Developer": "Kunos Simulazioni",
-    "Publisher": "Kunos Simulazioni",
-    "ReleaseDate": "16.01.2025",
-    "PlatformsRaw": "PC",
-    "OfficialLink": "https://www.assettocorsa.net/"
-  },
-  {
-    "UniqueName": "f1.25",
-    "Name": "F1 25",
-    "Developer": "Codemasters",
-    "Publisher": "EA",
-    "ReleaseDate": "01.06.2025",
-    "PlatformsRaw": "PC, PS5, XboxSeries",
-    "OfficialLink": "https://www.ea.com/games/f1/f1-25"
     {
-    "UniqueName": "nascar.25",
-    "Name": "NASCAR 25",
-    "Developer": "Monster Games",
-    "Publisher": "iRacing",
-    "ReleaseDate": "01.11.2025",
-    "PlatformsRaw": "XboxSeries, PS5",
-    "OfficialLink": "https://www.nascar.com/"
-  },
-  {
-    "UniqueName": "wreckfest.2",
-    "Name": "Wreckfest 2",
-    "Developer": "Bugbear",
-    "Publisher": "Bugbear",
-    "ReleaseDate": "01.12.2025",
-    "PlatformsRaw": "PC, PS5, XboxSeries",
-    "OfficialLink": "https://wreckfest.com/"
-  },
-  {
-    "UniqueName": "ams.2",
-    "Name": "Automobilista 2",
-    "Developer": "Reiza Studios",
-    "Publisher": "Reiza Studios",
-    "ReleaseDate": "01.06.2020",
-    "PlatformsRaw": "PC",
-    "OfficialLink": "https://automobilista.gg/"
-  },
-  {
-    "UniqueName": "le.mans.ultimate",
-    "Name": "Le Mans Ultimate",
-    "Developer": "Studio 397",
-    "Publisher": "Motorsport games",
-    "ReleaseDate": "01.07.2025",
-    "PlatformsRaw": "PC",
-    "OfficialLink": "https://lemansultimate.com/"
-  }
+        "UniqueName": "f1.2020",
+        "Name": "F1 2020",
+        "Developer": "Codemasters",
+        "Publisher": "Codemasters",
+        "ReleaseDate": "07.07.2020",
+        "PlatformsRaw": "PC, XboxOne, PS4, Stadia",
+        "OfficialLink": "https://www.codemasters.com/game/f1-2020/"
+    },
+    {
+        "UniqueName": "f1.2021",
+        "Name": "F1 2021",
+        "Developer": "Codemasters",
+        "Publisher": "EA",
+        "ReleaseDate": "16.07.2021",
+        "PlatformsRaw": "PC, XboxOne, XboxSeries, PS4, PS5",
+        "OfficialLink": "https://www.ea.com/games/f1/f1-2021"
+    },
+    {
+        "UniqueName": "assetto.corsa",
+        "Name": "Assetto Corsa",
+        "Developer": "Kunos Simulazioni",
+        "Publisher": "505 Games",
+        "ReleaseDate": "19.12.2014",
+        "PlatformsRaw": "PC, XboxOne, PS4",
+        "OfficialLink": "http://www.assettocorsa.net/"
+    },
+    {
+        "UniqueName": "assetto.corsa.competizione",
+        "Name": "Assetto Corsa Competizione",
+        "Developer": "Kunos Simulazioni",
+        "Publisher": "505 Games",
+        "ReleaseDate": "29.05.2019",
+        "PlatformsRaw": "PC, XboxOne, PS4",
+        "OfficialLink": "http://www.assettocorsacompetizione.net/"
+    },
+    {
+        "UniqueName": "iracing",
+        "Name": "iRacing",
+        "Developer": "iRacing",
+        "Publisher": "iRacing",
+        "ReleaseDate": "26.08.2008",
+        "PlatformsRaw": "PC",
+        "OfficialLink": "http://www.iracing.com/"
+    },
+    {
+        "UniqueName": "raceroom",
+        "Name": "RaceRoom Racing Experience",
+        "Developer": "Sector3 Studios",
+        "Publisher": "Sector3 Studios",
+        "ReleaseDate": "12.02.2013",
+        "PlatformsRaw": "PC",
+        "OfficialLink": "http://game.raceroom.com/"
+    },
+    {
+        "UniqueName": "rfactor.2",
+        "Name": "rFactor 2",
+        "Developer": "Image Space Inc.",
+        "Publisher": "Studio 397",
+        "ReleaseDate": "12.11.2015",
+        "PlatformsRaw": "PC",
+        "OfficialLink": "https://www.studio-397.com/"
+    },
+    {
+        "UniqueName": "rfactor",
+        "Name": "rFactor",
+        "Developer": "Image Space Inc.",
+        "Publisher": "Image Space Inc.",
+        "ReleaseDate": "31.08.2005",
+        "PlatformsRaw": "PC",
+        "OfficialLink": "http://rfactor.net/web/rf1/"
+    },
+    {
+        "UniqueName": "f1.22",
+        "Name": "F1 22",
+        "Developer": "Codemasters",
+        "Publisher": "EA",
+        "ReleaseDate": "01.07.2022",
+        "PlatformsRaw": "PC, XboxOne, XboxSeries, PS4, PS5",
+        "OfficialLink": "https://www.ea.com/games/f1/f1-22"
+    },
+    {
+        "UniqueName": "f1.23",
+        "Name": "F1 23",
+        "Developer": "Codemasters",
+        "Publisher": "EA",
+        "ReleaseDate": "16.06.2023",
+        "PlatformsRaw": "PC, XboxOne, XboxSeries, PS4, PS5",
+        "OfficialLink": "https://www.ea.com/games/f1/f1-23"
+    },
+    {
+        "UniqueName": "f1.24",
+        "Name": "F1 24",
+        "Developer": "Codemasters",
+        "Publisher": "EA",
+        "ReleaseDate": "31.05.2024",
+        "PlatformsRaw": "PC, XboxOne, XboxSeries, PS4, PS5",
+        "OfficialLink": "https://www.ea.com/games/f1/f1-24"
+    },
+    {
+        "UniqueName": "forza.motorsport.2023",
+        "Name": "Forza Motorsport",
+        "Developer": "Turn 10 Studios",
+        "Publisher": "Xbox Game Studios",
+        "ReleaseDate": "10.10.2023",
+        "PlatformsRaw": "PC, XboxSeries",
+        "OfficialLink": "https://www.xbox.com/games/store/forza-motorsport"
+    },
+    {
+        "UniqueName": "ea.sports.wrc",
+        "Name": "EA Sports WRC",
+        "Developer": "Codemasters",
+        "Publisher": "EA Sports",
+        "ReleaseDate": "03.11.2023",
+        "PlatformsRaw": "PC, XboxSeries, PS5",
+        "OfficialLink": "https://www.ea.com/games/ea-sports-wrc"
+    },
+    {
+        "UniqueName": "gran.turismo.sport",
+        "Name": "Gran Turismo Sport",
+        "Developer": "Polyphony Digital",
+        "Publisher": "Sony Interactive Entertainment",
+        "ReleaseDate": "17.10.2017",
+        "PlatformsRaw": "PS4, PS5",
+        "OfficialLink": "https://www.gran-turismo.com/products/gtsport"
+    },
+    {
+        "UniqueName": "gran.turismo.7",
+        "Name": "Gran Turismo 7",
+        "Developer": "Polyphony Digital",
+        "Publisher": "Sony Interactive Entertainment",
+        "ReleaseDate": "04.03.2022",
+        "PlatformsRaw": "PS4, PS5",
+        "OfficialLink": "https://www.gran-turismo.com/products/gt7"
+    },
+    {
+        "UniqueName": "assetto.corsa.evo",
+        "Name": "Assetto Corsa EVO",
+        "Developer": "Kunos Simulazioni",
+        "Publisher": "Kunos Simulazioni",
+        "ReleaseDate": "16.01.2025",
+        "PlatformsRaw": "PC",
+        "OfficialLink": "https://www.assettocorsa.net/"
+    },
+    {
+        "UniqueName": "f1.25",
+        "Name": "F1 25",
+        "Developer": "Codemasters",
+        "Publisher": "EA",
+        "ReleaseDate": "01.06.2025",
+        "PlatformsRaw": "PC, PS5, XboxSeries",
+        "OfficialLink": "https://www.ea.com/games/f1/f1-25"
+    },
+    {
+        "UniqueName": "nascar.25",
+        "Name": "NASCAR 25",
+        "Developer": "Monster Games",
+        "Publisher": "iRacing",
+        "ReleaseDate": "01.11.2025",
+        "PlatformsRaw": "XboxSeries, PS5",
+        "OfficialLink": "https://www.nascar.com/"
+    },
+    {
+        "UniqueName": "wreckfest.2",
+        "Name": "Wreckfest 2",
+        "Developer": "Bugbear",
+        "Publisher": "Bugbear",
+        "ReleaseDate": "01.12.2025",
+        "PlatformsRaw": "PC, PS5, XboxSeries",
+        "OfficialLink": "https://wreckfest.com/"
+    },
+    {
+        "UniqueName": "ams.2",
+        "Name": "Automobilista 2",
+        "Developer": "Reiza Studios",
+        "Publisher": "Reiza Studios",
+        "ReleaseDate": "01.06.2020",
+        "PlatformsRaw": "PC",
+        "OfficialLink": "https://automobilista.gg/"
+    },
+    {
+        "UniqueName": "le.mans.ultimate",
+        "Name": "Le Mans Ultimate",
+        "Developer": "Studio 397",
+        "Publisher": "Motorsport games",
+        "ReleaseDate": "01.07.2025",
+        "PlatformsRaw": "PC",
+        "OfficialLink": "https://lemansultimate.com/"
+    }
 ]
