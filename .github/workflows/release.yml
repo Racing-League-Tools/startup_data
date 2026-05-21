@@ -1,0 +1,72 @@
+name: Release
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Create release
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Read RLT_VERSION
+        id: version
+        run: echo "rlt_version=$(cat RLT_VERSION | tr -d '[:space:]')" >> "$GITHUB_OUTPUT"
+
+      - name: Get short SHA
+        id: sha
+        run: echo "short_sha=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Determine if draft and build version string
+        id: build_version
+        run: |
+          BRANCH="${{ github.ref_name }}"
+          SHORT_SHA="${{ steps.sha.outputs.short_sha }}"
+          RLT_VERSION="${{ steps.version.outputs.rlt_version }}"
+
+          if [ "$BRANCH" = "main" ]; then
+            echo "version=${RLT_VERSION}-${SHORT_SHA}" >> "$GITHUB_OUTPUT"
+            echo "draft=false" >> "$GITHUB_OUTPUT"
+          else
+            SAFE_BRANCH=$(echo "$BRANCH" | tr '/' '-' | tr '_' '-')
+            echo "version=${RLT_VERSION}-${SAFE_BRANCH}-${SHORT_SHA}" >> "$GITHUB_OUTPUT"
+            echo "draft=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check if release already exists (main only)
+        id: check_release
+        if: github.ref_name == 'main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="v${{ steps.build_version.outputs.version }}"
+          if gh release view "$TAG" > /dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create VERSION file
+        if: github.ref_name != 'main' || steps.check_release.outputs.exists == 'false'
+        run: echo "${{ steps.build_version.outputs.version }}" > startup_data/VERSION
+
+      - name: Package startup_data.zip
+        if: github.ref_name != 'main' || steps.check_release.outputs.exists == 'false'
+        run: zip -r startup_data.zip startup_data images
+
+      - name: Create GitHub Release
+        if: github.ref_name != 'main' || steps.check_release.outputs.exists == 'false'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.build_version.outputs.version }}
+          name: v${{ steps.build_version.outputs.version }}
+          draft: ${{ steps.build_version.outputs.draft }}
+          files: startup_data.zip
