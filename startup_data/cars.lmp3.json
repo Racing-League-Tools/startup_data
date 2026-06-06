@@ -56,5 +56,17 @@
         "Color": "",
         "SecondaryColor": "",
         "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "adess.ad25.lmp3",
+        "Name": "ADESS AD25 LMP3",
+        "CarClass": "lmp3",
+        "Vendor": "adess",
+        "Year": 2025,
+        "Power": 460,
+        "AliasesRaw": "ADESS AD25 LMP3",
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
     }
 ]
