@@ -456,6 +456,22 @@
         "RaceLapRecordYear": 2020
     },
     {
+        "UniqueName": "spielberg.1996",
+        "CircuitName": "Spielberg",
+        "CircuitFullName": "Red Bull Ring",
+        "LocationName": "Spielberg",
+        "CircuitOrigin": "Spielberg",
+        "Years": "1996",
+        "TrackLayout": "GrandPrix",
+        "TrackType": "Race",
+        "Nation": "Austria",
+        "Length": 4326,
+        "NumberTurns": 10,
+        "RaceLapRecordTimeMs": 69298,
+        "RaceLapRecordDriverName": "M. Schumacher ",
+        "RaceLapRecordYear": 2003
+    },
+    {
         "UniqueName": "adelaide.1999",
         "CircuitName": "Adelaide",
         "CircuitFullName": "Adelaide Street Circuit",
@@ -598,6 +614,22 @@
         "RaceLapRecordTimeMs": 80989,
         "RaceLapRecordDriverName": "M. Schumacher",
         "RaceLapRecordYear": 1993
+    },
+    {
+        "UniqueName": "barcelona.1995",
+        "CircuitName": "Barcelona",
+        "CircuitFullName": "Circuit de Barcelona-Catalunya",
+        "LocationName": "Montmelo",
+        "CircuitOrigin": "Barcelona",
+        "Years": "1995-2003",
+        "TrackLayout": "GrandPrix",
+        "TrackType": "Race",
+        "Nation": "Spain",
+        "Length": 4730,
+        "NumberTurns": 12,
+        "RaceLapRecordTimeMs": 80143,
+        "RaceLapRecordDriverName": "R. Barrichello",
+        "RaceLapRecordYear": 2003
     },
     {
         "UniqueName": "barcelona.rallycross.2015",
@@ -1670,6 +1702,22 @@
         "RaceLapRecordTimeMs": 69388,
         "RaceLapRecordDriverName": "J. Newgarden",
         "RaceLapRecordYear": 2017
+    },
+    {
+        "UniqueName": "indianapolis.gp.2000",
+        "CircuitName": "Indianapolis",
+        "CircuitFullName": "Indianapolis Road Course Circuit",
+        "LocationName": "Indianapolis",
+        "CircuitOrigin": "Indianapolis",
+        "Years": "2000-2007",
+        "TrackLayout": "GrandPrix",
+        "TrackType": "Road",
+        "Nation": "United States Of America",
+        "Length": 4192,
+        "NumberTurns": 13,
+        "RaceLapRecordTimeMs": 70399,
+        "RaceLapRecordDriverName": "R. Barrichello",
+        "RaceLapRecordYear": 2004
     },
     {
         "UniqueName": "indianapolis.oval.1909",

@@ -165,6 +165,39 @@
         "TertiaryColor": ""
     },
     {
+        "UniqueName": "formula.v8.gen1.b",
+        "Name": "Formula V8 Gen1 Bridgestone",
+        "CarClass": "f1",
+        "Vendor": "",
+        "Year": 2006,
+        "Power": 726,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "formula.v8.gen1.m",
+        "Name": "Formula V8 Gen1 Michelin",
+        "CarClass": "f1",
+        "Vendor": "",
+        "Year": 2006,
+        "Power": 726,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "formula.v8.gen2",
+        "Name": "Formula V8 Gen2",
+        "CarClass": "f1",
+        "Vendor": "",
+        "Year": 2008,
+        "Power": 726,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
         "UniqueName": "formula.v8.gen3",
         "Name": "Formula V8 Gen3",
         "CarClass": "f1",
@@ -385,12 +418,45 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "formula.v10.gen2",
-        "Name": "Formula V10 Gen2",
+        "UniqueName": "formula.v10.gen2.b",
+        "Name": "Formula V10 Gen2 Bridgestone",
         "CarClass": "f1",
         "Vendor": "",
         "Year": 2000,
         "Power": 816,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "formula.v10.gen2.m",
+        "Name": "Formula V10 Gen2 Michelin",
+        "CarClass": "f1",
+        "Vendor": "",
+        "Year": 2000,
+        "Power": 816,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "formula.v10.gen3.b",
+        "Name": "Formula V10 Gen3 Bridgestone",
+        "CarClass": "f1",
+        "Vendor": "",
+        "Year": 2005,
+        "Power": 892,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "formula.v10.gen3.m",
+        "Name": "Formula V10 Gen3 Michelin",
+        "CarClass": "f1",
+        "Vendor": "",
+        "Year": 2005,
+        "Power": 892,
         "Color": "",
         "SecondaryColor": "",
         "TertiaryColor": ""
@@ -522,7 +588,7 @@
         "CarClass": "f1",
         "Vendor": "",
         "Year": 1995,
-        "Power": 660,
+        "Power": 695,
         "Color": "",
         "SecondaryColor": "",
         "TertiaryColor": ""
@@ -533,7 +599,7 @@
         "CarClass": "f1",
         "Vendor": "",
         "Year": 1995,
-        "Power": 650,
+        "Power": 670,
         "Color": "",
         "SecondaryColor": "",
         "TertiaryColor": ""
@@ -544,7 +610,7 @@
         "CarClass": "f1",
         "Vendor": "",
         "Year": 1995,
-        "Power": 620,
+        "Power": 645,
         "Color": "",
         "SecondaryColor": "",
         "TertiaryColor": ""
