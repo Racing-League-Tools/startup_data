@@ -147,5 +147,15 @@
     "Year": 2023,
     "Power": 671,
     "AliasesRaw": "Vanwall 680"
+  },
+  {
+    "UniqueName": "acura.arx06",
+    "Name": "Acura ARX-06",
+    "CarClass": "lmh",
+    "Year": 2023,
+    "Power": 671,
+    "Color": "",
+    "SecondaryColor": "",
+    "TertiaryColor": ""
   }
 ]

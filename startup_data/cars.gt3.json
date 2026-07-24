@@ -569,5 +569,27 @@
         "Color": "",
         "SecondaryColor": "",
         "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ford.mustang.gt3.evo",
+        "Name": "Ford Mustang GT3 Evo",
+        "CarClass": "gt3",
+        "Vendor": "ford",
+        "Year": 2026,
+        "Power": 550,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "ferrari.296.gt3.evo",
+        "Name": "Ferrari 296 GT3 Evo",
+        "CarClass": "gt3",
+        "Vendor": "ferrari",
+        "Year": 2026,
+        "Power": 600,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
     }
 ]
