@@ -1,0 +1,423 @@
+[
+  {
+    "ActionType": "P1",
+    "DriverPoints": 3500,
+    "TeamPoints": 3500,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 3200,
+    "TeamPoints": 3200,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 3000,
+    "TeamPoints": 3000,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 2800,
+    "TeamPoints": 2800,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 2600,
+    "TeamPoints": 2600,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 2500,
+    "TeamPoints": 2500,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 2400,
+    "TeamPoints": 2400,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 2300,
+    "TeamPoints": 2300,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 2200,
+    "TeamPoints": 2200,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 2100,
+    "TeamPoints": 2100,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P11",
+    "DriverPoints": 2000,
+    "TeamPoints": 2000,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P12",
+    "DriverPoints": 1900,
+    "TeamPoints": 1900,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P13",
+    "DriverPoints": 1800,
+    "TeamPoints": 1800,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P14",
+    "DriverPoints": 1700,
+    "TeamPoints": 1700,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P15",
+    "DriverPoints": 1600,
+    "TeamPoints": 1600,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P16",
+    "DriverPoints": 1500,
+    "TeamPoints": 1500,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P17",
+    "DriverPoints": 1400,
+    "TeamPoints": 1400,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P18",
+    "DriverPoints": 1300,
+    "TeamPoints": 1300,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P19",
+    "DriverPoints": 1200,
+    "TeamPoints": 1200,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P20",
+    "DriverPoints": 1100,
+    "TeamPoints": 1100,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P21",
+    "DriverPoints": 1000,
+    "TeamPoints": 1000,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P22",
+    "DriverPoints": 900,
+    "TeamPoints": 900,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P23",
+    "DriverPoints": 800,
+    "TeamPoints": 800,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P24",
+    "DriverPoints": 700,
+    "TeamPoints": 700,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P25",
+    "DriverPoints": 600,
+    "TeamPoints": 600,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P26",
+    "DriverPoints": 500,
+    "TeamPoints": 500,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P27",
+    "DriverPoints": 400,
+    "TeamPoints": 400,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P28",
+    "DriverPoints": 300,
+    "TeamPoints": 300,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P29",
+    "DriverPoints": 200,
+    "TeamPoints": 200,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P30",
+    "DriverPoints": 100,
+    "TeamPoints": 100,
+    "SessionType": "Race",
+    "Championship": "imsa"
+  },
+
+  {
+    "ActionType": "P1",
+    "DriverPoints": 350,
+    "TeamPoints": 350,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P2",
+    "DriverPoints": 320,
+    "TeamPoints": 320,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P3",
+    "DriverPoints": 300,
+    "TeamPoints": 300,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P4",
+    "DriverPoints": 280,
+    "TeamPoints": 280,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P5",
+    "DriverPoints": 260,
+    "TeamPoints": 260,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P6",
+    "DriverPoints": 250,
+    "TeamPoints": 250,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P7",
+    "DriverPoints": 240,
+    "TeamPoints": 240,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P8",
+    "DriverPoints": 230,
+    "TeamPoints": 230,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P9",
+    "DriverPoints": 220,
+    "TeamPoints": 220,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P10",
+    "DriverPoints": 210,
+    "TeamPoints": 210,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P11",
+    "DriverPoints": 200,
+    "TeamPoints": 200,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P12",
+    "DriverPoints": 190,
+    "TeamPoints": 190,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P13",
+    "DriverPoints": 180,
+    "TeamPoints": 180,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P14",
+    "DriverPoints": 170,
+    "TeamPoints": 170,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P15",
+    "DriverPoints": 160,
+    "TeamPoints": 160,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P16",
+    "DriverPoints": 150,
+    "TeamPoints": 150,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P17",
+    "DriverPoints": 140,
+    "TeamPoints": 140,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P18",
+    "DriverPoints": 130,
+    "TeamPoints": 130,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P19",
+    "DriverPoints": 120,
+    "TeamPoints": 120,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P20",
+    "DriverPoints": 110,
+    "TeamPoints": 110,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P21",
+    "DriverPoints": 100,
+    "TeamPoints": 100,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P22",
+    "DriverPoints": 90,
+    "TeamPoints": 90,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P23",
+    "DriverPoints": 80,
+    "TeamPoints": 80,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P24",
+    "DriverPoints": 70,
+    "TeamPoints": 70,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P25",
+    "DriverPoints": 60,
+    "TeamPoints": 60,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P26",
+    "DriverPoints": 50,
+    "TeamPoints": 50,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P27",
+    "DriverPoints": 40,
+    "TeamPoints": 40,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P28",
+    "DriverPoints": 30,
+    "TeamPoints": 30,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P29",
+    "DriverPoints": 20,
+    "TeamPoints": 20,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  },
+  {
+    "ActionType": "P30",
+    "DriverPoints": 10,
+    "TeamPoints": 10,
+    "SessionType": "Qualification",
+    "Championship": "imsa"
+  }
+]

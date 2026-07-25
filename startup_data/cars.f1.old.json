@@ -672,5 +672,38 @@
         "Color": "",
         "SecondaryColor": "",
         "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "renault.r25",
+        "Name": "Renault R25",
+        "CarClass": "f1",
+        "Vendor": "renault",
+        "Year": 2005,
+        "Power": 879,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "renault.r26",
+        "Name": "Renault R26",
+        "CarClass": "f1",
+        "Vendor": "renault",
+        "Year": 2006,
+        "Power": 716,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
+    },
+    {
+        "UniqueName": "renault.r28",
+        "Name": "Renault R28",
+        "CarClass": "f1",
+        "Vendor": "renault",
+        "Year": 2008,
+        "Power": 727,
+        "Color": "",
+        "SecondaryColor": "",
+        "TertiaryColor": ""
     }
 ]
