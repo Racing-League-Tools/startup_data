@@ -7,6 +7,51 @@
             "ams.2",
             "iracing"
         ],
+        "Multiclass": {
+            "ClassDefinitions": [
+                {
+                    "UniqueName": "gtp",
+                    "Name": "Grand Touring Prototype",
+                    "Abbreviation": "GTP",
+                    "Color": "#FF000000",
+                    "SecondaryColor": "#FFFFFFFF",
+                    "Factors": [
+                        { "Type": "CarClass", "CarClassUniqueName": "lmh" }
+                    ]
+                },
+                {
+                    "UniqueName": "lmp2",
+                    "Name": "Le Mans Prototype 2",
+                    "Abbreviation": "LMP2",
+                    "Color": "#FF3853a4",
+                    "SecondaryColor": "#FFFFFFFF",
+                    "Factors": [
+                        { "Type": "CarClass", "CarClassUniqueName": "lmp2" }
+                    ]
+                },
+                {
+                    "UniqueName": "gtdpro",
+                    "Name": "GT Daytona Pro",
+                    "Abbreviation": "GTD PRO",
+                    "Color": "#FFe51a23",
+                    "SecondaryColor": "#FFFFFFFF",
+                    "Factors": [
+                        { "Type": "CarClass", "CarClassUniqueName": "gt3" },
+                        { "Type": "DriverFeature", "DriverFeature": "Pro" }
+                    ]
+                },
+                {
+                    "UniqueName": "gtd",
+                    "Name": "GT Daytona",
+                    "Abbreviation": "GTD",
+                    "Color": "#FF00a950",
+                    "SecondaryColor": "#FFFFFFFF",
+                    "Factors": [
+                        { "Type": "CarClass", "CarClassUniqueName": "gt3" }
+                    ]
+                }
+            ]
+        },
         "Cars": [
             "bmw.m.hybridv8.evo",
             "cadillac.vseriesr.evo",

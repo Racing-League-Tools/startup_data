@@ -141,7 +141,7 @@
     },
     {
         "UniqueName": "jaguar.racing.xjr9",
-        "Name": "Jaguar Racing XJR-9",
+        "Name": "Jaguar XJR-9",
         "CarClass": "lmp1",
         "Vendor": "jaguar",
         "Year": 1988,
@@ -295,7 +295,7 @@
     },
     {
         "UniqueName": "nissan.racing.r382",
-        "Name": "Nissan Racing R382",
+        "Name": "Nissan R382",
         "CarClass": "lmp1",
         "Vendor": "nissan",
         "Year": 1969,

@@ -6,6 +6,30 @@
     "Games": [
       "le.mans.ultimate"
     ],
+    "Multiclass": {
+      "ClassDefinitions": [
+        {
+          "UniqueName": "lmh",
+          "Name": "Hypercar",
+          "Abbreviation": "HY",
+          "Color": "#FFe21e19",
+          "SecondaryColor": "#FFFFFFFF",
+          "Factors": [
+            { "Type": "CarClass", "CarClassUniqueName": "lmh" }
+          ]
+        },
+        {
+          "UniqueName": "lmgt3",
+          "Name": "LMGT3",
+          "Abbreviation": "GT3",
+          "Color": "#FF0b9314",
+          "SecondaryColor": "#FFFFFFFF",
+          "Factors": [
+            { "Type": "CarClass", "CarClassUniqueName": "gt3" }
+          ]
+        }
+      ]
+    },
     "Cars": [
       "lexus.rcf.gt3",
       "aston.vantage.gt3.evo",
@@ -169,6 +193,30 @@
     "Games": [
       "le.mans.ultimate"
     ],
+    "Multiclass": {
+      "ClassDefinitions": [
+        {
+          "UniqueName": "lmh",
+          "Name": "Hypercar",
+          "Abbreviation": "HY",
+          "Color": "#FFe21e19",
+          "SecondaryColor": "#FFFFFFFF",
+          "Factors": [
+            { "Type": "CarClass", "CarClassUniqueName": "lmh" }
+          ]
+        },
+        {
+          "UniqueName": "lmgt3",
+          "Name": "LMGT3",
+          "Abbreviation": "GT3",
+          "Color": "#FF0b9314",
+          "SecondaryColor": "#FFFFFFFF",
+          "Factors": [
+            { "Type": "CarClass", "CarClassUniqueName": "gt3" }
+          ]
+        }
+      ]
+    },
     "Cars": [
       "alpine.a424",
       "cadillac.vseriesr",
@@ -334,6 +382,30 @@
     "Games": [
       "le.mans.ultimate"
     ],
+    "Multiclass": {
+      "ClassDefinitions": [
+        {
+          "UniqueName": "lmh",
+          "Name": "Hypercar",
+          "Abbreviation": "HY",
+          "Color": "#FFe21e19",
+          "SecondaryColor": "#FFFFFFFF",
+          "Factors": [
+            { "Type": "CarClass", "CarClassUniqueName": "lmh" }
+          ]
+        },
+        {
+          "UniqueName": "lmgt3",
+          "Name": "LMGT3",
+          "Abbreviation": "GT3",
+          "Color": "#FF0b9314",
+          "SecondaryColor": "#FFFFFFFF",
+          "Factors": [
+            { "Type": "CarClass", "CarClassUniqueName": "gt3" }
+          ]
+        }
+      ]
+    },
     "Cars": [
       "lexus.rcf.gt3",
       "aston.vantage.gt3.evo",
@@ -396,9 +468,9 @@
       "imola.2008",
       "interlagos.2000",
       "lemans.2018",
-      "losail.2023",
       "spa.2007",
-      "sakhir.2005"
+      "barcelona.2021",
+      "monza.2000"
     ],
     "RacesCount": 1,
     "QualsCount": 1,

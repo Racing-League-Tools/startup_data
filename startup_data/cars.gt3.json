@@ -1,7 +1,7 @@
 [
     {
         "UniqueName": "aston.v12.vantage.gt3",
-        "Name": "Aston Martin Racing V12 Vantage GT3",
+        "Name": "Aston Martin V12 Vantage GT3",
         "CarClass": "gt3",
         "Vendor": "aston.martin",
         "Year": 2013,
@@ -12,7 +12,7 @@
     },
     {
         "UniqueName": "aston.v8.gt3",
-        "Name": "Aston Martin Racing V8 Vantage GT3",
+        "Name": "Aston Martin V8 Vantage GT3",
         "CarClass": "gt3",
         "Vendor": "aston.martin",
         "Year": 2019,

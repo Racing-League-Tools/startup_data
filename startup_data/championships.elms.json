@@ -3,7 +3,41 @@
         "UniqueName": "elms.2025",
         "Name": "ELMS 2025",
         "BaseChampionship": "elms",
-        "Games": ["le.mans.ultimate"],
+        "Games": [ "le.mans.ultimate" ],
+        "Multiclass": {
+            "ClassDefinitions": [
+                {
+                    "UniqueName": "lmp2",
+                    "Name": "LMP2",
+                    "Abbreviation": "P2",
+                    "Color": "#FF005096",
+                    "SecondaryColor": "#FFFFFFFF",
+                    "Factors": [
+                        { "Type": "CarClass", "CarClassUniqueName": "lmp2" }
+                    ]
+                },
+                {
+                    "UniqueName": "lmp3",
+                    "Name": "LMP3",
+                    "Abbreviation": "P3",
+                    "Color": "#FF663366",
+                    "SecondaryColor": "#FFFFFFFF",
+                    "Factors": [
+                        { "Type": "CarClass", "CarClassUniqueName": "lmp3" }
+                    ]
+                },
+                {
+                    "UniqueName": "lmgt3",
+                    "Name": "LMGT3",
+                    "Abbreviation": "GT3",
+                    "Color": "#FF009639",
+                    "SecondaryColor": "#FFFFFFFF",
+                    "Factors": [
+                        { "Type": "CarClass", "CarClassUniqueName": "gt3" }
+                    ]
+                }
+            ]
+        },
         "Cars": [
             "oreca.07.20",
             "ligier.js.p325",
