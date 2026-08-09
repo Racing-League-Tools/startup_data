@@ -5278,7 +5278,7 @@
     {
         "UniqueName": "montlery.oval.1924",
         "CircuitName": "Montlhery Oval",
-        "CircuitFullName": "L’autodrome de Linas-Montlhery",
+        "CircuitFullName": "L'autodrome de Linas-Montlhery",
         "LocationName": "Montlhery",
         "CircuitOrigin": "Montlhery",
         "Years": "1924",
@@ -5407,7 +5407,7 @@
         "CircuitName": "Richmond",
         "CircuitFullName": "Richmond Raceway",
         "LocationName": "Virginia",
-        "CircuitOrigin": "Richmond",
+        "CircuitOrigin": "Richmond Raceway",
         "Years": "1988",
         "TrackLayout": "DOval",
         "TrackType": "ShortTrack",
@@ -5423,7 +5423,7 @@
         "CircuitName": "Riverside",
         "CircuitFullName": "Riverside Raceway",
         "LocationName": "California",
-        "CircuitOrigin": "Riverside",
+        "CircuitOrigin": "Riverside Raceway",
         "Years": "1969-1988",
         "TrackLayout": "GrandPrix",
         "TrackType": "Road",
@@ -5589,5 +5589,5 @@
         "NumberTurns": 11,
         "RaceLapRecordTimeMs": 0,
         "RaceLapRecordYear": 0
-    },
+    }
 ]
