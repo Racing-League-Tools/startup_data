@@ -953,22 +953,6 @@
         "RaceLapRecordYear": 2006
     },
     {
-        "UniqueName": "cleveland.2007.2",
-        "CircuitName": "Cleveland STT",
-        "CircuitFullName": "Cleveland Super Trophy Trucks",
-        "LocationName": "Cleveland",
-        "CircuitOrigin": "Cleveland",
-        "Years": "1982-2007",
-        "TrackLayout": "GrandPrix",
-        "TrackType": "Road",
-        "Nation": "United States Of America",
-        "Length": 3389,
-        "NumberTurns": 10,
-        "RaceLapRecordTimeMs": 57508,
-        "RaceLapRecordDriverName": "N. Philippe",
-        "RaceLapRecordYear": 2006
-    },
-    {
         "UniqueName": "cleveland.stt.2007",
         "CircuitName": "Cleveland",
         "CircuitFullName": "Cleveland Super Trophy Trucks",
@@ -1590,21 +1574,6 @@
         "NumberTurns": 18,
         "RaceLapRecordTimeMs": 78260,
         "RaceLapRecordDriverName": "C. Sum",
-        "RaceLapRecordYear": 0
-    },
-    {
-        "UniqueName": "ibarra.1983.2",
-        "CircuitName": "Yahuarcocha Reverse",
-        "CircuitFullName": "Autodromo Internacional Jose Tobar",
-        "LocationName": "Ibarra",
-        "CircuitOrigin": "Yahuarcocha",
-        "Years": "1983",
-        "TrackLayout": "Regular",
-        "TrackType": "Race",
-        "Nation": "Ecuador",
-        "Length": 2190,
-        "NumberTurns": 1,
-        "RaceLapRecordTimeMs": 0,
         "RaceLapRecordYear": 0
     },
     {
