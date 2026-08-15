@@ -713,7 +713,7 @@
     },
     {
         "UniqueName": "buenos.aires.no6.1972",
-        "CircuitName": "Buenos Aires No. 6S",
+        "CircuitName": "Buenos Aires No. 6",
         "CircuitFullName": "Autodromo de Buenos Aires Oscar y Juan Galvez",
         "LocationName": "Buenos Aires",
         "CircuitOrigin": "Buenos Aires",
@@ -729,7 +729,7 @@
     },
     {
         "UniqueName": "buenos.aires.no6s.1995",
-        "CircuitName": "Buenos Aires No. 6",
+        "CircuitName": "Buenos Aires No. 6-S",
         "CircuitFullName": "Autodromo de Buenos Aires Oscar y Juan Galvez",
         "LocationName": "Buenos Aires",
         "CircuitOrigin": "Buenos Aires",
@@ -1481,7 +1481,7 @@
         "RaceLapRecordYear": 1991
     },
     {
-        "UniqueName": "hockenheimring.short.196",
+        "UniqueName": "hockenheimring.short.1966",
         "CircuitName": "Hockenheimring Short",
         "CircuitFullName": "Hockenheimring",
         "LocationName": "Hockenheim",
@@ -2731,7 +2731,7 @@
         "RaceLapRecordYear": 2008
     },
     {
-        "UniqueName": "road.atlanta.short",
+        "UniqueName": "road.atlanta.short.1998",
         "CircuitName": "Road Atlanta Short",
         "CircuitFullName": "Michelin Raceway Road Atlanta Short Course",
         "LocationName": "Braselton",
@@ -5245,7 +5245,7 @@
         "RaceLapRecordYear": 1996
     },
     {
-        "UniqueName": "montlery.oval.1924",
+        "UniqueName": "montlhery.oval.1924",
         "CircuitName": "Montlhery Oval",
         "CircuitFullName": "L'autodrome de Linas-Montlhery",
         "LocationName": "Montlhery",

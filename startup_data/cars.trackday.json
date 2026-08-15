@@ -33,7 +33,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.vulcan",
+        "UniqueName": "aston.martin.vulcan",
         "Name": "Aston Martin Vulcan",
         "CarClass": "trackday",
         "Vendor": "aston.martin",
@@ -44,7 +44,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.vulkanamr.pro",
+        "UniqueName": "aston.martin.vulkanamr.pro",
         "Name": "Aston Martin Vulcan AMR Pro",
         "CarClass": "trackday",
         "Vendor": "aston.martin",
@@ -55,7 +55,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.valkyrieamr.pro",
+        "UniqueName": "aston.martin.valkyrieamr.pro",
         "Name": "Aston Martin Valkyrie AMR Pro",
         "CarClass": "trackday",
         "Vendor": "aston.martin",
@@ -208,7 +208,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "metalmoro.ajr.gen2.",
+        "UniqueName": "metalmoro.ajr.gen2.chevrolet",
         "Name": "Metalmoro AJR Gen2 Chevrolet",
         "CarClass": "trackday",
         "Year": 2023,

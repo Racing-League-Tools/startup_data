@@ -44,7 +44,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.v12vanquish",
+        "UniqueName": "aston.martin.v12vanquish",
         "Name": "Aston Martin V12 Vanquish",
         "CarClass": "roadgt",
         "Vendor": "aston.martin",
@@ -231,7 +231,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.vanquish.zagatocoupe",
+        "UniqueName": "aston.martin.vanquish.zagatocoupe",
         "Name": "Aston Martin Vanquish Zagato Coupe",
         "CarClass": "roadgt",
         "Vendor": "aston.martin",
@@ -242,7 +242,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.dbs.superleggera",
+        "UniqueName": "aston.martin.dbs.superleggera",
         "Name": "Aston Martin DBS Superleggera",
         "CarClass": "roadgt",
         "Vendor": "aston.martin",
@@ -528,7 +528,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.dbs.08",
+        "UniqueName": "aston.martin.dbs.08",
         "Name": "Aston Martin DBS (2008)",
         "CarClass": "roadgt",
         "Vendor": "aston.martin",
@@ -539,7 +539,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.v12vantages",
+        "UniqueName": "aston.martin.v12vantages",
         "Name": "Aston Martin V12 Vantage S",
         "CarClass": "roadgt",
         "Vendor": "aston.martin",
@@ -550,7 +550,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.vantage.gt12",
+        "UniqueName": "aston.martin.vantage.gt12",
         "Name": "Aston Martin Vantage GT12",
         "CarClass": "roadgt",
         "Vendor": "aston.martin",
@@ -561,7 +561,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.vantage",
+        "UniqueName": "aston.martin.vantage",
         "Name": "Aston Martin Vantage",
         "CarClass": "roadgt",
         "Vendor": "aston.martin",
@@ -1188,7 +1188,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.v8vantage.v600",
+        "UniqueName": "aston.martin.v8vantage.v600",
         "Name": "Aston Martin V8 Vantage V600",
         "CarClass": "roadgt",
         "Vendor": "aston.martin",
@@ -1430,7 +1430,7 @@
         "TertiaryColor": ""
     },
     {
-        "UniqueName": "astonmartin.dbs.67",
+        "UniqueName": "aston.martin.dbs.67",
         "Name": "Aston Martin DBS (1967)",
         "CarClass": "roadgt",
         "Vendor": "aston.martin",
