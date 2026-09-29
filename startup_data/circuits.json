@@ -5558,5 +5558,37 @@
         "NumberTurns": 11,
         "RaceLapRecordTimeMs": 0,
         "RaceLapRecordYear": 0
+    },
+    {
+        "UniqueName": "austin.nascar.2025",
+        "CircuitName": "Austin NASCAR",
+        "CircuitFullName": "Circuit of the Americas NASCAR National",
+        "LocationName": "Texas",
+        "CircuitOrigin": "COTA",
+        "Years": "2025",
+        "TrackLayout": "StockCar",
+        "TrackType": "Road",
+        "Nation": "United States Of America",
+        "Length": 3862,
+        "NumberTurns": 17,
+        "RaceLapRecordTimeMs": 89216,
+        "RaceLapRecordDriverName": "W. Brichacek",
+        "RaceLapRecordYear": 2026
+    },
+    {
+        "UniqueName": "coronado.streets.2026",
+        "CircuitName": "Coronado",
+        "CircuitFullName": "Naval Base Coronado Street Course",
+        "LocationName": "California",
+        "CircuitOrigin": "Coronado",
+        "Years": "2026",
+        "TrackLayout": "GrandPrix",
+        "TrackType": "Street",
+        "Nation": "United States Of America",
+        "Length": 5472,
+        "NumberTurns": 19,
+        "RaceLapRecordTimeMs": 132485,
+        "RaceLapRecordDriverName": "K. Magnussen",
+        "RaceLapRecordYear": 2026
     }
 ]

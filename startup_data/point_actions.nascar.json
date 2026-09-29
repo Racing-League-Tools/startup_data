@@ -1,0 +1,542 @@
+[
+    {
+        "ActionType": "P1",
+        "DriverPoints": 100,
+        "TeamPoints": 100,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P2",
+        "DriverPoints": 90,
+        "TeamPoints": 90,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P3",
+        "DriverPoints": 80,
+        "TeamPoints": 80,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P4",
+        "DriverPoints": 70,
+        "TeamPoints": 70,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P5",
+        "DriverPoints": 60,
+        "TeamPoints": 60,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P6",
+        "DriverPoints": 50,
+        "TeamPoints": 50,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P7",
+        "DriverPoints": 40,
+        "TeamPoints": 40,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P1",
+        "DriverPoints": 550,
+        "TeamPoints": 550,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P2",
+        "DriverPoints": 350,
+        "TeamPoints": 350,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P3",
+        "DriverPoints": 340,
+        "TeamPoints": 340,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P4",
+        "DriverPoints": 330,
+        "TeamPoints": 330,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P5",
+        "DriverPoints": 320,
+        "TeamPoints": 320,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P6",
+        "DriverPoints": 310,
+        "TeamPoints": 310,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P7",
+        "DriverPoints": 300,
+        "TeamPoints": 300,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P8",
+        "DriverPoints": 290,
+        "TeamPoints": 290,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P9",
+        "DriverPoints": 280,
+        "TeamPoints": 280,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P10",
+        "DriverPoints": 270,
+        "TeamPoints": 270,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P11",
+        "DriverPoints": 260,
+        "TeamPoints": 260,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P12",
+        "DriverPoints": 250,
+        "TeamPoints": 250,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P13",
+        "DriverPoints": 240,
+        "TeamPoints": 240,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P14",
+        "DriverPoints": 230,
+        "TeamPoints": 230,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P15",
+        "DriverPoints": 220,
+        "TeamPoints": 220,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P16",
+        "DriverPoints": 210,
+        "TeamPoints": 210,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P17",
+        "DriverPoints": 200,
+        "TeamPoints": 200,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P18",
+        "DriverPoints": 190,
+        "TeamPoints": 190,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P19",
+        "DriverPoints": 180,
+        "TeamPoints": 180,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P20",
+        "DriverPoints": 170,
+        "TeamPoints": 170,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P21",
+        "DriverPoints": 160,
+        "TeamPoints": 160,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P22",
+        "DriverPoints": 150,
+        "TeamPoints": 150,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P23",
+        "DriverPoints": 140,
+        "TeamPoints": 140,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P24",
+        "DriverPoints": 130,
+        "TeamPoints": 130,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P25",
+        "DriverPoints": 120,
+        "TeamPoints": 120,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P26",
+        "DriverPoints": 110,
+        "TeamPoints": 110,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P27",
+        "DriverPoints": 100,
+        "TeamPoints": 100,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P28",
+        "DriverPoints": 90,
+        "TeamPoints": 90,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P29",
+        "DriverPoints": 80,
+        "TeamPoints": 80,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P30",
+        "DriverPoints": 70,
+        "TeamPoints": 70,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P31",
+        "DriverPoints": 60,
+        "TeamPoints": 60,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P32",
+        "DriverPoints": 50,
+        "TeamPoints": 50,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P33",
+        "DriverPoints": 40,
+        "TeamPoints": 40,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P34",
+        "DriverPoints": 30,
+        "TeamPoints": 30,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P35",
+        "DriverPoints": 20,
+        "TeamPoints": 20,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P36",
+        "DriverPoints": 10,
+        "TeamPoints": 10,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "FastestLap",
+        "DriverPoints": 10,
+        "TeamPoints": 10,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Regular"
+    },
+    {
+        "ActionType": "P19",
+        "DriverPoints": 0,
+        "TeamPoints": 0,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P20",
+        "DriverPoints": 0,
+        "TeamPoints": 0,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P21",
+        "DriverPoints": 0,
+        "TeamPoints": 0,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P22",
+        "DriverPoints": 0,
+        "TeamPoints": 0,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P23",
+        "DriverPoints": 0,
+        "TeamPoints": 0,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P24",
+        "DriverPoints": 0,
+        "TeamPoints": 0,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P25",
+        "DriverPoints": 0,
+        "TeamPoints": 0,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P8",
+        "DriverPoints": 30,
+        "TeamPoints": 30,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "First"
+    },
+    {
+        "ActionType": "P1",
+        "DriverPoints": 100,
+        "TeamPoints": 100,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Second"
+    },
+    {
+        "ActionType": "P2",
+        "DriverPoints": 90,
+        "TeamPoints": 90,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Second"
+    },
+    {
+        "ActionType": "P3",
+        "DriverPoints": 80,
+        "TeamPoints": 80,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Second"
+    },
+    {
+        "ActionType": "P4",
+        "DriverPoints": 70,
+        "TeamPoints": 70,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Second"
+    },
+    {
+        "ActionType": "P5",
+        "DriverPoints": 60,
+        "TeamPoints": 60,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Second"
+    },
+    {
+        "ActionType": "P6",
+        "DriverPoints": 50,
+        "TeamPoints": 50,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Second"
+    },
+    {
+        "ActionType": "P7",
+        "DriverPoints": 40,
+        "TeamPoints": 40,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Second"
+    },
+    {
+        "ActionType": "P8",
+        "DriverPoints": 30,
+        "TeamPoints": 30,
+        "ChampionshipId": 2,
+        "Championship": "nascar.2026",
+        "SessionType": "Race",
+        "RaceType": "Second"
+    }
+]

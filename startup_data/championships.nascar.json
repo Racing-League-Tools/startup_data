@@ -1,0 +1,526 @@
+[
+    {
+        "UniqueName": "nascar.cup.2026",
+        "Name": "NASCAR Cup 2026",
+        "BaseChampionship": "nascar.2026",
+        "Games": [
+            "nascar.25",
+            "iracing"
+        ],
+        "Cars": [
+            "chevrolet.nascar.ng.camaro.zl1",
+            "ford.nascar.ng.mustang.darkhorse",
+            "toyota.nascar.ng.camry.xse"
+        ],
+        "Teams": [
+            "haas.nascar.cup.2026",
+            "hendrick.nascar.cup.2026",
+            "23xi.nascar.cup.2026",
+            "hyak.nascar.cup.2026",
+            "front.row.nascar.cup.2026",
+            "joe.gibbs.nascar.cup.2026",
+            "kaulig.nascar.cup.2026",
+            "legacy.nascar.cup.2026",
+            "richard.nascar.cup.2026",
+            "rick.ware.nascar.cup.2026",
+            "rfk.nascar.cup.2026",
+            "spire.nascar.cup.2026",
+            "trackhouse.nascar.cup.2026",
+            "penske.nascar.cup.2026",
+            "wood.brothers.nascar.cup.2026"
+        ],
+        "Tracks": [
+            "bowman.1938",
+            "daytona.1959",
+            "phoenix.raceway.2019",
+            "las.vegas.oval.2006",
+            "darlington.1997",
+            "martinsville.1999",
+            "bristol.1961",
+            "kansas.2001",
+            "talladega.1969",
+            "texas.motor.2017",
+            "watkins.glen.short.1992",
+            "dover.1969",
+            "charlotte.1960",
+            "nashville.superspeedway.2001",
+            "michigan.1968",
+            "pocono.oval.1971",
+            "sonoma.nascar.2002",
+            "chicagoland.2001",
+            "north.wilkesboro.1947",
+            "indianapolis.oval.1909",
+            "iowa.2006",
+            "richmond.1998",
+            "new.hampshire.1990",
+            "gateway.motorsport.park.1997",
+            "homestead.oval.2003",
+            "atlanta.1997",
+            "coronado.streets.2026",
+            "austin.nascar.2025"
+        ],
+        "RacesCount": 1,
+        "QualsCount": 1,
+        "PracticesCount": 0,
+        "RaceType1": "Regular",
+        "RaceType2": "Regular",
+        "RaceType3": "Regular",
+        "QualType1": "Regular",
+        "QualType2": "Regular",
+        "QualType3": "Regular",
+        "GridSize": 37,
+        "SeatsPerTeam": 2,
+        "SeatsReserve": 10,
+        "EventFormat": {
+            "Presets": [
+                {
+                    "Name": "Oval",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "First",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Second",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Superspeedway",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q1"
+                        },
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q2"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "First",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Second",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Road Course",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q1"
+                        },
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q2"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "First",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Second",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                }
+            ]
+        },
+        "FastestLapPointsPositionEdge": 0,
+        "IsFastestLapPointsAlwaysAward": false,
+        "IgnoreWorstEventsEachDriver": 0,
+        "LineupsBasedType": "Teams",
+        "IsMinorRacesEqualsMajor": false,
+        "MaxTimePercentQualClassificationCriteria": 0,
+        "MinTimePercentRaceClassificationCriteria": 0,
+        "MinLapsRaceClassificationCriteria": 0,
+        "MinLapsPercentRaceClassificationCriteria": 0,
+        "MinTimeMinutesRaceClassificationCriteria": 0,
+        "MinDistanceMetersRaceClassificationCriteria": 0,
+        "MinDistancePercentRaceClassificationCriteria": 0,
+        "IsIncludeMinorSessionsForDeepRating": false,
+        "MinRatingSessionsForDriverSeasonRating": 2
+    },
+    {
+        "UniqueName": "nascar.oreilly.2026",
+        "Name": "NASCAR O'Reilly 2026",
+        "BaseChampionship": "nascar.2026",
+        "Games": [
+            "nascar.25",
+            "iracing"
+        ],
+        "Cars": [
+            "ford.mustang.nascar.xfinity.2024",
+            "chevrolet.camaro.nascar.xfinity.2018",
+            "toyota.supra.nascar.xfinity.2019"
+        ],
+        "Teams": [
+            "big.machine.nascar.oreilly.2026",
+            "dmg.racing.nascar.oreilly.2026",
+            "haas.nascar.oreilly.2026",
+            "hendrick.nascar.oreilly.2026",
+            "jeremy.nascar.oreilly.2026",
+            "jordan.nascar.oreilly.2026",
+            "jr.motorsports.nascar.oreilly.2026",
+            "peterson.nascar.oreilly.2026",
+            "richard.childress.nascar.oreilly.2026",
+            "ryan.scott.nascar.oreilly.2026",
+            "green.light.nascar.oreilly.2026",
+            "brk.racing.nascar.oreilly.2026",
+            "viking.nascar.oreilly.2026",
+            "young.nascar.oreilly.2026",
+            "joe.gibbs.nascar.oreilly.2026",
+            "sam.hunt.nascar.oreilly.2026",
+            "joey.gase.nascar.oreilly.2026",
+            "aplha.prime.nascar.oreilly.2026"
+        ],
+        "Tracks": [
+            "daytona.1959",
+            "phoenix.raceway.2019",
+            "las.vegas.oval.2006",
+            "darlington.1997",
+            "martinsville.1999",
+            "bristol.1961",
+            "kansas.2001",
+            "talladega.1969",
+            "texas.motor.2017",
+            "watkins.glen.short.1992",
+            "dover.1969",
+            "rockingham.1965",
+            "charlotte.1960",
+            "nashville.superspeedway.2001",
+            "michigan.1968",
+            "pocono.oval.1971",
+            "sonoma.nascar.2002",
+            "chicagoland.2001",
+            "indianapolis.oval.1909",
+            "iowa.2006",
+            "homestead.oval.2003",
+            "atlanta.1997",
+            "coronado.streets.2026",
+            "austin.nascar.2025"
+        ],
+        "RacesCount": 1,
+        "QualsCount": 1,
+        "PracticesCount": 0,
+        "RaceType1": "Regular",
+        "RaceType2": "Regular",
+        "RaceType3": "Regular",
+        "QualType1": "Regular",
+        "QualType2": "Regular",
+        "QualType3": "Regular",
+        "GridSize": 38,
+        "SeatsPerTeam": 2,
+        "SeatsReserve": 10,
+        "EventFormat": {
+            "Presets": [
+                {
+                    "Name": "Oval",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "First",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Second",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Superspeedway",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q1"
+                        },
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q2"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "First",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Second",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Road Course",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q1"
+                        },
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q2"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "First",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Second",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                }
+            ]
+        },
+        "FastestLapPointsPositionEdge": 0,
+        "IsFastestLapPointsAlwaysAward": false,
+        "IgnoreWorstEventsEachDriver": 0,
+        "LineupsBasedType": "Teams",
+        "IsMinorRacesEqualsMajor": false,
+        "MaxTimePercentQualClassificationCriteria": 0,
+        "MinTimePercentRaceClassificationCriteria": 0,
+        "MinLapsRaceClassificationCriteria": 0,
+        "MinLapsPercentRaceClassificationCriteria": 0,
+        "MinTimeMinutesRaceClassificationCriteria": 0,
+        "MinDistanceMetersRaceClassificationCriteria": 0,
+        "MinDistancePercentRaceClassificationCriteria": 0,
+        "IsIncludeMinorSessionsForDeepRating": false,
+        "MinRatingSessionsForDriverSeasonRating": 2
+    },
+    {
+        "UniqueName": "nascar.truck.2026",
+        "Name": "NASCAR Truck 2026",
+        "BaseChampionship": "nascar.2026",
+        "Games": [
+            "nascar.25",
+            "iracing"
+        ],
+        "Cars": [
+            "chevrolet.silverado.nascar.2019",
+            "ford.f150.nascar.2022",
+            "toyota.tundra.nascar.2022",
+            "ram.1500.nascar.2026"
+        ],
+        "Teams": [
+            "cr7.nascar.truck.2026",
+            "freedom.nascar.truck.2026",
+            "mcanally.nascar.truck.2026",
+            "niece.nascar.truck.2026",
+            "rackley.nascar.truck.2026",
+            "spire.nascar.truck.2026",
+            "front.row.nascar.truck.2026",
+            "reaume.nascar.truck.2026",
+            "thorsport.nascar.truck.2026",
+            "kaulig.nascar.truck.2026",
+            "halmar.nascar.truck.2026",
+            "tricon.nascar.truck.2026"
+        ],
+        "Tracks": [
+            "daytona.1959",
+            "darlington.1997",
+            "martinsville.1999",
+            "bristol.1961",
+            "kansas.2001",
+            "talladega.1969",
+            "texas.motor.2017",
+            "watkins.glen.short.1992",
+            "dover.1969",
+            "charlotte.1960",
+            "nashville.superspeedway.2001",
+            "michigan.1968",
+            "pocono.oval.1971",
+            "sonoma.nascar.2002",
+            "chicagoland.2001",
+            "north.wilkesboro.1947",
+            "indianapolis.oval.1909",
+            "iowa.2006",
+            "richmond.1998",
+            "new.hampshire.1990",
+            "gateway.motorsport.park.1997",
+            "homestead.oval.2003",
+            "atlanta.1997",
+            "coronado.streets.2026",
+            "saint.petersburg.2003",
+            "lime.rock.1957",
+            "lucasoil.1960"
+        ],
+        "RacesCount": 1,
+        "QualsCount": 1,
+        "PracticesCount": 0,
+        "RaceType1": "Regular",
+        "RaceType2": "Regular",
+        "RaceType3": "Regular",
+        "QualType1": "Regular",
+        "QualType2": "Regular",
+        "QualType3": "Regular",
+        "GridSize": 38,
+        "SeatsPerTeam": 2,
+        "SeatsReserve": 10,
+        "EventFormat": {
+            "Presets": [
+                {
+                    "Name": "Oval",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "First",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Second",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Superspeedway",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q1"
+                        },
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q2"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "First",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Second",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Road Course",
+                    "Sessions": [
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q1"
+                        },
+                        {
+                            "SessionType": "Qualification",
+                            "RaceType": "Regular",
+                            "QualificationType": "Q2"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "First",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Second",
+                            "QualificationType": "Regular"
+                        },
+                        {
+                            "SessionType": "Race",
+                            "RaceType": "Regular",
+                            "QualificationType": "Regular"
+                        }
+                    ]
+                }
+            ]
+        },
+        "FastestLapPointsPositionEdge": 0,
+        "IsFastestLapPointsAlwaysAward": false,
+        "IgnoreWorstEventsEachDriver": 0,
+        "LineupsBasedType": "Teams",
+        "IsMinorRacesEqualsMajor": false,
+        "MaxTimePercentQualClassificationCriteria": 0,
+        "MinTimePercentRaceClassificationCriteria": 0,
+        "MinLapsRaceClassificationCriteria": 0,
+        "MinLapsPercentRaceClassificationCriteria": 0,
+        "MinTimeMinutesRaceClassificationCriteria": 0,
+        "MinDistanceMetersRaceClassificationCriteria": 0,
+        "MinDistancePercentRaceClassificationCriteria": 0,
+        "IsIncludeMinorSessionsForDeepRating": false,
+        "MinRatingSessionsForDriverSeasonRating": 2
+    }
+]
