@@ -6,9 +6,9 @@
         "Vendor": "brabham",
         "Year": 2019,
         "Power": 700,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#054545",
+        "SecondaryColor": "#C4A666",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ligier.js2.r",
@@ -17,9 +17,9 @@
         "Vendor": "ligier",
         "Year": 2018,
         "Power": 330,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ferrari.f40.competizione",
@@ -28,9 +28,9 @@
         "Vendor": "ferrari",
         "Year": 1989,
         "Power": 691,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.martin.vulcan",
@@ -39,9 +39,9 @@
         "Vendor": "aston.martin",
         "Year": 2016,
         "Power": 820,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.martin.vulkanamr.pro",
@@ -50,9 +50,9 @@
         "Vendor": "aston.martin",
         "Year": 2017,
         "Power": 820,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.martin.valkyrieamr.pro",
@@ -61,9 +61,9 @@
         "Vendor": "aston.martin",
         "Year": 2022,
         "Power": 1000,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.599xx",
@@ -72,9 +72,9 @@
         "Vendor": "ferrari",
         "Year": 2010,
         "Power": 691,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.599xx.evo",
@@ -83,9 +83,9 @@
         "Vendor": "ferrari",
         "Year": 2012,
         "Power": 740,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.fxxk",
@@ -94,9 +94,9 @@
         "Vendor": "ferrari",
         "Year": 2014,
         "Power": 1036,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.fxxk.evo",
@@ -105,9 +105,9 @@
         "Vendor": "ferrari",
         "Year": 2018,
         "Power": 1036,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lamborghini.essenza.scv12",
@@ -116,9 +116,9 @@
         "Vendor": "lamborghini",
         "Year": 2020,
         "Power": 818,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mclaren.p1gtr",
@@ -127,9 +127,9 @@
         "Vendor": "mclaren",
         "Year": 2015,
         "Power": 986,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.senna.gtr",
@@ -138,9 +138,9 @@
         "Vendor": "mclaren",
         "Year": 2019,
         "Power": 814,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "pagani.huayra.r",
@@ -149,9 +149,9 @@
         "Vendor": "pagani",
         "Year": 2022,
         "Power": 838,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c0c0c0",
+        "SecondaryColor": "#003057",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ginetta.g58",
@@ -160,9 +160,9 @@
         "Vendor": "ginetta",
         "Year": 2018,
         "Power": 564,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "metalmoro.ajr.judd",
@@ -170,9 +170,9 @@
         "CarClass": "trackday",
         "Year": 2017,
         "Power": 556,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#010347",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "metalmoro.ajr.nissan",
@@ -181,9 +181,9 @@
         "Vendor": "nissan",
         "Year": 2017,
         "Power": 560,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "metalmoro.ajr.honda",
@@ -192,9 +192,9 @@
         "Vendor": "honda",
         "Year": 2017,
         "Power": 579,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "metalmoro.ajr.chevrolet",
@@ -203,19 +203,20 @@
         "Vendor": "chevrolet",
         "Year": 2017,
         "Power": 594,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "metalmoro.ajr.gen2.chevrolet",
         "Name": "Metalmoro AJR Gen2 Chevrolet",
         "CarClass": "trackday",
+        "Vendor": "chevrolet",
         "Year": 2023,
         "Power": 593,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "metalmoro.ajr.gen2.honda",
@@ -224,19 +225,20 @@
         "Vendor": "honda",
         "Year": 2023,
         "Power": 575,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "metalmoro.ajr.gen2.nissan",
         "Name": "Metalmoro AJR Gen2 Nissan",
         "CarClass": "trackday",
+        "Vendor": "nissan",
         "Year": 2023,
         "Power": 561,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ginetta.g58.g2",
@@ -245,9 +247,9 @@
         "Vendor": "ginetta",
         "Year": 2023,
         "Power": 564,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "sigma.p1.g5",
@@ -255,19 +257,20 @@
         "CarClass": "trackday",
         "Year": 2023,
         "Power": 573,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#62829d",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "metalmoro.mrx.duratec.p2",
         "Name": "Metalmoro MRX Duratec P2",
         "CarClass": "trackday",
+        "Vendor": "ford",
         "Year": 2018,
         "Power": 372,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "sigma.p1",
@@ -275,9 +278,9 @@
         "CarClass": "trackday",
         "Year": 2017,
         "Power": 501,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#62829d",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "metalmoro.mrx.honda.p3",
@@ -286,19 +289,20 @@
         "Vendor": "honda",
         "Year": 2009,
         "Power": 303,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "metalmoro.mrx.duratec.p3",
         "Name": "Metalmoro MRX Duratec P3",
         "CarClass": "trackday",
+        "Vendor": "ford",
         "Year": 2009,
         "Power": 360,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "roco.001",
@@ -306,9 +310,9 @@
         "CarClass": "trackday",
         "Year": 2019,
         "Power": 283,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#01015b",
+        "SecondaryColor": "#00a500",
+        "TertiaryColor": "#fff004"
     },
     {
         "UniqueName": "mcr.2000",
@@ -316,18 +320,19 @@
         "CarClass": "trackday",
         "Year": 2013,
         "Power": 217,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0848bb",
+        "SecondaryColor": "#08cbf8",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "metalmoro.mrx.duratec.p4",
         "Name": "Metalmoro MRX Duratec P4",
         "CarClass": "trackday",
+        "Vendor": "ford",
         "Year": 2009,
         "Power": 311,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     }
 ]

@@ -5,7 +5,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "aston.martin",
         "Year": 1964,
-        "Power": 282
+        "Power": 282,
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "austinhealey.3000.mk3",
@@ -13,7 +16,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "austinhealey",
         "Year": 1965,
-        "Power": 147
+        "Power": 147,
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "datsun.2000.roadster",
@@ -21,7 +27,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "datsun",
         "Year": 1969,
-        "Power": 135
+        "Power": 135,
+        "Color": "#003da5",
+        "SecondaryColor": "#d10000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.250gt.berlinettalusso",
@@ -29,7 +38,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "ferrari",
         "Year": 1962,
-        "Power": 254
+        "Power": 254,
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "honda.s800",
@@ -37,7 +49,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "honda",
         "Year": 1970,
-        "Power": 70
+        "Power": 70,
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "jaguar.mk2.38",
@@ -45,7 +60,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "jaguar",
         "Year": 1959,
-        "Power": 220
+        "Power": 220,
+        "Color": "#006b5c",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.cosmo.110s.series2",
@@ -53,7 +71,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "mazda",
         "Year": 1972,
-        "Power": 128
+        "Power": 128,
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mercedes.benz.300sl.coupe",
@@ -61,7 +82,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "mercedes",
         "Year": 1954,
-        "Power": 241
+        "Power": 241,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mg.mga.twincam",
@@ -69,7 +93,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "mg",
         "Year": 1958,
-        "Power": 108
+        "Power": 108,
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.550.spyder",
@@ -77,7 +104,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "porsche",
         "Year": 1955,
-        "Power": 109
+        "Power": 109,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.356a.speedster",
@@ -85,7 +115,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "porsche",
         "Year": 1957,
-        "Power": 60
+        "Power": 60,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.2000gt",
@@ -93,7 +126,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "toyota",
         "Year": 1969,
-        "Power": 150
+        "Power": 150,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alfaromeo.4c.14",
@@ -101,7 +137,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "alfa.romeo",
         "Year": 2014,
-        "Power": 240
+        "Power": 240,
+        "Color": "#8b0000",
+        "SecondaryColor": "#006b3f",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alpine.a110.17",
@@ -109,7 +148,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "alpine",
         "Year": 2017,
-        "Power": 248
+        "Power": 248,
+        "Color": "#0054a6",
+        "SecondaryColor": "#e8f3ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.ttrs",
@@ -117,7 +159,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "audi",
         "Year": 2018,
-        "Power": 350
+        "Power": 350,
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.ttrs.coupe.20",
@@ -125,7 +170,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "audi",
         "Year": 2020,
-        "Power": 394
+        "Power": 394,
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.rs3.sedan",
@@ -133,7 +181,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "audi",
         "Year": 2020,
-        "Power": 394
+        "Power": 394,
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bmw.1series.mcoupe",
@@ -141,7 +192,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "bmw",
         "Year": 2011,
-        "Power": 335
+        "Power": 335,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "bmw.z4.roadster.19",
@@ -149,7 +203,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "bmw",
         "Year": 2019,
-        "Power": 382
+        "Power": 382,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "bmw.m2.competitioncoupe",
@@ -157,7 +214,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "bmw",
         "Year": 2020,
-        "Power": 405
+        "Power": 405,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "bmw.m2.23",
@@ -165,7 +225,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "bmw",
         "Year": 2023,
-        "Power": 453
+        "Power": 453,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "jaguar.ftyper.coupe",
@@ -173,7 +236,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "jaguar",
         "Year": 2015,
-        "Power": 550
+        "Power": 550,
+        "Color": "#006b5c",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lexus.rcf.15",
@@ -181,7 +247,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "lexus",
         "Year": 2015,
-        "Power": 467
+        "Power": 467,
+        "Color": "#505050",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lexus.rcf.trackedition",
@@ -189,7 +258,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "lexus",
         "Year": 2020,
-        "Power": 472
+        "Power": 472,
+        "Color": "#505050",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.evoras.11",
@@ -197,7 +269,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "lotus",
         "Year": 2011,
-        "Power": 345
+        "Power": 345,
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.evora.gt430",
@@ -205,7 +280,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "lotus",
         "Year": 2018,
-        "Power": 430
+        "Power": 430,
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mecedes.benz.slk55amg",
@@ -213,7 +291,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "mercedes",
         "Year": 2012,
-        "Power": 415
+        "Power": 415,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "nissan.370z.nismo.19",
@@ -221,7 +302,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "nissan",
         "Year": 2019,
-        "Power": 350
+        "Power": 350,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.z.23",
@@ -229,7 +313,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "nissan",
         "Year": 2023,
-        "Power": 400
+        "Power": 400,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.cayman.gts",
@@ -237,7 +324,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "porsche",
         "Year": 2015,
-        "Power": 340
+        "Power": 340,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.718cayman.gts",
@@ -245,7 +335,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "porsche",
         "Year": 2018,
-        "Power": 361
+        "Power": 361,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.718cayman.gt4rs",
@@ -253,7 +346,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "porsche",
         "Year": 2022,
-        "Power": 493
+        "Power": 493,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.grsupra5",
@@ -261,7 +357,10 @@
         "CarClass": "roadcoupe",
         "Vendor": "toyota",
         "Year": 2020,
-        "Power": 335
+        "Power": 335,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.cayman.gt4",
@@ -269,6 +368,9 @@
         "CarClass": "roadcoupe",
         "Vendor": "porsche",
         "Year": 2016,
-        "Power": 385
+        "Power": 385,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     }
 ]

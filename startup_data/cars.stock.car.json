@@ -6,9 +6,9 @@
         "Vendor": "chevrolet",
         "Year": 2010,
         "Power": 369,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.opala.sc.1979",
@@ -17,9 +17,9 @@
         "Vendor": "chevrolet",
         "Year": 1979,
         "Power": 176,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.opala.sc.1986",
@@ -28,9 +28,9 @@
         "Vendor": "chevrolet",
         "Year": 1986,
         "Power": 248,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.omega.sc",
@@ -39,9 +39,9 @@
         "Vendor": "chevrolet",
         "Year": 1999,
         "Power": 338,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.cruze.sc.2019",
@@ -50,9 +50,9 @@
         "Vendor": "chevrolet",
         "Year": 2019,
         "Power": 473,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.cruze.sc.2020",
@@ -61,9 +61,9 @@
         "Vendor": "chevrolet",
         "Year": 2020,
         "Power": 473,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.cruze.sc.2023",
@@ -72,9 +72,9 @@
         "Vendor": "chevrolet",
         "Year": 2023,
         "Power": 473,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.corolla.sc.2020",
@@ -83,9 +83,9 @@
         "Vendor": "toyota",
         "Year": 2020,
         "Power": 473,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.corolla.sc.2023",
@@ -94,8 +94,8 @@
         "Vendor": "toyota",
         "Year": 2023,
         "Power": 473,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     }
 ]

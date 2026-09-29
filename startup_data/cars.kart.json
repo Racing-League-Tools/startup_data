@@ -26,9 +26,9 @@
         "Vendor": "honda",
         "Year": 2016,
         "Power": 11,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "kart.4stroke.gx390.rental",
@@ -37,9 +37,9 @@
         "Vendor": "honda",
         "Year": 2016,
         "Power": 12,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "kart.125cc.shifter",

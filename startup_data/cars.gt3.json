@@ -6,9 +6,9 @@
         "Vendor": "aston.martin",
         "Year": 2013,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.v8.gt3",
@@ -17,9 +17,9 @@
         "Vendor": "aston.martin",
         "Year": 2019,
         "Power": 536,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.r8.lms.gt3",
@@ -28,9 +28,9 @@
         "Vendor": "audi",
         "Year": 2018,
         "Power": 585,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bmw.m6.gt3",
@@ -39,9 +39,9 @@
         "Vendor": "bmw",
         "Year": 2016,
         "Power": 585,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "jaguar.gt3",
@@ -50,9 +50,9 @@
         "Vendor": "jaguar",
         "Year": 2012,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b5c",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.488.gt3",
@@ -61,9 +61,9 @@
         "Vendor": "ferrari",
         "Year": 2018,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.488.gt3.evo",
@@ -72,9 +72,9 @@
         "Vendor": "ferrari",
         "Year": 2020,
         "Power": 650,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "honda.nsx.gt3",
@@ -83,9 +83,9 @@
         "Vendor": "honda",
         "Year": 2017,
         "Power": 573,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "honda.nsx.gt3.evo",
@@ -94,9 +94,9 @@
         "Vendor": "honda",
         "Year": 2019,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lamborghini.huracan.gt3",
@@ -105,9 +105,9 @@
         "Vendor": "lamborghini",
         "Year": 2015,
         "Power": 530,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lamborghini.huracan.gt3.evo",
@@ -116,9 +116,9 @@
         "Vendor": "lamborghini",
         "Year": 2019,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lamborghini.huracan.st",
@@ -127,9 +127,9 @@
         "Vendor": "lamborghini",
         "Year": 2015,
         "Power": 640,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lexus.rcf.gt3",
@@ -138,9 +138,9 @@
         "Vendor": "lexus",
         "Year": 2016,
         "Power": 500,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#505050",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mclaren.650s.gt3",
@@ -149,9 +149,9 @@
         "Vendor": "mclaren",
         "Year": 2015,
         "Power": 500,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.720s.gt3",
@@ -160,9 +160,9 @@
         "Vendor": "mclaren",
         "Year": 2019,
         "Power": 710,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.amg.gt3",
@@ -171,9 +171,9 @@
         "Vendor": "mercedes",
         "Year": 2015,
         "Power": 500,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.gt3.evo.2020",
@@ -183,9 +183,9 @@
         "Year": 2020,
         "Power": 550,
         "AliasesRaw": "Mercedes-AMG LMGT3",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "nissan.gtr.nismo.gt3.2015",
@@ -194,9 +194,9 @@
         "Vendor": "nissan",
         "Year": 2015,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.gtr.nismo.gt3.2018",
@@ -205,9 +205,9 @@
         "Vendor": "nissan",
         "Year": 2018,
         "Power": 550,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.991.gt3.r",
@@ -216,9 +216,9 @@
         "Vendor": "porsche",
         "Year": 2018,
         "Power": 493,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.991.2.gt3.cup",
@@ -227,9 +227,9 @@
         "Vendor": "porsche",
         "Year": 2017,
         "Power": 513,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.991.2.gt3.r",
@@ -238,9 +238,9 @@
         "Vendor": "porsche",
         "Year": 2019,
         "Power": 513,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "reiter.rex.gt3",
@@ -249,9 +249,9 @@
         "Vendor": "reiter",
         "Year": 2017,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#1c1c1c",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bmw.m2.cs",
@@ -260,9 +260,9 @@
         "Vendor": "bmw",
         "Year": 2020,
         "Power": 450,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "bmw.m4.gt3",
@@ -272,9 +272,9 @@
         "Year": 2023,
         "Power": 570,
         "AliasesRaw": "BMW M4 LMGT3",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "porsche.992.gt3.cup",
@@ -283,9 +283,9 @@
         "Vendor": "porsche",
         "Year": 2021,
         "Power": 510,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.488.challenge.evo",
@@ -294,9 +294,9 @@
         "Vendor": "ferrari",
         "Year": 2020,
         "Power": 670,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.296.gt3",
@@ -306,9 +306,9 @@
         "Year": 2023,
         "Power": 600,
         "AliasesRaw": "Ferrari 296 LMGT3",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lamborghini.huracan.gt3.evo2",
@@ -318,9 +318,9 @@
         "Year": 2023,
         "Power": 650,
         "AliasesRaw": "Lamborghini Huracan LMGT3 Evo2",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mclaren.720s.gt3.evo",
@@ -330,9 +330,9 @@
         "Year": 2023,
         "Power": 740,
         "AliasesRaw": "McLaren 720S LMGT3 Evo",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.mustang.gt3",
@@ -342,9 +342,9 @@
         "Year": 2024,
         "Power": 550,
         "AliasesRaw": "Ford Mustang LMGT3",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "porsche.911.gt3.cup.38.2016",
@@ -353,9 +353,9 @@
         "Vendor": "porsche",
         "Year": 2016,
         "Power": 450,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.911.gt3.cup.40.2019",
@@ -364,9 +364,9 @@
         "Vendor": "porsche",
         "Year": 2019,
         "Power": 462,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ginetta.g55.gt3",
@@ -375,9 +375,9 @@
         "Vendor": "ginetta",
         "Year": 2012,
         "Power": 521,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ultima.gtr.race",
@@ -386,9 +386,9 @@
         "Vendor": "ultima",
         "Year": 2006,
         "Power": 538,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#1a1a1a",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.r8.lms.evo2",
@@ -397,9 +397,9 @@
         "Vendor": "audi",
         "Year": 2022,
         "Power": 585,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.corvette.z06.gt3r",
@@ -409,9 +409,9 @@
         "Year": 2024,
         "Power": 500,
         "AliasesRaw": "Chevrolet Corvette Z06 LMGT3.R",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.911.gt3.r.2023",
@@ -421,9 +421,9 @@
         "Year": 2023,
         "Power": 558,
         "AliasesRaw": "Porsche 911 GT3 R LMGT3",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.r8.lms.evo",
@@ -432,9 +432,9 @@
         "Vendor": "audi",
         "Year": 2019,
         "Power": 585,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lamborghini.lp6202.st",
@@ -443,9 +443,9 @@
         "Vendor": "lamborghini",
         "Year": 2015,
         "Power": 612,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.r8.lms",
@@ -454,9 +454,9 @@
         "Vendor": "audi",
         "Year": 2019,
         "Power": 585,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bentley.continental.gt3.2015",
@@ -465,9 +465,9 @@
         "Vendor": "bentley",
         "Year": 2015,
         "Power": 592,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#004225",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bentley.continental.gt3.2018",
@@ -476,9 +476,9 @@
         "Vendor": "bentley",
         "Year": 2018,
         "Power": 592,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#004225",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "acura.nsx.gt3",
@@ -487,9 +487,9 @@
         "Vendor": "acura",
         "Year": 2018,
         "Power": 573,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c0c0c0",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "bentley.continental.gt3",
@@ -498,9 +498,9 @@
         "Vendor": "bentley",
         "Year": 2014,
         "Power": 580,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#004225",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "cadillac.atsv.r",
@@ -509,9 +509,9 @@
         "Vendor": "cadillac",
         "Year": 2015,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#000000",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.458.italia.gtc",
@@ -520,9 +520,9 @@
         "Vendor": "ferrari",
         "Year": 2011,
         "Power": 465,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lexus.rcf.gt3.2020",
@@ -532,9 +532,9 @@
         "Year": 2020,
         "Power": 500,
         "AliasesRaw": "Lexus RCF LMGT3",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#505050",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.vantage.gt3.evo",
@@ -544,9 +544,9 @@
         "Year": 2025,
         "Power": 535,
         "AliasesRaw": "Aston Martin Vantage AMR LMGT3",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lamborghini.huracan.st.evo2",
@@ -555,9 +555,9 @@
         "Vendor": "lamborghini",
         "Year": 2022,
         "Power": 620,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lamborghini.temerario.gt3",
@@ -566,9 +566,9 @@
         "Vendor": "lamborghini",
         "Year": 2026,
         "Power": 550,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.mustang.gt3.evo",
@@ -577,9 +577,9 @@
         "Vendor": "ford",
         "Year": 2026,
         "Power": 550,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ferrari.296.gt3.evo",
@@ -588,8 +588,8 @@
         "Vendor": "ferrari",
         "Year": 2026,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     }
 ]

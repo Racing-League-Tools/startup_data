@@ -1,90 +1,145 @@
 [
-  {
-    "UniqueName": "alpine.a110.gt4",
-    "Name": "Alpine A110 GT4",
-    "CarClass": "gt4",
-    "Vendor": "alpine",
-    "Power": 360,
-    "Year": 2018
-  },
-  {
-    "UniqueName": "aston.v8.vantage.gt4",
-    "Name": "Aston Martin V8 Vantage GT4",
-    "CarClass": "gt4",
-    "Vendor": "aston.martin",
-    "Power": 420,
-    "Year": 2018
-  },
-  {
-    "UniqueName": "audi.r8.lms.gt4",
-    "Name": "Audi R8 LMS GT4",
-    "CarClass": "gt4",
-    "Vendor": "audi",
-    "Power": 495,
-    "Year": 2018
-  },
-  {
-    "UniqueName": "bmw.m4.gt4",
-    "Name": "BMW M4 GT4",
-    "CarClass": "gt4",
-    "Vendor": "bmw",
-    "Power": 500,
-    "Year": 2018
-  },
-  {
-    "UniqueName": "chevrolet.camaro.gt4.r",
-    "Name": "Chevrolet Camaro GT4.R",
-    "CarClass": "gt4",
-    "Vendor": "chevrolet",
-    "Power": 475,
-    "Year": 2017
-  },
-  {
-    "UniqueName": "ginetta.g55.gt4",
-    "Name": "Ginetta G55 GT4",
-    "CarClass": "gt4",
-    "Vendor": "ginetta",
-    "Power": 380,
-    "Year": 2012
-  },
-  {
-    "UniqueName": "ktm.xbow.gt4",
-    "Name": "KTM X-Bow GT4",
-    "CarClass": "gt4",
-    "Vendor": "ktm",
-    "Power": 360,
-    "Year": 2016
-  },
-  {
-    "UniqueName": "maserati.granturismo.mc.gt4",
-    "Name": "Maserati Granturismo MC GT4",
-    "CarClass": "gt4",
-    "Vendor": "maserati",
-    "Power": 430,
-    "Year": 2016
-  },
-  {
-    "UniqueName": "mclaren.570s.gt4",
-    "Name": "McLaren 570S GT4",
-    "CarClass": "gt4",
-    "Vendor": "mclaren",
-    "Power": 462,
-    "Year": 2016
-  },
-  {
-    "UniqueName": "mercedes.amg.gt4",
-    "Name": "Mercedes-AMG GT4",
-    "CarClass": "gt4",
-    "Vendor": "mercedes",
-    "Power": 510,
-    "Year": 2016
-  },
-  {
-    "UniqueName": "porsche.718.cayman.gt4.clubsport",
-    "Name": "Porsche 718 Cayman GT4 Clubsport",
-    "CarClass": "gt4",
-    "Vendor": "porsche",
-    "Power": 425,
-    "Year": 2019
-  }
+    {
+        "UniqueName": "alpine.a110.gt4",
+        "Name": "Alpine A110 GT4",
+        "CarClass": "gt4",
+        "Vendor": "alpine",
+        "Power": 360,
+        "Year": 2018,
+        "Color": "#0054a6",
+        "SecondaryColor": "#e8f3ff",
+        "TertiaryColor": "#ffffff"
+    },
+    {
+        "UniqueName": "aston.v8.vantage.gt4",
+        "Name": "Aston Martin V8 Vantage GT4",
+        "CarClass": "gt4",
+        "Vendor": "aston.martin",
+        "Power": 420,
+        "Year": 2018,
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
+    },
+    {
+        "UniqueName": "aston.v8.vantage.gt4.evo",
+        "Name": "Aston Martin V8 Vantage GT4 Evo",
+        "CarClass": "gt4",
+        "Vendor": "aston.martin",
+        "Power": 470,
+        "Year": 2024,
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
+    },
+    {
+        "UniqueName": "audi.r8.lms.gt4",
+        "Name": "Audi R8 LMS GT4",
+        "CarClass": "gt4",
+        "Vendor": "audi",
+        "Power": 495,
+        "Year": 2018,
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
+    },
+    {
+        "UniqueName": "bmw.m4.gt4",
+        "Name": "BMW M4 GT4",
+        "CarClass": "gt4",
+        "Vendor": "bmw",
+        "Power": 500,
+        "Year": 2018,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
+    },
+    {
+        "UniqueName": "chevrolet.camaro.gt4.r",
+        "Name": "Chevrolet Camaro GT4.R",
+        "CarClass": "gt4",
+        "Vendor": "chevrolet",
+        "Power": 475,
+        "Year": 2017,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
+    },
+    {
+        "UniqueName": "ginetta.g55.gt4",
+        "Name": "Ginetta G55 GT4",
+        "CarClass": "gt4",
+        "Vendor": "ginetta",
+        "Power": 380,
+        "Year": 2012,
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
+    },
+    {
+        "UniqueName": "ktm.xbow.gt4",
+        "Name": "KTM X-Bow GT4",
+        "CarClass": "gt4",
+        "Vendor": "ktm",
+        "Power": 360,
+        "Year": 2016,
+        "Color": "#ff6600",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
+    },
+    {
+        "UniqueName": "maserati.granturismo.mc.gt4",
+        "Name": "Maserati Granturismo MC GT4",
+        "CarClass": "gt4",
+        "Vendor": "maserati",
+        "Power": 430,
+        "Year": 2016,
+        "Color": "#003b5c",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
+    },
+    {
+        "UniqueName": "mclaren.570s.gt4",
+        "Name": "McLaren 570S GT4",
+        "CarClass": "gt4",
+        "Vendor": "mclaren",
+        "Power": 462,
+        "Year": 2016,
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
+    },
+    {
+        "UniqueName": "mercedes.amg.gt4",
+        "Name": "Mercedes-AMG GT4",
+        "CarClass": "gt4",
+        "Vendor": "mercedes",
+        "Power": 510,
+        "Year": 2016,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
+    },
+    {
+        "UniqueName": "porsche.718.cayman.gt4.clubsport",
+        "Name": "Porsche 718 Cayman GT4 Clubsport",
+        "CarClass": "gt4",
+        "Vendor": "porsche",
+        "Power": 425,
+        "Year": 2019,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
+    },
+    {
+        "UniqueName": "ford.mustang.gt4",
+        "Name": "Ford Mustang GT4",
+        "CarClass": "gt4",
+        "Vendor": "ford",
+        "Year": 2024,
+        "Power": 500,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
+    }
 ]

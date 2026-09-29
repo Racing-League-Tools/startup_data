@@ -1,7 +1,7 @@
 [
     {
-        "UniqueName": "imsa.sportscar",
-        "Name": "IMSA SportsCar",
+        "UniqueName": "imsa.sportscar.2026",
+        "Name": "IMSA SportsCar 2026",
         "BaseChampionship": "imsa",
         "Games": [
             "ams.2",
@@ -147,7 +147,7 @@
         "QualType1": "Regular",
         "QualType2": "Regular",
         "QualType3": "Regular",
-        "GridSize": 30,
+        "GridSize": 54,
         "SeatsPerTeam": 2,
         "SeatsReserve": 20,
         "EventFormat": {

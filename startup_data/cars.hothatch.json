@@ -5,7 +5,10 @@
         "CarClass": "hothatch",
         "Vendor": "dodge",
         "Year": 1986,
-        "Power": 175
+        "Power": 175,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.fiesta.xr2",
@@ -13,7 +16,10 @@
         "CarClass": "hothatch",
         "Vendor": "ford",
         "Year": 1981,
-        "Power": 84
+        "Power": 84,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.escort.rsturbo",
@@ -21,7 +27,10 @@
         "CarClass": "hothatch",
         "Vendor": "ford",
         "Year": 1986,
-        "Power": 130
+        "Power": 130,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.escort.rscosworth",
@@ -29,7 +38,10 @@
         "CarClass": "hothatch",
         "Vendor": "ford",
         "Year": 1992,
-        "Power": 224
+        "Power": 224,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "honda.crx.sir",
@@ -37,7 +49,10 @@
         "CarClass": "hothatch",
         "Vendor": "honda",
         "Year": 1991,
-        "Power": 158
+        "Power": 158,
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "honda.civic.typer.97",
@@ -45,7 +60,10 @@
         "CarClass": "hothatch",
         "Vendor": "honda",
         "Year": 1997,
-        "Power": 182
+        "Power": 182,
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lancia.deltahf.integraleevo",
@@ -53,7 +71,10 @@
         "CarClass": "hothatch",
         "Vendor": "lancia",
         "Year": 1992,
-        "Power": 248
+        "Power": 248,
+        "Color": "#003da5",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mazda.323.gtr",
@@ -61,7 +82,10 @@
         "CarClass": "hothatch",
         "Vendor": "mazda",
         "Year": 1992,
-        "Power": 207
+        "Power": 207,
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "peugeot.205.turbo16",
@@ -69,7 +93,10 @@
         "CarClass": "hothatch",
         "Vendor": "peugeot",
         "Year": 1984,
-        "Power": 200
+        "Power": 200,
+        "Color": "#003087",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "renault.5turbo",
@@ -77,7 +104,10 @@
         "CarClass": "hothatch",
         "Vendor": "renault",
         "Year": 1980,
-        "Power": 156
+        "Power": 156,
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "renault.clio.williams",
@@ -85,7 +115,10 @@
         "CarClass": "hothatch",
         "Vendor": "renault",
         "Year": 1993,
-        "Power": 142
+        "Power": 142,
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "toyota.sprinter.truenogtapex",
@@ -93,7 +126,10 @@
         "CarClass": "hothatch",
         "Vendor": "toyota",
         "Year": 1985,
-        "Power": 128
+        "Power": 128,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.sciroccos",
@@ -101,7 +137,10 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 1981,
-        "Power": 74
+        "Power": 74,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.golfgti.83",
@@ -109,7 +148,10 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 1983,
-        "Power": 212
+        "Power": 212,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.scirocco16v",
@@ -117,7 +159,10 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 1988,
-        "Power": 123
+        "Power": 123,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.golfgti.16vmk2",
@@ -125,7 +170,10 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 1992,
-        "Power": 139
+        "Power": 139,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.corrado.vr6",
@@ -133,7 +181,10 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 1995,
-        "Power": 178
+        "Power": 178,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.gtivr6.mk3",
@@ -141,7 +192,10 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 1998,
-        "Power": 172
+        "Power": 172,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alfaromeo.guilietta.quadrifoglio.verde",
@@ -149,7 +203,10 @@
         "CarClass": "hothatch",
         "Vendor": "alfa.romeo",
         "Year": 2011,
-        "Power": 231
+        "Power": 231,
+        "Color": "#8b0000",
+        "SecondaryColor": "#006b3f",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.rs3.sportback",
@@ -157,7 +214,10 @@
         "CarClass": "hothatch",
         "Vendor": "audi",
         "Year": 2011,
-        "Power": 335
+        "Power": 335,
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.s1.15",
@@ -165,7 +225,10 @@
         "CarClass": "hothatch",
         "Vendor": "audi",
         "Year": 2015,
-        "Power": 228
+        "Power": 228,
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "citroen.ds3.racing",
@@ -173,7 +236,10 @@
         "CarClass": "hothatch",
         "Vendor": "citroen",
         "Year": 2011,
-        "Power": 204
+        "Power": 204,
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.focus.rs.03",
@@ -181,7 +247,10 @@
         "CarClass": "hothatch",
         "Vendor": "ford",
         "Year": 2003,
-        "Power": 212
+        "Power": 212,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.focusrs.09",
@@ -189,7 +258,10 @@
         "CarClass": "hothatch",
         "Vendor": "ford",
         "Year": 2009,
-        "Power": 300
+        "Power": 300,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.focusrs.17",
@@ -197,7 +269,10 @@
         "CarClass": "hothatch",
         "Vendor": "ford",
         "Year": 2017,
-        "Power": 350
+        "Power": 350,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "honda.civic.typer.04",
@@ -205,7 +280,10 @@
         "CarClass": "hothatch",
         "Vendor": "honda",
         "Year": 2004,
-        "Power": 212
+        "Power": 212,
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "honda.civictyper.18",
@@ -213,7 +291,10 @@
         "CarClass": "hothatch",
         "Vendor": "honda",
         "Year": 2018,
-        "Power": 306
+        "Power": 306,
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "hyundai.velostern.19",
@@ -221,7 +302,10 @@
         "CarClass": "hothatch",
         "Vendor": "hyundai",
         "Year": 2019,
-        "Power": 275
+        "Power": 275,
+        "Color": "#002c5f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "hyunday.velostern.fe",
@@ -229,7 +313,10 @@
         "CarClass": "hothatch",
         "Vendor": "hyundai",
         "Year": 2019,
-        "Power": 276
+        "Power": 276,
+        "Color": "#002c5f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "hyundai.i30.n",
@@ -237,7 +324,10 @@
         "CarClass": "hothatch",
         "Vendor": "hyundai",
         "Year": 2020,
-        "Power": 271
+        "Power": 271,
+        "Color": "#002c5f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "hyundai.i20.n",
@@ -245,7 +335,10 @@
         "CarClass": "hothatch",
         "Vendor": "hyundai",
         "Year": 2021,
-        "Power": 201
+        "Power": 201,
+        "Color": "#002c5f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "hyundai.ioniq.5n",
@@ -253,7 +346,10 @@
         "CarClass": "hothatch",
         "Vendor": "hyundai",
         "Year": 2022,
-        "Power": 642
+        "Power": 642,
+        "Color": "#002c5f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mercedes.benz.a45amg",
@@ -261,7 +357,10 @@
         "CarClass": "hothatch",
         "Vendor": "mercedes",
         "Year": 2013,
-        "Power": 355
+        "Power": 355,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mini.jcw.gp.12",
@@ -269,7 +368,10 @@
         "CarClass": "hothatch",
         "Vendor": "mini",
         "Year": 2012,
-        "Power": 215
+        "Power": 215,
+        "Color": "#c8102e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mini.jcw.gp.21",
@@ -277,7 +379,10 @@
         "CarClass": "hothatch",
         "Vendor": "mini",
         "Year": 2021,
-        "Power": 302
+        "Power": 302,
+        "Color": "#c8102e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "peugeot.308gti",
@@ -285,7 +390,10 @@
         "CarClass": "hothatch",
         "Vendor": "peugeot",
         "Year": 2011,
-        "Power": 197
+        "Power": 197,
+        "Color": "#003087",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "renault.sportcliov6.03",
@@ -293,7 +401,10 @@
         "CarClass": "hothatch",
         "Vendor": "renault",
         "Year": 2003,
-        "Power": 251
+        "Power": 251,
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "renault.megane.r26r.08",
@@ -301,7 +412,10 @@
         "CarClass": "hothatch",
         "Vendor": "renault",
         "Year": 2008,
-        "Power": 227
+        "Power": 227,
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "renault.clio.rs16conc",
@@ -309,7 +423,10 @@
         "CarClass": "hothatch",
         "Vendor": "renault",
         "Year": 2016,
-        "Power": 270
+        "Power": 270,
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "renault.megane.rs.18",
@@ -317,7 +434,10 @@
         "CarClass": "hothatch",
         "Vendor": "renault",
         "Year": 2018,
-        "Power": 275
+        "Power": 275,
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "toyota.gr.yaris",
@@ -325,7 +445,10 @@
         "CarClass": "hothatch",
         "Vendor": "toyota",
         "Year": 2021,
-        "Power": 257
+        "Power": 257,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "vauxhall.astravxr.06",
@@ -333,7 +456,10 @@
         "CarClass": "hothatch",
         "Vendor": "vauxhall",
         "Year": 2006,
-        "Power": 236
+        "Power": 236,
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "vauxhall.astravxr.16",
@@ -341,7 +467,10 @@
         "CarClass": "hothatch",
         "Vendor": "vauxhall",
         "Year": 2012,
-        "Power": 276
+        "Power": 276,
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "vauxhall.corsavxr",
@@ -349,7 +478,10 @@
         "CarClass": "hothatch",
         "Vendor": "vauxhall",
         "Year": 2016,
-        "Power": 202
+        "Power": 202,
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.golf.r32.03",
@@ -357,7 +489,10 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 2003,
-        "Power": 212
+        "Power": 212,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.golfr.14",
@@ -365,7 +500,10 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 2014,
-        "Power": 296
+        "Power": 296,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.golfr.21",
@@ -373,7 +511,10 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 2021,
-        "Power": 288
+        "Power": 288,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.golf.r.22",
@@ -381,6 +522,9 @@
         "CarClass": "hothatch",
         "Vendor": "volkswagen",
         "Year": 2022,
-        "Power": 315
+        "Power": 315,
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     }
 ]

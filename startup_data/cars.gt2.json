@@ -5,7 +5,10 @@
         "CarClass": "gt2",
         "Vendor": "audi",
         "Power": 640,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ktm.xbow.gt2",
@@ -13,7 +16,10 @@
         "CarClass": "gt2",
         "Vendor": "ktm",
         "Power": 600,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#ff6600",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "maserati.gt2",
@@ -21,7 +27,10 @@
         "CarClass": "gt2",
         "Vendor": "maserati",
         "Power": 621,
-        "Year": 2023
+        "Year": 2023,
+        "Color": "#003b5c",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mercedes.amg.gt2",
@@ -29,7 +38,10 @@
         "CarClass": "gt2",
         "Vendor": "mercedes",
         "Power": 707,
-        "Year": 2023
+        "Year": 2023,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "porsche.935.gt2",
@@ -37,7 +49,10 @@
         "CarClass": "gt2",
         "Vendor": "porsche",
         "Power": 700,
-        "Year": 2019
+        "Year": 2019,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.991.2.gt2.rs.cs.evo",
@@ -45,6 +60,9 @@
         "CarClass": "gt2",
         "Vendor": "porsche",
         "Power": 700,
-        "Year": 2023
+        "Year": 2023,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     }
 ]

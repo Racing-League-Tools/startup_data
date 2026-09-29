@@ -6,9 +6,9 @@
         "Vendor": "chevrolet",
         "Year": 2024,
         "Power": 670,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.nascar.ng.mustang.darkhorse",
@@ -17,9 +17,9 @@
         "Vendor": "ford",
         "Year": 2024,
         "Power": 670,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "toyota.nascar.ng.camry.xse",
@@ -28,9 +28,9 @@
         "Vendor": "toyota",
         "Year": 2024,
         "Power": 670,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.monte.carlo.nascar",
@@ -39,9 +39,9 @@
         "Vendor": "chevrolet",
         "Year": 1983,
         "Power": 700,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.lumina.nascar",
@@ -50,9 +50,9 @@
         "Vendor": "chevrolet",
         "Year": 1989,
         "Power": 700,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.nascar.ng.camaro.zl1.lm",
@@ -61,8 +61,8 @@
         "Vendor": "chevrolet",
         "Year": 2023,
         "Power": 670,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     }
 ]

@@ -20,6 +20,7 @@
         "SeatType": "Primary",
         "Team": "red.bull.2021",
         "Driver": "Max Verstappen",
+        "RaceNumber": "33",
         "SeatPosition": 1,
         "ReservePosition": 0,
         "Championship": "f1.2021"
@@ -124,6 +125,7 @@
         "SeatType": "Primary",
         "Team": "alfa.romeo.2021",
         "Driver": "Antonio Giovinazzi",
+        "RaceNumber": "99",
         "SeatPosition": 2,
         "ReservePosition": 0,
         "Championship": "f1.2021"
@@ -140,6 +142,7 @@
         "SeatType": "Primary",
         "Team": "haas.2021",
         "Driver": "Mick Schumacher",
+        "RaceNumber": "47",
         "SeatPosition": 2,
         "ReservePosition": 0,
         "Championship": "f1.2021"
@@ -182,6 +185,7 @@
         "SeatType": "Primary",
         "Team": "red.bull.2022",
         "Driver": "Max Verstappen",
+        "RaceNumber": "1",
         "SeatPosition": 1,
         "ReservePosition": 0,
         "Championship": "f1.2022"
@@ -294,6 +298,7 @@
         "SeatType": "Primary",
         "Team": "haas.2022",
         "Driver": "Kevin Magnussen",
+        "RaceNumber": "20",
         "SeatPosition": 1,
         "ReservePosition": 0,
         "Championship": "f1.2022"
@@ -302,6 +307,7 @@
         "SeatType": "Primary",
         "Team": "haas.2022",
         "Driver": "Mick Schumacher",
+        "RaceNumber": "47",
         "SeatPosition": 2,
         "ReservePosition": 0,
         "Championship": "f1.2022"
@@ -344,6 +350,7 @@
         "SeatType": "Primary",
         "Team": "red.bull.2023",
         "Driver": "Max Verstappen",
+        "RaceNumber": "1",
         "SeatPosition": 1,
         "ReservePosition": 0,
         "Championship": "f1.2023"
@@ -432,6 +439,7 @@
         "SeatType": "Primary",
         "Team": "alphatauri.2023",
         "Driver": "Nyck de Vries",
+        "RaceNumber": "45",
         "SeatPosition": 2,
         "ReservePosition": 0,
         "Championship": "f1.2023"
@@ -456,6 +464,7 @@
         "SeatType": "Primary",
         "Team": "haas.2023",
         "Driver": "Kevin Magnussen",
+        "RaceNumber": "20",
         "SeatPosition": 1,
         "ReservePosition": 0,
         "Championship": "f1.2023"
@@ -480,6 +489,7 @@
         "SeatType": "Primary",
         "Team": "williams.2023",
         "Driver": "Logan Sargeant",
+        "RaceNumber": "2",
         "SeatPosition": 2,
         "ReservePosition": 0,
         "Championship": "f1.2023"
@@ -506,6 +516,7 @@
         "SeatType": "Primary",
         "Team": "red.bull.2024",
         "Driver": "Max Verstappen",
+        "RaceNumber": "1",
         "SeatPosition": 1,
         "ReservePosition": 0,
         "Championship": "f1.2024"
@@ -618,6 +629,7 @@
         "SeatType": "Primary",
         "Team": "haas.2024",
         "Driver": "Kevin Magnussen",
+        "RaceNumber": "20",
         "SeatPosition": 1,
         "ReservePosition": 0,
         "Championship": "f1.2024"
@@ -642,6 +654,7 @@
         "SeatType": "Primary",
         "Team": "williams.2024",
         "Driver": "Logan Sargeant",
+        "RaceNumber": "2",
         "SeatPosition": 2,
         "ReservePosition": 0,
         "Championship": "f1.2024"
@@ -668,6 +681,7 @@
         "SeatType": "Primary",
         "Team": "red.bull.2025",
         "Driver": "Max Verstappen",
+        "RaceNumber": "1",
         "SeatPosition": 1,
         "ReservePosition": 0,
         "Championship": "f1.2025"
@@ -910,6 +924,7 @@
         "SeatType": "Primary",
         "Team": "mclaren.2026",
         "Driver": "Lando Norris",
+        "RaceNumber": "1",
         "SeatPosition": 1,
         "ReservePosition": 0,
         "Championship": "f1.2026"

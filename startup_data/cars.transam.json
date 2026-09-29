@@ -5,7 +5,10 @@
         "CarClass": "transam",
         "Vendor": "cadillac",
         "Year": 2018,
-        "Power": 850
+        "Power": 850,
+        "Color": "#000000",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.ta.corvette",
@@ -13,7 +16,10 @@
         "CarClass": "transam",
         "Vendor": "chevrolet",
         "Year": 2018,
-        "Power": 850
+        "Power": 850,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dodge.ta.challenge",
@@ -21,7 +27,10 @@
         "CarClass": "transam",
         "Vendor": "dodge",
         "Year": 2019,
-        "Power": 855
+        "Power": 855,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.ta.mustang",
@@ -29,7 +38,10 @@
         "CarClass": "transam",
         "Vendor": "ford",
         "Year": 2018,
-        "Power": 850
+        "Power": 850,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.mustang.boss302.ta",
@@ -37,6 +49,9 @@
         "CarClass": "transam",
         "Vendor": "ford",
         "Year": 2023,
-        "Power": 460
+        "Power": 460,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     }
 ]

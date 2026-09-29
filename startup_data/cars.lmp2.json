@@ -6,9 +6,9 @@
         "Vendor": "chevrolet",
         "Year": 2010,
         "Power": 430,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.corvette.daytona.proto",
@@ -17,9 +17,9 @@
         "Vendor": "chevrolet",
         "Year": 2015,
         "Power": 580,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.daytona.proto",
@@ -28,9 +28,9 @@
         "Vendor": "ford",
         "Year": 2015,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mazda.racing.b09.86",
@@ -39,9 +39,9 @@
         "Vendor": "mazda",
         "Year": 2010,
         "Power": 525,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.lola.b12.80",
@@ -50,9 +50,9 @@
         "Vendor": "mazda",
         "Year": 2014,
         "Power": 450,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "oreca.07.17",
@@ -61,9 +61,9 @@
         "Vendor": "oreca",
         "Year": 2017,
         "Power": 603,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0046ad",
+        "SecondaryColor": "#ff6600",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "oreca.07.20",
@@ -73,9 +73,9 @@
         "Year": 2020,
         "Power": 603,
         "AliasesRaw": "Oreca 07",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0046ad",
+        "SecondaryColor": "#ff6600",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lola.b0540.turbo",
@@ -84,9 +84,9 @@
         "Vendor": "lola",
         "Year": 2005,
         "Power": 550,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003b8e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lola.b0540.v8",
@@ -95,9 +95,9 @@
         "Vendor": "lola",
         "Year": 2005,
         "Power": 548,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003b8e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ligier.js.p217",
@@ -106,8 +106,8 @@
         "Vendor": "ligier",
         "Year": 2017,
         "Power": 604,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     }
 ]

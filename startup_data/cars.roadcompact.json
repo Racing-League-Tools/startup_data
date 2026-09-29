@@ -5,7 +5,10 @@
         "CarClass": "roadcompact",
         "Vendor": "acura",
         "Year": 2001,
-        "Power": 195
+        "Power": 195,
+        "Color": "#c0c0c0",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "bmw.323ti.sport",
@@ -13,7 +16,10 @@
         "CarClass": "roadcompact",
         "Vendor": "bmw",
         "Year": 2000,
-        "Power": 168
+        "Power": 168,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "bmw.z3mcoupe",
@@ -21,7 +27,10 @@
         "CarClass": "roadcompact",
         "Vendor": "bmw",
         "Year": 2002,
-        "Power": 315
+        "Power": 315,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "dodge.stealthrt.turbo",
@@ -29,7 +38,10 @@
         "CarClass": "roadcompact",
         "Vendor": "dodge",
         "Year": 1996,
-        "Power": 320
+        "Power": 320,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dodge.srt4acr",
@@ -37,7 +49,10 @@
         "CarClass": "roadcompact",
         "Vendor": "dodge",
         "Year": 2005,
-        "Power": 230
+        "Power": 230,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "eagle.talontsi.turbo",
@@ -45,7 +60,10 @@
         "CarClass": "roadcompact",
         "Vendor": "eagle",
         "Year": 1998,
-        "Power": 210
+        "Power": 210,
+        "Color": "#1c4e80",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.racingpuma",
@@ -53,7 +71,10 @@
         "CarClass": "roadcompact",
         "Vendor": "ford",
         "Year": 1999,
-        "Power": 153
+        "Power": 153,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "honda.prelude.typesh",
@@ -61,7 +82,10 @@
         "CarClass": "roadcompact",
         "Vendor": "honda",
         "Year": 2000,
-        "Power": 200
+        "Power": 200,
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.rx7.gslse",
@@ -69,7 +93,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mazda",
         "Year": 1985,
-        "Power": 135
+        "Power": 135,
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.mx5.miata.90",
@@ -77,7 +104,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mazda",
         "Year": 1990,
-        "Power": 116
+        "Power": 116,
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.savanna.rx7",
@@ -85,7 +115,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mazda",
         "Year": 1990,
-        "Power": 200
+        "Power": 200,
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.mx5.miata.94",
@@ -93,7 +126,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mazda",
         "Year": 1994,
-        "Power": 128
+        "Power": 128,
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.rx7",
@@ -101,7 +137,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mazda",
         "Year": 1997,
-        "Power": 261
+        "Power": 261,
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mzada.rx7spiritrta",
@@ -109,7 +148,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mazda",
         "Year": 2002,
-        "Power": 276
+        "Power": 276,
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mitsubishi.galant.vr4",
@@ -117,7 +159,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mitsubishi",
         "Year": 1992,
-        "Power": 237
+        "Power": 237,
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mitsubishi.eclipse.gsx",
@@ -125,7 +170,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mitsubishi",
         "Year": 1995,
-        "Power": 210
+        "Power": 210,
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mitsubishi.lancer.evo3.gsr",
@@ -133,7 +181,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mitsubishi",
         "Year": 1995,
-        "Power": 267
+        "Power": 267,
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mitsubishi.gto",
@@ -141,7 +192,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mitsubishi",
         "Year": 1997,
-        "Power": 320
+        "Power": 320,
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mitsubishi.ftogp.vr",
@@ -149,7 +203,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mitsubishi",
         "Year": 1998,
-        "Power": 197
+        "Power": 197,
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mitsubishi.lancerevo6gsr",
@@ -157,7 +214,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mitsubishi",
         "Year": 1999,
-        "Power": 280
+        "Power": 280,
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mitsubishi.lancerevo8mr",
@@ -165,7 +225,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mitsubishi",
         "Year": 2004,
-        "Power": 277
+        "Power": 277,
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.pulsar.gtir",
@@ -173,7 +236,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 1990,
-        "Power": 227
+        "Power": 227,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.silvia.clubks",
@@ -181,7 +247,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 1992,
-        "Power": 202
+        "Power": 202,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.240sxse",
@@ -189,7 +258,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 1993,
-        "Power": 155
+        "Power": 155,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.silviaks",
@@ -197,7 +269,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 1994,
-        "Power": 217
+        "Power": 217,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.silvia.ksaero",
@@ -205,7 +280,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 1998,
-        "Power": 217
+        "Power": 217,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.silvia.specr",
@@ -213,7 +291,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 2000,
-        "Power": 250
+        "Power": 250,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.fairladyz",
@@ -221,7 +302,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 2003,
-        "Power": 287
+        "Power": 287,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "subaru.legacy.rs",
@@ -229,7 +313,10 @@
         "CarClass": "roadcompact",
         "Vendor": "subaru",
         "Year": 1990,
-        "Power": 217
+        "Power": 217,
+        "Color": "#003da5",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "subaru.impreza22b.sti",
@@ -237,7 +324,10 @@
         "CarClass": "roadcompact",
         "Vendor": "subaru",
         "Year": 1998,
-        "Power": 276
+        "Power": 276,
+        "Color": "#003da5",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "subaru.impreza.wrxsti",
@@ -245,7 +335,10 @@
         "CarClass": "roadcompact",
         "Vendor": "subaru",
         "Year": 2004,
-        "Power": 278
+        "Power": 278,
+        "Color": "#003da5",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.mr2sc",
@@ -253,7 +346,10 @@
         "CarClass": "roadcompact",
         "Vendor": "toyota",
         "Year": 1989,
-        "Power": 145
+        "Power": 145,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.supra2gt",
@@ -261,7 +357,10 @@
         "CarClass": "roadcompact",
         "Vendor": "toyota",
         "Year": 1992,
-        "Power": 206
+        "Power": 206,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.celica.gt4rc.st185",
@@ -269,7 +368,10 @@
         "CarClass": "roadcompact",
         "Vendor": "toyota",
         "Year": 1992,
-        "Power": 232
+        "Power": 232,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.celica.gt4st205",
@@ -277,7 +379,10 @@
         "CarClass": "roadcompact",
         "Vendor": "toyota",
         "Year": 1994,
-        "Power": 255
+        "Power": 255,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.mr2gt",
@@ -285,7 +390,10 @@
         "CarClass": "roadcompact",
         "Vendor": "toyota",
         "Year": 1995,
-        "Power": 241
+        "Power": 241,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.celicass2",
@@ -293,7 +401,10 @@
         "CarClass": "roadcompact",
         "Vendor": "toyota",
         "Year": 2003,
-        "Power": 187
+        "Power": 187,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alfaromeo.giuliasprint.gtastradale",
@@ -301,7 +412,10 @@
         "CarClass": "roadcompact",
         "Vendor": "alfa.romeo",
         "Year": 1965,
-        "Power": 115
+        "Power": 115,
+        "Color": "#8b0000",
+        "SecondaryColor": "#006b3f",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bmw.2002.turbo",
@@ -309,7 +423,10 @@
         "CarClass": "roadcompact",
         "Vendor": "bmw",
         "Year": 1973,
-        "Power": 168
+        "Power": 168,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "datsun.510",
@@ -317,7 +434,10 @@
         "CarClass": "roadcompact",
         "Vendor": "datsun",
         "Year": 1970,
-        "Power": 96
+        "Power": 96,
+        "Color": "#003da5",
+        "SecondaryColor": "#d10000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.lotus.cortina",
@@ -325,7 +445,10 @@
         "CarClass": "roadcompact",
         "Vendor": "ford",
         "Year": 1966,
-        "Power": 115
+        "Power": 115,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.escort.rs1600.73",
@@ -333,7 +456,10 @@
         "CarClass": "roadcompact",
         "Vendor": "ford",
         "Year": 1973,
-        "Power": 113
+        "Power": 113,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.escort.rs1800",
@@ -341,7 +467,10 @@
         "CarClass": "roadcompact",
         "Vendor": "ford",
         "Year": 1977,
-        "Power": 115
+        "Power": 115,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "holden.torana.a9x",
@@ -349,7 +478,10 @@
         "CarClass": "roadcompact",
         "Vendor": "holden",
         "Year": 1977,
-        "Power": 216
+        "Power": 216,
+        "Color": "#d40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.elan.sprint",
@@ -357,7 +489,10 @@
         "CarClass": "roadcompact",
         "Vendor": "lotus",
         "Year": 1971,
-        "Power": 126
+        "Power": 126,
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.rx3.73",
@@ -365,7 +500,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mazda",
         "Year": 1973,
-        "Power": 110
+        "Power": 110,
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mg.mgb.gt",
@@ -373,7 +511,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mg",
         "Year": 1966,
-        "Power": 95
+        "Power": 95,
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mini.cooper.s",
@@ -381,7 +522,10 @@
         "CarClass": "roadcompact",
         "Vendor": "mini",
         "Year": 1965,
-        "Power": 75
+        "Power": 75,
+        "Color": "#c8102e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "nissan.fairladyz.432",
@@ -389,7 +533,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 1969,
-        "Power": 160
+        "Power": 160,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.skyline.2000gtr",
@@ -397,7 +544,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 1971,
-        "Power": 160
+        "Power": 160,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.skyline.ht2000gtr",
@@ -405,7 +555,10 @@
         "CarClass": "roadcompact",
         "Vendor": "nissan",
         "Year": 1973,
-        "Power": 158
+        "Power": 158,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "opel.kadett.cgte",
@@ -413,7 +566,10 @@
         "CarClass": "roadcompact",
         "Vendor": "opel",
         "Year": 1979,
-        "Power": 114
+        "Power": 114,
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "porsche.9146",
@@ -421,7 +577,10 @@
         "CarClass": "roadcompact",
         "Vendor": "porsche",
         "Year": 1970,
-        "Power": 125
+        "Power": 125,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.911carrerars.73",
@@ -429,7 +588,10 @@
         "CarClass": "roadcompact",
         "Vendor": "porsche",
         "Year": 1973,
-        "Power": 207
+        "Power": 207,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "renault.8gordini",
@@ -437,7 +599,10 @@
         "CarClass": "roadcompact",
         "Vendor": "renault",
         "Year": 1967,
-        "Power": 103
+        "Power": 103,
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "toyota.corolla.sr5",
@@ -445,7 +610,10 @@
         "CarClass": "roadcompact",
         "Vendor": "toyota",
         "Year": 1974,
-        "Power": 88
+        "Power": 88,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.celica.gt.74",
@@ -453,6 +621,9 @@
         "CarClass": "roadcompact",
         "Vendor": "toyota",
         "Year": 1974,
-        "Power": 97
+        "Power": 97,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     }
 ]

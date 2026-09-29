@@ -6,9 +6,9 @@
         "Vendor": "ford",
         "Year": 2017,
         "Power": 650,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "holden.commodore.vf.13",
@@ -17,9 +17,9 @@
         "Vendor": "holden",
         "Year": 2013,
         "Power": 620,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "holden.vf.commodore.17",
@@ -28,19 +28,30 @@
         "Vendor": "holden",
         "Year": 2017,
         "Power": 650,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
-        "UniqueName": "nissan.altima.racecar",
-        "Name": "Nissan Altima Racecar",
+        "UniqueName": "ford.mustang.supercar.2025",
+        "Name": "Ford Mustang Supercar",
         "CarClass": "supercar",
-        "Vendor": "nissan",
-        "Year": 2017,
-        "Power": 668,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Vendor": "ford",
+        "Year": 2024,
+        "Power": 600,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
+    },
+    {
+        "UniqueName": "chevrolet.camaro.supercar.2025",
+        "Name": "Chevrolet Camaro Supercar",
+        "CarClass": "supercar",
+        "Vendor": "chevrolet",
+        "Year": 2024,
+        "Power": 600,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     }
 ]

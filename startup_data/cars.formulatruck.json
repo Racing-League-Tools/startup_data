@@ -3,23 +3,23 @@
         "UniqueName": "iveco.stralis.ct",
         "Name": "Iveco Stralis",
         "CarClass": "formulatruck",
-        "Vendor": "",
+        "Vendor": "iveco",
         "Year": 2017,
         "Power": 1230,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#322580",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "man.tgx.ct",
         "Name": "MAN TGX",
         "CarClass": "formulatruck",
-        "Vendor": "",
+        "Vendor": "man.truck",
         "Year": 2017,
         "Power": 1210,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#a9a9a9",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.benz.actros.ct",
@@ -28,9 +28,9 @@
         "Vendor": "mercedes",
         "Year": 2017,
         "Power": 1290,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "volkswagen.constellation.ct",
@@ -39,9 +39,9 @@
         "Vendor": "volkswagen",
         "Year": 2017,
         "Power": 1150,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volvo.fh.ct",
@@ -50,8 +50,8 @@
         "Vendor": "volvo",
         "Year": 2017,
         "Power": 1200,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003057",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     }
 ]

@@ -6,9 +6,9 @@
         "Vendor": "citroen",
         "Year": 2013,
         "Power": 595,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mini.countryman.r60.rx",
@@ -17,9 +17,9 @@
         "Vendor": "mini",
         "Year": 2013,
         "Power": 595,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8102e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mitisubishi.lancer.evox.rx",
@@ -28,9 +28,9 @@
         "Vendor": "mitsubishi",
         "Year": 2013,
         "Power": 595,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.polo.rx",
@@ -39,9 +39,9 @@
         "Vendor": "volkswagen",
         "Year": 2016,
         "Power": 595,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "stadium.super.truck",
@@ -50,8 +50,8 @@
         "Vendor": "chevrolet",
         "Year": 2013,
         "Power": 600,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     }
 ]

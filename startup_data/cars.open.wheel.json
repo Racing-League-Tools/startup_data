@@ -6,9 +6,9 @@
         "Vendor": "lotus",
         "Year": 1962,
         "Power": 100,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "minelli.formula.inter.mg15",
@@ -16,9 +16,9 @@
         "CarClass": "open.wheel",
         "Year": 2015,
         "Power": 161,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dd333a",
+        "SecondaryColor": "#403d97",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "formula.vee.gen1",
@@ -26,9 +26,9 @@
         "CarClass": "open.wheel",
         "Year": 2011,
         "Power": 93,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#e20a17",
+        "SecondaryColor": "#272727",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "formula.vee.fin",
@@ -36,9 +36,9 @@
         "CarClass": "open.wheel",
         "Year": 2019,
         "Power": 93,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#e20a17",
+        "SecondaryColor": "#272727",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "formula.vee.gen2",
@@ -46,8 +46,8 @@
         "CarClass": "open.wheel",
         "Year": 2025,
         "Power": 96,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#e20a17",
+        "SecondaryColor": "#272727",
+        "TertiaryColor": "#ffffff"
     }
 ]

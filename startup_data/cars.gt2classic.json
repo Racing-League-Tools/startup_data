@@ -6,9 +6,9 @@
         "Vendor": "ferrari",
         "Year": 2002,
         "Power": 430,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.996.gt3.rsr",
@@ -17,9 +17,9 @@
         "Vendor": "porsche",
         "Year": 2004,
         "Power": 457,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bmw.m3.e46.gtr",
@@ -28,9 +28,9 @@
         "Vendor": "bmw",
         "Year": 2001,
         "Power": 493,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lamborghini.diablo.gtr.1999",
@@ -39,8 +39,8 @@
         "Vendor": "lamborghini",
         "Year": 1999,
         "Power": 590,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     }
 ]

@@ -6,9 +6,9 @@
         "Vendor": "dallara",
         "Year": 2001,
         "Power": 260,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dallara.f309",
@@ -17,8 +17,8 @@
         "Vendor": "dallara",
         "Year": 2009,
         "Power": 260,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     }
 ]

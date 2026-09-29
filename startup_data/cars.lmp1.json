@@ -5,7 +5,10 @@
         "CarClass": "lmp1",
         "Vendor": "acura",
         "Year": 2018,
-        "Power": 600
+        "Power": 600,
+        "Color": "#c0c0c0",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "cadillac.dpi.vr",
@@ -14,9 +17,9 @@
         "Vendor": "cadillac",
         "Year": 2018,
         "Power": 582,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#000000",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mercedesbenz.sauber.c9",
@@ -25,9 +28,9 @@
         "Vendor": "mercedes",
         "Year": 1989,
         "Power": 750,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "chevrolet.corvette.gtp",
@@ -36,9 +39,9 @@
         "Vendor": "chevrolet",
         "Year": 1988,
         "Power": 802,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.r89c",
@@ -47,9 +50,9 @@
         "Vendor": "nissan",
         "Year": 1989,
         "Power": 918,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.962c",
@@ -58,9 +61,9 @@
         "Vendor": "porsche",
         "Year": 1987,
         "Power": 710,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.r18.etron.quattro",
@@ -69,9 +72,9 @@
         "Vendor": "audi",
         "Year": 2014,
         "Power": 758,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ginetta.g60ltp1",
@@ -80,9 +83,9 @@
         "Vendor": "ginetta",
         "Year": 2019,
         "Power": 720,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.gtrlm.nismo",
@@ -91,9 +94,9 @@
         "Vendor": "nissan",
         "Year": 2015,
         "Power": 768,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.919h",
@@ -102,9 +105,9 @@
         "Vendor": "porsche",
         "Year": 2017,
         "Power": 900,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.ts040h",
@@ -113,9 +116,9 @@
         "Vendor": "toyota",
         "Year": 2014,
         "Power": 784,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.martin.amr1",
@@ -124,9 +127,9 @@
         "Vendor": "aston.martin",
         "Year": 1989,
         "Power": 740,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "jaguar.xjr5",
@@ -135,9 +138,9 @@
         "Vendor": "jaguar",
         "Year": 1983,
         "Power": 525,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b5c",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "jaguar.racing.xjr9",
@@ -146,9 +149,9 @@
         "Vendor": "jaguar",
         "Year": 1988,
         "Power": 750,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b5c",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.787b",
@@ -157,9 +160,9 @@
         "Vendor": "mazda",
         "Year": 1991,
         "Power": 690,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.gtpzx.turbo",
@@ -168,9 +171,9 @@
         "Vendor": "nissan",
         "Year": 1985,
         "Power": 641,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissa.r88c.94",
@@ -179,9 +182,9 @@
         "Vendor": "nissan",
         "Year": 1988,
         "Power": 740,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.r91cp",
@@ -190,9 +193,9 @@
         "Vendor": "nissan",
         "Year": 1991,
         "Power": 800,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "peugeot.905evo1c",
@@ -201,9 +204,9 @@
         "Vendor": "peugeot",
         "Year": 1993,
         "Power": 641,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003087",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.956",
@@ -212,9 +215,9 @@
         "Vendor": "porsche",
         "Year": 1983,
         "Power": 620,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.ag962c",
@@ -223,9 +226,9 @@
         "Vendor": "porsche",
         "Year": 1987,
         "Power": 720,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.eagle.mk3",
@@ -234,9 +237,9 @@
         "Vendor": "toyota",
         "Year": 1992,
         "Power": 751,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chaparral.2e",
@@ -245,9 +248,9 @@
         "Vendor": "chaparral",
         "Year": 1966,
         "Power": 475,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffffff",
+        "SecondaryColor": "#003da5",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lola.t70.mk3b",
@@ -256,9 +259,9 @@
         "Vendor": "lola",
         "Year": 1969,
         "Power": 460,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003b8e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lola.t163",
@@ -267,9 +270,9 @@
         "Vendor": "lola",
         "Year": 1969,
         "Power": 615,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003b8e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.m1b",
@@ -278,9 +281,9 @@
         "Vendor": "mclaren",
         "Year": 1966,
         "Power": 526,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.m8b",
@@ -289,9 +292,9 @@
         "Vendor": "mclaren",
         "Year": 1969,
         "Power": 635,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "nissan.racing.r382",
@@ -300,9 +303,9 @@
         "Vendor": "nissan",
         "Year": 1969,
         "Power": 592,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevron.b16",
@@ -311,9 +314,9 @@
         "Vendor": "chevron",
         "Year": 1970,
         "Power": 215,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.spa.330p4",
@@ -322,9 +325,9 @@
         "Vendor": "ferrari",
         "Year": 1967,
         "Power": 450,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.512s",
@@ -333,9 +336,9 @@
         "Vendor": "ferrari",
         "Year": 1970,
         "Power": 542,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.gt40mk1",
@@ -344,9 +347,9 @@
         "Vendor": "ford",
         "Year": 1964,
         "Power": 390,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.gt40mk2lm",
@@ -355,9 +358,9 @@
         "Vendor": "ford",
         "Year": 1966,
         "Power": 485,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lotus.type40",
@@ -366,9 +369,9 @@
         "Vendor": "lotus",
         "Year": 1965,
         "Power": 451,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "matrasimca.ms650tdf",
@@ -377,9 +380,9 @@
         "Vendor": "matrasimca",
         "Year": 1970,
         "Power": 410,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0055a4",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "porsche.917lh",
@@ -388,9 +391,9 @@
         "Vendor": "porsche",
         "Year": 1970,
         "Power": 601,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "shelby.monaco.kingcobra",
@@ -399,9 +402,9 @@
         "Vendor": "shelby",
         "Year": 1963,
         "Power": 400,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "porsche.917.20",
@@ -410,9 +413,9 @@
         "Vendor": "porsche",
         "Year": 1971,
         "Power": 591,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.r8.lmp1",
@@ -421,9 +424,9 @@
         "Vendor": "audi",
         "Year": 2000,
         "Power": 548,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "courage.c60.hybrid",
@@ -431,9 +434,9 @@
         "CarClass": "lmp1",
         "Year": 2005,
         "Power": 599,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffffff",
+        "SecondaryColor": "#3964cd",
+        "TertiaryColor": "#10ee9b"
     },
     {
         "UniqueName": "dallara.sp1",
@@ -442,9 +445,9 @@
         "Vendor": "dallara",
         "Year": 2001,
         "Power": 599,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.type.23",
@@ -453,8 +456,8 @@
         "Vendor": "lotus",
         "Year": 1962,
         "Power": 95,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     }
 ]
