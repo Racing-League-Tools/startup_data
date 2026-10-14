@@ -6,9 +6,9 @@
         "Vendor": "ginetta",
         "Year": 2011,
         "Power": 142,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "puma.p052.gt5",
@@ -17,8 +17,8 @@
         "Vendor": "puma",
         "Year": 2017,
         "Power": 163,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     }
 ]

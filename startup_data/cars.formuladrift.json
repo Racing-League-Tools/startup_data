@@ -5,7 +5,10 @@
         "CarClass": "formuladrift",
         "Vendor": "bmw",
         "Year": 2020,
-        "Power": 822
+        "Power": 822,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "dodge.viper.srt10.fd",
@@ -13,7 +16,10 @@
         "CarClass": "formuladrift",
         "Vendor": "dodge",
         "Year": 2006,
-        "Power": 1350
+        "Power": 1350,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.mustang.fd",
@@ -21,7 +27,10 @@
         "CarClass": "formuladrift",
         "Vendor": "ford",
         "Year": 2015,
-        "Power": 986
+        "Power": 986,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.mustang.rtrfd.88",
@@ -29,7 +38,10 @@
         "CarClass": "formuladrift",
         "Vendor": "ford",
         "Year": 2024,
-        "Power": 1132
+        "Power": 1132,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.mustang.rtrfd.25",
@@ -37,7 +49,10 @@
         "CarClass": "formuladrift",
         "Vendor": "ford",
         "Year": 2024,
-        "Power": 1132
+        "Power": 1132,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.mustang.rtrfd.130",
@@ -45,7 +60,10 @@
         "CarClass": "formuladrift",
         "Vendor": "ford",
         "Year": 2024,
-        "Power": 1159
+        "Power": 1159,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "hsv.maloo.genf.fd",
@@ -53,7 +71,10 @@
         "CarClass": "formuladrift",
         "Vendor": "hsv",
         "Year": 2016,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#d00000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.forsbergracing.datsun.280z",
@@ -61,7 +82,10 @@
         "CarClass": "formuladrift",
         "Vendor": "nissan",
         "Year": 1975,
-        "Power": 424
+        "Power": 424,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "nissan.240sx.fd",
@@ -69,7 +93,10 @@
         "CarClass": "formuladrift",
         "Vendor": "nissan",
         "Year": 1997,
-        "Power": 1258
+        "Power": 1258,
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "toyota.gr.supra.fd",
@@ -77,6 +104,9 @@
         "CarClass": "formuladrift",
         "Vendor": "toyota",
         "Year": 2020,
-        "Power": 1033
+        "Power": 1033,
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     }
 ]

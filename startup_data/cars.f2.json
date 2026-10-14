@@ -5,7 +5,10 @@
         "CarClass": "f2",
         "Vendor": "dallara",
         "Power": 620,
-        "Year": 2018
+        "Year": 2018,
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dallara.f22024",
@@ -13,6 +16,9 @@
         "CarClass": "f2",
         "Vendor": "dallara",
         "Power": 620,
-        "Year": 2024
+        "Year": 2024,
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     }
 ]

@@ -6,9 +6,9 @@
         "Vendor": "audi",
         "Year": 2018,
         "Power": 370,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.focus.stbtcc",
@@ -17,9 +17,9 @@
         "Vendor": "ford",
         "Year": 2014,
         "Power": 330,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "honda.racing.civic",
@@ -28,9 +28,9 @@
         "Vendor": "honda",
         "Year": 2020,
         "Power": 340,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "hyundai.velostern.wtcc",
@@ -39,9 +39,9 @@
         "Vendor": "hyundai",
         "Year": 2020,
         "Power": 350,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#002c5f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "hyundai.elantra.n.tcr",
@@ -50,9 +50,9 @@
         "Vendor": "hyundai",
         "Year": 2021,
         "Power": 350,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#002c5f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lynkco.racing03",
@@ -61,9 +61,9 @@
         "Vendor": "lynkco",
         "Year": 2020,
         "Power": 340,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#101010",
+        "SecondaryColor": "#00d1b2",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mercedes.a45",
@@ -72,9 +72,9 @@
         "Vendor": "mercedes",
         "Year": 2017,
         "Power": 350,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mg.racing.mg6",
@@ -83,9 +83,9 @@
         "Vendor": "mg",
         "Year": 2020,
         "Power": 340,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "peugeot.competition308",
@@ -94,9 +94,9 @@
         "Vendor": "peugeot",
         "Year": 2018,
         "Power": 343,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003087",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "subaru.levorggt",
@@ -105,9 +105,9 @@
         "Vendor": "subaru",
         "Year": 2018,
         "Power": 350,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "vauxhall.racing.astra",
@@ -116,9 +116,9 @@
         "Vendor": "vauxhall",
         "Year": 2017,
         "Power": 350,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.racing.golfgti",
@@ -127,9 +127,9 @@
         "Vendor": "volkswagen",
         "Year": 2018,
         "Power": 345,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.polo.tsicup",
@@ -138,9 +138,9 @@
         "Vendor": "volkswagen",
         "Year": 2021,
         "Power": 129,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.polo.gts.tsicup",
@@ -149,9 +149,9 @@
         "Vendor": "volkswagen",
         "Year": 2021,
         "Power": 148,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.virtus.tsicup",
@@ -160,9 +160,9 @@
         "Vendor": "volkswagen",
         "Year": 2021,
         "Power": 129,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.virtus.gts.tsicup",
@@ -171,8 +171,8 @@
         "Vendor": "volkswagen",
         "Year": 2021,
         "Power": 148,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     }
 ]

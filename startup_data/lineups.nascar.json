@@ -1,0 +1,929 @@
+[
+    {
+        "SeatType": "Primary",
+        "Team": "haas.nascar.cup.2026",
+        "Driver": "Cole Custer",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "41",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "hendrick.nascar.cup.2026",
+        "Driver": "Kyle Larson",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "5",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "hendrick.nascar.cup.2026",
+        "Driver": "Chase Elliott",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "9",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "hendrick.nascar.cup.2026",
+        "Driver": "William Byron",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "24",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "hendrick.nascar.cup.2026",
+        "Driver": "Alex Bowman",
+        "SeatPosition": 4,
+        "ReservePosition": 0,
+        "RaceNumber": "48",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "23xi.nascar.cup.2026",
+        "Driver": "Bubba Wallace",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "23",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "23xi.nascar.cup.2026",
+        "Driver": "Riley Herbst",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "35",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "23xi.nascar.cup.2026",
+        "Driver": "Tyler Reddick",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "45",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "hyak.nascar.cup.2026",
+        "Driver": "Ricky Stenhouse Jr.",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "47",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "kaulig.nascar.cup.2026",
+        "Driver": "Ty Dillon",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "10",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "kaulig.nascar.cup.2026",
+        "Driver": "A. J. Allmendinger",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "16",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "richard.nascar.cup.2026",
+        "Driver": "Austin Dillon",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "3",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "richard.nascar.cup.2026",
+        "Driver": "Austin Hill",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "33",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "richard.nascar.cup.2026",
+        "Driver": "Kyle Busch",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "8",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "rick.ware.nascar.cup.2026",
+        "Driver": "Cody Ware",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "51",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "spire.nascar.cup.2026",
+        "Driver": "Carson Hocevar",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "77",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "spire.nascar.cup.2026",
+        "Driver": "Daniel Suarez",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "7",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "spire.nascar.cup.2026",
+        "Driver": "Michael McDowell",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "71",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "trackhouse.nascar.cup.2026",
+        "Driver": "Ross Chastain",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "1",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "trackhouse.nascar.cup.2026",
+        "Driver": "Shane van Gisbergen",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "97",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "trackhouse.nascar.cup.2026",
+        "Driver": "Connor Zilisch",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "88",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "front.row.nascar.cup.2026",
+        "Driver": "Noah Gragson",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "4",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "front.row.nascar.cup.2026",
+        "Driver": "Todd Gilliland",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "34",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "front.row.nascar.cup.2026",
+        "Driver": "Zane Smith",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "38",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "rfk.nascar.cup.2026",
+        "Driver": "Brad Keselowski",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "6",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "rfk.nascar.cup.2026",
+        "Driver": "Cris Buescher",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "17",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "rfk.nascar.cup.2026",
+        "Driver": "Ryan Preece",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "60",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "penske.nascar.cup.2026",
+        "Driver": "Austin Cindric",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "2",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "penske.nascar.cup.2026",
+        "Driver": "Joey Logano",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "22",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "penske.nascar.cup.2026",
+        "Driver": "Ryan Blaney",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "12",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "wood.brothers.nascar.cup.2026",
+        "Driver": "Josh Berry",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "21",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "joe.gibbs.nascar.cup.2026",
+        "Driver": "Denny Hamlin",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "11",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "joe.gibbs.nascar.cup.2026",
+        "Driver": "Chase Briscoe",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "19",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "joe.gibbs.nascar.cup.2026",
+        "Driver": "Christopher Bell",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "20",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "joe.gibbs.nascar.cup.2026",
+        "Driver": "Ty Gibbs",
+        "SeatPosition": 4,
+        "ReservePosition": 0,
+        "RaceNumber": "54",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "legacy.nascar.cup.2026",
+        "Driver": "John Hunter Nemechek",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "42",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "legacy.nascar.cup.2026",
+        "Driver": "Erik Jones",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "43",
+        "Championship": "nascar.cup.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "big.machine.nascar.oreilly.2026",
+        "Driver": "Patrick Staropoli",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "48",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "dmg.racing.nascar.oreilly.2026",
+        "Driver": "Mason Maggio",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "91",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "dmg.racing.nascar.oreilly.2026",
+        "Driver": "Josh Williams",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "92",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "haas.nascar.oreilly.2026",
+        "Driver": "Sheldon Creed",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "00",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "haas.nascar.oreilly.2026",
+        "Driver": "Sam Mayer",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "41",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "hendrick.nascar.oreilly.2026",
+        "Driver": "Corey Day",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "17",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "jeremy.nascar.oreilly.2026",
+        "Driver": "Jeremy Clements",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "51",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "jordan.nascar.oreilly.2026",
+        "Driver": "Jeb Burton",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "27",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "jordan.nascar.oreilly.2026",
+        "Driver": "Blaine Perkins",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "31",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "jordan.nascar.oreilly.2026",
+        "Driver": "Andrew Patterson",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "32",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "jr.motorsports.nascar.oreilly.2026",
+        "Driver": "Carson Kvapil",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "1",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "jr.motorsports.nascar.oreilly.2026",
+        "Driver": "Connor Zilisch",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "7",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "jr.motorsports.nascar.oreilly.2026",
+        "Driver": "Justin Allgaier",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "8",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "jr.motorsports.nascar.oreilly.2026",
+        "Driver": "Rajah Caruth",
+        "SeatPosition": 4,
+        "ReservePosition": 0,
+        "RaceNumber": "88",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "peterson.nascar.oreilly.2026",
+        "Driver": "Austin Green",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "87",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "richard.childress.nascar.oreilly.2026",
+        "Driver": "Jesse Love",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "2",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "richard.childress.nascar.oreilly.2026",
+        "Driver": "Austin Hill",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "21",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "ryan.scott.nascar.oreilly.2026",
+        "Driver": "Ryan Sieg",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "39",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "ryan.scott.nascar.oreilly.2026",
+        "Driver": "Kyle Sieg",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "28",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "green.light.nascar.oreilly.2026",
+        "Driver": "Josh Bilicki",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "07",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "brk.racing.nascar.oreilly.2026",
+        "Driver": "Garrett Smithley",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "0",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "viking.nascar.oreilly.2026",
+        "Driver": "Anthony Alfredo",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "96",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "viking.nascar.oreilly.2026",
+        "Driver": "Parker Retzlaff",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "99",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "young.nascar.oreilly.2026",
+        "Driver": "Ryan Ellis",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "02",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "young.nascar.oreilly.2026",
+        "Driver": "Nathan Byrd",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "42",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "joe.gibbs.nascar.oreilly.2026",
+        "Driver": "William Sawalich",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "18",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "joe.gibbs.nascar.oreilly.2026",
+        "Driver": "Brent Crews",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "19",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "joe.gibbs.nascar.oreilly.2026",
+        "Driver": "Brandon Jones",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "20",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "joe.gibbs.nascar.oreilly.2026",
+        "Driver": "Taylor Gray",
+        "SeatPosition": 4,
+        "ReservePosition": 0,
+        "RaceNumber": "54",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "aplha.prime.nascar.oreilly.2026",
+        "Driver": "Brennan Poole",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "44",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "aplha.prime.nascar.oreilly.2026",
+        "Driver": "Lavar Scott",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "45",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "sam.hunt.nascar.oreilly.2026",
+        "Driver": "Harrison Burton",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "24",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "sam.hunt.nascar.oreilly.2026",
+        "Driver": "Dean Thompson",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "26",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "joey.gase.nascar.oreilly.2026",
+        "Driver": "Joey Gase",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "55",
+        "Championship": "nascar.oreilly.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "cr7.nascar.truck.2026",
+        "Driver": "Grant Enfinger",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "9",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "freedom.nascar.truck.2026",
+        "Driver": "Spencer Boyd",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "76",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "mcanally.nascar.truck.2026",
+        "Driver": "Tyler Ankrum",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "18",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "mcanally.nascar.truck.2026",
+        "Driver": "Daniel Hemric",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "19",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "mcanally.nascar.truck.2026",
+        "Driver": "Kris Wright",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "81",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "mcanally.nascar.truck.2026",
+        "Driver": "Christian Eckes",
+        "SeatPosition": 4,
+        "ReservePosition": 0,
+        "RaceNumber": "91",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "niece.nascar.truck.2026",
+        "Driver": "Tyler Reif",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "42",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "niece.nascar.truck.2026",
+        "Driver": "Andres Perez de Lara",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "44",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "niece.nascar.truck.2026",
+        "Driver": "Landren Lewis",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "45",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "rackley.nascar.truck.2026",
+        "Driver": "Dawson Sutton",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "26",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "spire.nascar.truck.2026",
+        "Driver": "Connor Mosack",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "7",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "spire.nascar.truck.2026",
+        "Driver": "Carson Hocevar",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "77",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "front.row.nascar.truck.2026",
+        "Driver": "Layne Riggs",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "34",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "front.row.nascar.truck.2026",
+        "Driver": "Chandler Smith",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "38",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "reaume.nascar.truck.2026",
+        "Driver": "Luke Baldwin",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "2",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "reaume.nascar.truck.2026",
+        "Driver": "Josh Reaume",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "22",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "reaume.nascar.truck.2026",
+        "Driver": "Frankie Muniz",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "33",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "thorsport.nascar.truck.2026",
+        "Driver": "Cole Butcher",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "13",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "thorsport.nascar.truck.2026",
+        "Driver": "Ty Majeski",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "88",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "thorsport.nascar.truck.2026",
+        "Driver": "Jake Garcia",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "98",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "thorsport.nascar.truck.2026",
+        "Driver": "Ben Rhodes",
+        "SeatPosition": 4,
+        "ReservePosition": 0,
+        "RaceNumber": "99",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "kaulig.nascar.truck.2026",
+        "Driver": "Corey LaJoie",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "10",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "kaulig.nascar.truck.2026",
+        "Driver": "Brenden Queen",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "12",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "kaulig.nascar.truck.2026",
+        "Driver": "Mini Tyrrell",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "14",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "kaulig.nascar.truck.2026",
+        "Driver": "Justin Haley",
+        "SeatPosition": 4,
+        "ReservePosition": 0,
+        "RaceNumber": "16",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "halmar.nascar.truck.2026",
+        "Driver": "Stewart Friesen",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "52",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "halmar.nascar.truck.2026",
+        "Driver": "Leland Honeyman Jr.",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "62",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "tricon.nascar.truck.2026",
+        "Driver": "Brandon Jones",
+        "SeatPosition": 1,
+        "ReservePosition": 0,
+        "RaceNumber": "1",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "tricon.nascar.truck.2026",
+        "Driver": "Adam Andretti",
+        "SeatPosition": 2,
+        "ReservePosition": 0,
+        "RaceNumber": "5",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "tricon.nascar.truck.2026",
+        "Driver": "Kaden Honeycutt",
+        "SeatPosition": 3,
+        "ReservePosition": 0,
+        "RaceNumber": "11",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "tricon.nascar.truck.2026",
+        "Driver": "Tanner Gray",
+        "SeatPosition": 4,
+        "ReservePosition": 0,
+        "RaceNumber": "15",
+        "Championship": "nascar.truck.2026"
+    },
+    {
+        "SeatType": "Primary",
+        "Team": "tricon.nascar.truck.2026",
+        "Driver": "Giovanni Ruggiero",
+        "SeatPosition": 5,
+        "ReservePosition": 0,
+        "RaceNumber": "17",
+        "Championship": "nascar.truck.2026"
+    }
+]

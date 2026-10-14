@@ -6,9 +6,9 @@
         "Vendor": "chevrolet",
         "Year": 2014,
         "Power": 125,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "caterham.620r",
@@ -17,9 +17,9 @@
         "Vendor": "caterham",
         "Year": 2013,
         "Power": 300,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "caterham.270r",
@@ -28,9 +28,9 @@
         "Vendor": "caterham",
         "Year": 2015,
         "Power": 121,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "caterham.360r",
@@ -39,9 +39,9 @@
         "Vendor": "caterham",
         "Year": 2017,
         "Power": 177,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "caterham.360r.ss",
@@ -50,9 +50,9 @@
         "Vendor": "caterham",
         "Year": 2017,
         "Power": 122,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ginetta.g40.cup",
@@ -61,9 +61,9 @@
         "Vendor": "ginetta",
         "Year": 2010,
         "Power": 142,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ginetta.g55.supercup",
@@ -72,9 +72,9 @@
         "Vendor": "ginetta",
         "Year": 2011,
         "Power": 370,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mini.cooper.jcw",
@@ -83,9 +83,9 @@
         "Vendor": "mini",
         "Year": 2014,
         "Power": 278,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8102e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mitsubishi.lancer.r.cup",
@@ -94,9 +94,9 @@
         "Vendor": "mitsubishi",
         "Year": 2007,
         "Power": 290,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mitsubishi.lancer.rs.cup",
@@ -105,9 +105,9 @@
         "Vendor": "mitsubishi",
         "Year": 2007,
         "Power": 301,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#e60012",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.488.challenge",
@@ -116,9 +116,9 @@
         "Vendor": "ferrari",
         "Year": 2017,
         "Power": 661,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.formula.mazda",
@@ -127,9 +127,9 @@
         "Vendor": "mazda",
         "Year": 2015,
         "Power": 180,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.racing.ttrs",
@@ -138,9 +138,9 @@
         "Vendor": "audi",
         "Year": 2016,
         "Power": 380,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ginetta.g40.junior",
@@ -149,9 +149,9 @@
         "Vendor": "ginetta",
         "Year": 2019,
         "Power": 100,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mazda.mx5.cup",
@@ -160,9 +160,9 @@
         "Vendor": "mazda",
         "Year": 2017,
         "Power": 181,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#9e1b32",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.missionr",
@@ -171,9 +171,9 @@
         "Vendor": "porsche",
         "Year": 2021,
         "Power": 671,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ariel.atomv8",
@@ -182,9 +182,9 @@
         "Vendor": "ariel",
         "Year": 2013,
         "Power": 475,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a0df",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "bac.mono",
@@ -193,9 +193,9 @@
         "Vendor": "bac",
         "Year": 2014,
         "Power": 280,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#202020",
+        "SecondaryColor": "#00d1ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "caterham.superlight.r500",
@@ -204,9 +204,9 @@
         "Vendor": "caterham",
         "Year": 2013,
         "Power": 263,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "donkervoot.d8gto",
@@ -215,9 +215,9 @@
         "Vendor": "donkervoort",
         "Year": 2013,
         "Power": 375,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff6600",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "elemental.rp1",
@@ -226,9 +226,9 @@
         "Vendor": "elemental",
         "Year": 2019,
         "Power": 279,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00b140",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "exomotive.exocetsport.v8xp5",
@@ -237,9 +237,9 @@
         "Vendor": "exomotive",
         "Year": 2018,
         "Power": 525,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff3b30",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ktm.xbowr",
@@ -248,9 +248,9 @@
         "Vendor": "ktm",
         "Year": 2013,
         "Power": 295,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff6600",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lotus.3eleven",
@@ -259,9 +259,9 @@
         "Vendor": "lotus",
         "Year": 2016,
         "Power": 410,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "radical.rxc.turbo",
@@ -270,9 +270,9 @@
         "Vendor": "radical",
         "Year": 2015,
         "Power": 454,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ff6600",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ultima.evocoupe.1020",
@@ -281,9 +281,9 @@
         "Vendor": "ultima",
         "Year": 2015,
         "Power": 1020,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#1a1a1a",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "vuhl.05rr",
@@ -292,9 +292,9 @@
         "Vendor": "vuhl",
         "Year": 2017,
         "Power": 400,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#39b54a",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ligier.js.p4",
@@ -303,9 +303,9 @@
         "Vendor": "ligier",
         "Year": 2017,
         "Power": 385,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "sprint.race",

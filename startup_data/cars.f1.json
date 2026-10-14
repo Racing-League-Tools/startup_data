@@ -5,14 +5,20 @@
         "CarClass": "f1",
         "Vendor": "alfa.romeo",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#8b0000",
+        "SecondaryColor": "#006b3f",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alphatauri.at01",
         "Name": "AlphaTauri AT01",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#20394C",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.sf1000",
@@ -20,14 +26,20 @@
         "CarClass": "f1",
         "Vendor": "ferrari",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "haas.vf20",
         "Name": "Haas VF-20",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#E6002B",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.mcl35",
@@ -35,21 +47,30 @@
         "CarClass": "f1",
         "Vendor": "mclaren",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "racingpoint.rp20",
         "Name": "Racing Point RP20",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#ffafc2",
+        "SecondaryColor": "#000c79",
+        "TertiaryColor": "#ff0025"
     },
     {
         "UniqueName": "redbull.rb16",
         "Name": "Red Bull Racing RB16",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#EC1845",
+        "SecondaryColor": "#000B8D",
+        "TertiaryColor": "#FED502"
     },
     {
         "UniqueName": "renault.rs20",
@@ -57,14 +78,20 @@
         "CarClass": "f1",
         "Vendor": "renault",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "williams.fw43",
         "Name": "Williams FW43",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mercedes.w11",
@@ -72,14 +99,20 @@
         "CarClass": "f1",
         "Vendor": "mercedes",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "multiplayer.f12020",
         "Name": "Multiplayer Car F1 2020",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2020
+        "Year": 2020,
+        "Color": "#FF1E00",
+        "SecondaryColor": "#15151E",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alfaromeo.c41",
@@ -87,14 +120,20 @@
         "CarClass": "f1",
         "Vendor": "alfa.romeo",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#8b0000",
+        "SecondaryColor": "#006b3f",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alphatauri.at02",
         "Name": "AlphaTauri AT02",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#20394C",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alpine.a521",
@@ -102,7 +141,10 @@
         "CarClass": "f1",
         "Vendor": "alpine",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#0054a6",
+        "SecondaryColor": "#e8f3ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.amr21",
@@ -110,7 +152,10 @@
         "CarClass": "f1",
         "Vendor": "aston.martin",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.sf21",
@@ -118,14 +163,20 @@
         "CarClass": "f1",
         "Vendor": "ferrari",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "haas.vf21",
         "Name": "Haas VF-21",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#E6002B",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.mcl35m",
@@ -133,7 +184,10 @@
         "CarClass": "f1",
         "Vendor": "mclaren",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.w12",
@@ -141,28 +195,40 @@
         "CarClass": "f1",
         "Vendor": "mercedes",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "redbull.rb16b",
         "Name": "Red Bull Racing RB16B",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#EC1845",
+        "SecondaryColor": "#000B8D",
+        "TertiaryColor": "#FED502"
     },
     {
         "UniqueName": "williams.fw43b",
         "Name": "Williams FW43B",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "multiplayer.f12021",
         "Name": "Multiplayer Car F1 2021",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2021
+        "Year": 2021,
+        "Color": "#FF1E00",
+        "SecondaryColor": "#15151E",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alfaromeo.c42",
@@ -170,14 +236,20 @@
         "CarClass": "f1",
         "Vendor": "alfa.romeo",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#8b0000",
+        "SecondaryColor": "#006b3f",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alphatauri.at03",
         "Name": "AlphaTauri AT03",
         "CarClass": "f1",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#20394C",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alpine.a522",
@@ -185,7 +257,10 @@
         "CarClass": "f1",
         "Vendor": "alpine",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#0054a6",
+        "SecondaryColor": "#e8f3ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.martin.amr22",
@@ -193,7 +268,10 @@
         "CarClass": "f1",
         "Vendor": "aston.martin",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.f175",
@@ -201,14 +279,20 @@
         "CarClass": "f1",
         "Vendor": "ferrari",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "haas.vf22",
         "Name": "Haas VF-22",
         "CarClass": "f1",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#E6002B",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.mcl36",
@@ -216,7 +300,10 @@
         "CarClass": "f1",
         "Vendor": "mclaren",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.f1w13",
@@ -224,28 +311,40 @@
         "CarClass": "f1",
         "Vendor": "mercedes",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "redbull.rb18",
         "Name": "Red Bull RB18",
         "CarClass": "f1",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#EC1845",
+        "SecondaryColor": "#000B8D",
+        "TertiaryColor": "#FED502"
     },
     {
         "UniqueName": "williams.fw44",
         "Name": "Williams FW44",
         "CarClass": "f1",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "multiplayer.f12022",
         "Name": "Multiplayer Car F1 2022",
         "CarClass": "f1",
         "Year": 2022,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#FF1E00",
+        "SecondaryColor": "#15151E",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alfaromeo.c43",
@@ -253,14 +352,20 @@
         "CarClass": "f1",
         "Vendor": "alfa.romeo",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#8b0000",
+        "SecondaryColor": "#006b3f",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alphatauri.at04",
         "Name": "AlphaTauri AT04",
         "CarClass": "f1",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#20394C",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alpine.a523",
@@ -268,7 +373,10 @@
         "CarClass": "f1",
         "Vendor": "alpine",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#0054a6",
+        "SecondaryColor": "#e8f3ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.martin.amr23",
@@ -276,7 +384,10 @@
         "CarClass": "f1",
         "Vendor": "aston.martin",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.sf23",
@@ -284,14 +395,20 @@
         "CarClass": "f1",
         "Vendor": "ferrari",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "haas.vf23",
         "Name": "Haas VF-23",
         "CarClass": "f1",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#E6002B",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.mcl60",
@@ -299,7 +416,10 @@
         "CarClass": "f1",
         "Vendor": "mclaren",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.f1w14",
@@ -307,42 +427,60 @@
         "CarClass": "f1",
         "Vendor": "mercedes",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "redbull.rb19",
         "Name": "Red Bull RB19",
         "CarClass": "f1",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#EC1845",
+        "SecondaryColor": "#000B8D",
+        "TertiaryColor": "#FED502"
     },
     {
         "UniqueName": "williams.fw45",
         "Name": "Williams FW45",
         "CarClass": "f1",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "multiplayer.f12023",
         "Name": "Multiplayer Car F1 2023",
         "CarClass": "f1",
         "Year": 2023,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#FF1E00",
+        "SecondaryColor": "#15151E",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "sauber.c44",
         "Name": "Sauber C43",
         "CarClass": "f1",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#DE3126",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "vcarb.01",
         "Name": "VCARB 01",
         "CarClass": "f1",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#112cd2",
+        "SecondaryColor": "#EC1845",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alpine.a524",
@@ -350,7 +488,10 @@
         "CarClass": "f1",
         "Vendor": "alpine",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#0054a6",
+        "SecondaryColor": "#e8f3ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.martin.amr24",
@@ -358,7 +499,10 @@
         "CarClass": "f1",
         "Vendor": "aston.martin",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.sf24",
@@ -366,14 +510,20 @@
         "CarClass": "f1",
         "Vendor": "ferrari",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "haas.vf24",
         "Name": "Haas VF-24",
         "CarClass": "f1",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#E6002B",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.mcl38",
@@ -381,7 +531,10 @@
         "CarClass": "f1",
         "Vendor": "mclaren",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.f1w15",
@@ -389,28 +542,40 @@
         "CarClass": "f1",
         "Vendor": "mercedes",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "redbull.rb20",
         "Name": "Red Bull RB20",
         "CarClass": "f1",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#EC1845",
+        "SecondaryColor": "#000B8D",
+        "TertiaryColor": "#FED502"
     },
     {
         "UniqueName": "williams.fw46",
         "Name": "Williams FW46",
         "CarClass": "f1",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "multiplayer.f124",
         "Name": "Multiplayer Car F1 24",
         "CarClass": "f1",
         "Year": 2024,
-        "Power": 1000
+        "Power": 1000,
+        "Color": "#FF1E00",
+        "SecondaryColor": "#15151E",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alpine.a525",
@@ -418,7 +583,10 @@
         "CarClass": "f1",
         "Vendor": "alpine",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#0054a6",
+        "SecondaryColor": "#e8f3ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.martin.amr25",
@@ -426,7 +594,10 @@
         "CarClass": "f1",
         "Vendor": "aston.martin",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.sf25",
@@ -434,14 +605,20 @@
         "CarClass": "f1",
         "Vendor": "ferrari",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "haas.vf25",
         "Name": "Haas VF-25",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#E6002B",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.mcl39",
@@ -449,7 +626,10 @@
         "CarClass": "f1",
         "Vendor": "mclaren",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.f1w16",
@@ -457,35 +637,50 @@
         "CarClass": "f1",
         "Vendor": "mercedes",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "vcarb.02",
         "Name": "VCARB 02",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#112cd2",
+        "SecondaryColor": "#EC1845",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "redbull.rb21",
         "Name": "Red Bull RB21",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#EC1845",
+        "SecondaryColor": "#000B8D",
+        "TertiaryColor": "#FED502"
     },
     {
         "UniqueName": "sauber.c45",
         "Name": "Sauber C45",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#DE3126",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "williams.fw47",
         "Name": "Williams FW47",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2025
+        "Year": 2025,
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "alpine.a526",
@@ -493,7 +688,10 @@
         "CarClass": "f1",
         "Vendor": "alpine",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#0054a6",
+        "SecondaryColor": "#e8f3ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "aston.martin.amr26",
@@ -501,7 +699,10 @@
         "CarClass": "f1",
         "Vendor": "aston.martin",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.r26",
@@ -509,14 +710,20 @@
         "CarClass": "f1",
         "Vendor": "audi",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "cadillac.mac26",
         "Name": "Cadillac MAC-26",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#ffffff",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.sf26",
@@ -524,14 +731,20 @@
         "CarClass": "f1",
         "Vendor": "ferrari",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "haas.vf26",
         "Name": "Haas VF-26",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#E6002B",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.mcl40",
@@ -539,7 +752,10 @@
         "CarClass": "f1",
         "Vendor": "mclaren",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.f1w17",
@@ -547,27 +763,39 @@
         "CarClass": "f1",
         "Vendor": "mercedes",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "redbull.rb22",
         "Name": "Red Bull RB22",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#EC1845",
+        "SecondaryColor": "#000B8D",
+        "TertiaryColor": "#FED502"
     },
     {
         "UniqueName": "vcarb.03",
         "Name": "Racing Bulls VCARB 03",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#112cd2",
+        "SecondaryColor": "#EC1845",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "williams.fw48",
         "Name": "Williams FW48",
         "CarClass": "f1",
         "Power": 1000,
-        "Year": 2026
+        "Year": 2026,
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     }
 ]

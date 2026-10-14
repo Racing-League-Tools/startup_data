@@ -6,9 +6,9 @@
         "Vendor": "dallara",
         "Year": 2018,
         "Power": 700,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lola.t9500.ford.cosworth",
@@ -17,9 +17,9 @@
         "Vendor": "ford",
         "Year": 1995,
         "Power": 810,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lola.t9500.mercedes.benz",
@@ -28,9 +28,9 @@
         "Vendor": "mercedes",
         "Year": 1995,
         "Power": 810,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "reynard.95i.ford.cosworth",
@@ -39,9 +39,9 @@
         "Vendor": "ford",
         "Year": 1995,
         "Power": 810,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "reynard.95i.honda",
@@ -50,9 +50,9 @@
         "Vendor": "honda",
         "Year": 1995,
         "Power": 810,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "reynard.95i.mercedes",
@@ -61,9 +61,9 @@
         "Vendor": "mercedes",
         "Year": 1995,
         "Power": 810,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lola.t9800.ford.cosworth",
@@ -72,9 +72,9 @@
         "Vendor": "ford",
         "Year": 1998,
         "Power": 875,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "reynard.98i.ford.cosworth",
@@ -83,9 +83,9 @@
         "Vendor": "ford",
         "Year": 1998,
         "Power": 875,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "reynard.98i.honda",
@@ -94,9 +94,9 @@
         "Vendor": "honda",
         "Year": 1998,
         "Power": 875,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "reynard.98i.mercedes.benz",
@@ -105,9 +105,9 @@
         "Vendor": "mercedes",
         "Year": 1998,
         "Power": 875,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "reynard.98i.toyota",
@@ -116,9 +116,9 @@
         "Vendor": "toyota",
         "Year": 1998,
         "Power": 847,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "swift.009c.ford.cosworth",
@@ -126,9 +126,9 @@
         "CarClass": "indycar",
         "Year": 1998,
         "Power": 875,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#000000",
+        "SecondaryColor": "#ac0315",
+        "TertiaryColor": "#d19f08"
     },
     {
         "UniqueName": "lola.b2k00.ford.cosworth",
@@ -137,9 +137,9 @@
         "Vendor": "ford",
         "Year": 2000,
         "Power": 910,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lola.b2k00.mercedes.benz",
@@ -148,9 +148,9 @@
         "Vendor": "mercedes",
         "Year": 2000,
         "Power": 895,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lola.b2k00.toyota",
@@ -159,9 +159,9 @@
         "Vendor": "toyota",
         "Year": 2000,
         "Power": 917,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "reynard.2ki.ford.cosworth",
@@ -170,9 +170,9 @@
         "Vendor": "ford",
         "Year": 2000,
         "Power": 910,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "reynard.2ki.honda",
@@ -181,9 +181,9 @@
         "Vendor": "honda",
         "Year": 2000,
         "Power": 917,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "reynard.2ki.mercedes.benz",
@@ -192,9 +192,9 @@
         "Vendor": "mercedes",
         "Year": 2000,
         "Power": 895,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "reynard.2ki.toyota",
@@ -203,9 +203,9 @@
         "Vendor": "toyota",
         "Year": 2000,
         "Power": 917,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.indycar.2025",
@@ -214,9 +214,9 @@
         "Vendor": "chevrolet",
         "Year": 2026,
         "Power": 795,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "honda.indycar.2025",
@@ -225,8 +225,8 @@
         "Vendor": "honda",
         "Year": 2026,
         "Power": 795,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     }
 ]

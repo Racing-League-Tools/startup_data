@@ -6,9 +6,9 @@
         "Vendor": "aston.martin",
         "Year": 2005,
         "Power": 626,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.corvette.c5.r",
@@ -17,9 +17,9 @@
         "Vendor": "chevrolet",
         "Year": 2005,
         "Power": 584,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dodge.viper.gtsr.2005",
@@ -28,9 +28,9 @@
         "Vendor": "dodge",
         "Year": 2005,
         "Power": 638,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lamborghini.murcielago.rgt",
@@ -39,9 +39,9 @@
         "Vendor": "lamborghini",
         "Year": 2004,
         "Power": 593,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "maserati.mc12.gt1",
@@ -50,8 +50,8 @@
         "Vendor": "maserati",
         "Year": 2005,
         "Power": 615,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003b5c",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     }
 ]

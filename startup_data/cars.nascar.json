@@ -1,36 +1,36 @@
 [
     {
         "UniqueName": "chevrolet.nascar.ng.camaro.zl1",
-        "Name": "Chevrolet NASCAR Next Gen Camaro ZL1",
+        "Name": "Chevrolet Camaro ZL1 NASCAR",
         "CarClass": "nascar",
         "Vendor": "chevrolet",
         "Year": 2024,
         "Power": 670,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.nascar.ng.mustang.darkhorse",
-        "Name": "Ford NASCAR Next Gen Mustang Dark Horse",
+        "Name": "Ford Mustang Dark Horse NASCAR",
         "CarClass": "nascar",
         "Vendor": "ford",
         "Year": 2024,
         "Power": 670,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "toyota.nascar.ng.camry.xse",
-        "Name": "Toyota NASCAR Next Gen Camry XSE",
+        "Name": "Toyota Camry XSE NASCAR",
         "CarClass": "nascar",
         "Vendor": "toyota",
         "Year": 2024,
         "Power": 670,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d71920",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.monte.carlo.nascar",
@@ -39,9 +39,9 @@
         "Vendor": "chevrolet",
         "Year": 1983,
         "Power": 700,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.lumina.nascar",
@@ -50,19 +50,96 @@
         "Vendor": "chevrolet",
         "Year": 1989,
         "Power": 700,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.nascar.ng.camaro.zl1.lm",
-        "Name": "Chevrolet LM NASCAR Next Gen Camaro ZL1",
+        "Name": "Chevrolet LM Camaro ZL1 NASCAR",
         "CarClass": "nascar",
         "Vendor": "chevrolet",
         "Year": 2023,
         "Power": 670,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
+    },
+    {
+        "UniqueName": "ford.mustang.nascar.xfinity.2024",
+        "Name": "Ford Mustang Dark Horse NASCAR",
+        "CarClass": "nascar",
+        "Vendor": "ford",
+        "Year": 2024,
+        "Power": 700,
+        "Color": "#FF003478",
+        "SecondaryColor": "#FFFFFFFF",
+        "TertiaryColor": "#FF000000"
+    },
+    {
+        "UniqueName": "chevrolet.camaro.nascar.xfinity.2018",
+        "Name": "Chevrolet Camaro SS NASCAR",
+        "CarClass": "nascar",
+        "Vendor": "chevrolet",
+        "Year": 2018,
+        "Power": 700,
+        "Color": "#FFC8A200",
+        "SecondaryColor": "#FF202020",
+        "TertiaryColor": "#FFFFFFFF"
+    },
+    {
+        "UniqueName": "toyota.supra.nascar.xfinity.2019",
+        "Name": "Toyota GR Supra NASCAR",
+        "CarClass": "nascar",
+        "Vendor": "toyota",
+        "Year": 2019,
+        "Power": 700,
+        "Color": "#FFD71920",
+        "SecondaryColor": "#FF202020",
+        "TertiaryColor": "#FFFFFFFF"
+    },
+    {
+        "UniqueName": "chevrolet.silverado.nascar.2019",
+        "Name": "Chevrolet Silverado NASCAR",
+        "CarClass": "nascar",
+        "Vendor": "chevrolet",
+        "Year": 2019,
+        "Power": 650,
+        "Color": "#FFC8A200",
+        "SecondaryColor": "#FF202020",
+        "TertiaryColor": "#FFFFFFFF"
+    },
+    {
+        "UniqueName": "ford.f150.nascar.2022",
+        "Name": "Ford F-150 NASCAR",
+        "CarClass": "nascar",
+        "Vendor": "ford",
+        "Year": 2022,
+        "Power": 650,
+        "Color": "#FF003478",
+        "SecondaryColor": "#FFFFFFFF",
+        "TertiaryColor": "#FF000000"
+    },
+    {
+        "UniqueName": "toyota.tundra.nascar.2022",
+        "Name": "Toyota Tundra NASCAR",
+        "CarClass": "nascar",
+        "Vendor": "toyota",
+        "Year": 2022,
+        "Power": 650,
+        "Color": "#FFD71920",
+        "SecondaryColor": "#FF202020",
+        "TertiaryColor": "#FFFFFFFF"
+    },
+    {
+        "UniqueName": "ram.1500.nascar.2026",
+        "Name": "Ram 1500 NASCAR",
+        "CarClass": "nascar",
+        "Vendor": "dodge",
+        "Year": 2026,
+        "Power": 650,
+        "Color": "#FFD10000",
+        "SecondaryColor": "#FF202020",
+        "TertiaryColor": "#FFFFFFFF"
     }
 ]

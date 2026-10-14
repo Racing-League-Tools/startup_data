@@ -5,7 +5,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "amc",
         "Year": 1970,
-        "Power": 340
+        "Power": 340,
+        "Color": "#0057b8",
+        "SecondaryColor": "#d10000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "buick.gsx.70",
@@ -13,7 +16,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "buick",
         "Year": 1970,
-        "Power": 360
+        "Power": 360,
+        "Color": "#c0c0c0",
+        "SecondaryColor": "#003da5",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "chevrolet.novass.396",
@@ -21,7 +27,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "chevrolet",
         "Year": 1969,
-        "Power": 375
+        "Power": 375,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.chevelless.454",
@@ -29,7 +38,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "chevrolet",
         "Year": 1970,
-        "Power": 450
+        "Power": 450,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chrysler.vhvaliantcharger.rte49",
@@ -37,7 +49,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "chrysler",
         "Year": 1972,
-        "Power": 302
+        "Power": 302,
+        "Color": "#202020",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dodge.coronet.superbee",
@@ -45,7 +60,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "dodge",
         "Year": 1970,
-        "Power": 425
+        "Power": 425,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dodge.challenger.rt.70",
@@ -53,7 +71,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "dodge",
         "Year": 1970,
-        "Power": 425
+        "Power": 425,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "holden.monaro.gts327",
@@ -61,7 +82,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "holden",
         "Year": 1968,
-        "Power": 249
+        "Power": 249,
+        "Color": "#d40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "oldsmobile.hurstolds.442",
@@ -69,7 +93,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "oldsmobile",
         "Year": 1969,
-        "Power": 384
+        "Power": 384,
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "plymouth.gtx426.hemi",
@@ -77,7 +104,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "plymouth",
         "Year": 1971,
-        "Power": 425
+        "Power": 425,
+        "Color": "#d10000",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "pontiac.gto.judge",
@@ -85,7 +115,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "pontiac",
         "Year": 1969,
-        "Power": 365
+        "Power": 365,
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "amc.javelin.amx",
@@ -93,7 +126,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "amc",
         "Year": 1971,
-        "Power": 330
+        "Power": 330,
+        "Color": "#0057b8",
+        "SecondaryColor": "#d10000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.corvette.stingray427.67",
@@ -101,7 +137,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "chevrolet",
         "Year": 1967,
-        "Power": 435
+        "Power": 435,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.camaross.coupe.69",
@@ -109,7 +148,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "chevrolet",
         "Year": 1969,
-        "Power": 375
+        "Power": 375,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.camaro.jl3.me",
@@ -117,7 +159,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "chevrolet",
         "Year": 1969,
-        "Power": 525
+        "Power": 525,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.camaro.z28",
@@ -125,7 +170,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "chevrolet",
         "Year": 1970,
-        "Power": 360
+        "Power": 360,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.corvette.zr1.70",
@@ -133,7 +181,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "chevrolet",
         "Year": 1970,
-        "Power": 370
+        "Power": 370,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dodge.charger.daytona.hemi",
@@ -141,7 +192,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "dodge",
         "Year": 1969,
-        "Power": 425
+        "Power": 425,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dodge.chargerrt.69",
@@ -149,7 +203,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "dodge",
         "Year": 1969,
-        "Power": 425
+        "Power": 425,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.mustang.gtcoupe",
@@ -157,7 +214,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "ford",
         "Year": 1965,
-        "Power": 271
+        "Power": 271,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.mustanggt.22fastback",
@@ -165,7 +225,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "ford",
         "Year": 1968,
-        "Power": 325
+        "Power": 325,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.mustang.boss302",
@@ -173,7 +236,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "ford",
         "Year": 1969,
-        "Power": 290
+        "Power": 290,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.falcon.xa.gtho",
@@ -181,7 +247,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "ford",
         "Year": 1972,
-        "Power": 410
+        "Power": 410,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ford.xbfalcon.gt",
@@ -189,7 +258,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "ford",
         "Year": 1973,
-        "Power": 300
+        "Power": 300,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "holden.hqmonaro.gts350",
@@ -197,7 +269,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "holden",
         "Year": 1973,
-        "Power": 275
+        "Power": 275,
+        "Color": "#d40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mercury.cougar.eliminator",
@@ -205,7 +280,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "mercury",
         "Year": 1970,
-        "Power": 335
+        "Power": 335,
+        "Color": "#7a7a7a",
+        "SecondaryColor": "#c8102e",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "plymouth.cuda.426hemi",
@@ -213,7 +291,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "plymouth",
         "Year": 1971,
-        "Power": 425
+        "Power": 425,
+        "Color": "#d10000",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "pontiac.firebirdta.69",
@@ -221,7 +302,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "pontiac",
         "Year": 1969,
-        "Power": 345
+        "Power": 345,
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "pontiac.firebird.tasd455",
@@ -229,7 +313,10 @@
         "CarClass": "roadmuscle",
         "Vendor": "pontiac",
         "Year": 1973,
-        "Power": 372
+        "Power": 372,
+        "Color": "#c8102e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "shelby.gt500",
@@ -237,6 +324,9 @@
         "CarClass": "roadmuscle",
         "Vendor": "shelby",
         "Year": 1967,
-        "Power": 300
+        "Power": 300,
+        "Color": "#003da5",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     }
 ]

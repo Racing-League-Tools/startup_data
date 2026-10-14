@@ -6,9 +6,9 @@
         "Vendor": "nissan",
         "Year": 1998,
         "Power": 550,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c3002f",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mclaren.f1.gtr.longtail",
@@ -17,9 +17,9 @@
         "Vendor": "mclaren",
         "Year": 1997,
         "Power": 581,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.benz.clk.lm",
@@ -28,9 +28,9 @@
         "Vendor": "mercedes",
         "Year": 1998,
         "Power": 597,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "porsche.911.gt1",
@@ -39,9 +39,9 @@
         "Vendor": "porsche",
         "Year": 1998,
         "Power": 554,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.f50gt.1996",
@@ -50,9 +50,9 @@
         "Vendor": "ferrari",
         "Year": 1996,
         "Power": 750,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mclaren.f1.gt.1997",
@@ -61,9 +61,9 @@
         "Vendor": "mclaren",
         "Year": 1997,
         "Power": 618,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.benz.amg.clkgtr",
@@ -72,8 +72,18 @@
         "Vendor": "mercedes",
         "Year": 1998,
         "Power": 622,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
+    },
+    {
+        "UniqueName": "panoz.esperante.gtr1",
+        "Name": "Panoz Esperante GTR-1",
+        "CarClass": "gt1classic",
+        "Year": 1997,
+        "Power": 622,
+        "Color": "#1461aa",
+        "SecondaryColor": "#e23a40",
+        "TertiaryColor": "#ffffff"
     }
 ]

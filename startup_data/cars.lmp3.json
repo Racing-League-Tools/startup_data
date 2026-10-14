@@ -6,9 +6,9 @@
         "Vendor": "ligier",
         "Year": 2016,
         "Power": 420,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ligier.js.p325",
@@ -18,9 +18,9 @@
         "Year": 2025,
         "Power": 470,
         "AliasesRaw": "Ligier JS P325",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ginetta.g61lt.p325.evo",
@@ -30,9 +30,9 @@
         "Year": 2025,
         "Power": 455,
         "AliasesRaw": "Ginetta G61-LT-P325 Evo",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003da5",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "duqueine.d09.p3",
@@ -42,9 +42,9 @@
         "Year": 2025,
         "Power": 460,
         "AliasesRaw": "Duqueine D09 P3",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0046ad",
+        "SecondaryColor": "#ffcc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ligier.js.p320",
@@ -53,9 +53,9 @@
         "Vendor": "ligier",
         "Year": 2020,
         "Power": 588,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "adess.ad25.lmp3",
@@ -65,8 +65,8 @@
         "Year": 2025,
         "Power": 460,
         "AliasesRaw": "ADESS AD25 LMP3",
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#1a1a1a",
+        "SecondaryColor": "#ff3b00",
+        "TertiaryColor": "#ffffff"
     }
 ]

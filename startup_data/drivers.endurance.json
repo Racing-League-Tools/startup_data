@@ -1,1417 +1,1134 @@
 [
   {
     "Name": "Tom Gamble",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Harry Tincknell",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Ross Gunn",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Alex Riberas",
-    "Nationality": "Spain",
-    "GamePlatform": 0
+    "Nationality": "Spain"
   },
   {
     "Name": "Marco Sorensen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Roman De Angelis",
-    "Nationality": "Canada",
-    "GamePlatform": 0
+    "Nationality": "Canada"
   },
   {
     "Name": "Julien Andlauer",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Michael Christensen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Mathieu Jaminet",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Nico Muller",
-    "Nationality": "Switzerland",
-    "GamePlatform": 0
+    "Nationality": "Switzerland"
   },
   {
     "Name": "Kevin Estre",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Laurens Vanthoor",
-    "Nationality": "Belgium",
-    "GamePlatform": 0
+    "Nationality": "Belgium"
   },
   {
     "Name": "Matt Campbell",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Pascal Wehrlein",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Mike Conway",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Kamui Kobayashi",
-    "Nationality": "Japan",
-    "GamePlatform": 0
+    "Nationality": "Japan"
   },
   {
     "Name": "Nyck de Vries",
-    "Nationality": "Netherlands",
-    "GamePlatform": 0
+    "Nationality": "Netherlands"
   },
   {
     "Name": "Brendon Hartley",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Ryo Hirakawa",
-    "Nationality": "Japan",
-    "GamePlatform": 0
+    "Nationality": "Japan"
   },
   {
     "Name": "Sebastien Buemi",
-    "Nationality": "Switzerland",
-    "GamePlatform": 0
+    "Nationality": "Switzerland"
   },
   {
     "Name": "Alex Lynn",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Norman Nato",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Earl Bamber",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Sebastien Bourdais",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Jenson Button",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Kevin Magnussen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Raffaele Marciello",
-    "Nationality": "Switzerland",
-    "GamePlatform": 0
+    "Nationality": "Switzerland"
   },
   {
     "Name": "Dries Vanthoor",
-    "Nationality": "Belgium",
-    "GamePlatform": 0
+    "Nationality": "Belgium"
   },
   {
     "Name": "Rene Rast",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Robin Frijns",
-    "Nationality": "Netherlands",
-    "GamePlatform": 0
+    "Nationality": "Netherlands"
   },
   {
     "Name": "Sheldon van der Linde",
-    "Nationality": "South Africa",
-    "GamePlatform": 0
+    "Nationality": "South Africa"
   },
   {
     "Name": "Marco Wittmann",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Paul-Loup Chatin",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Ferdinand Habsburg",
-    "Nationality": "Austria",
-    "GamePlatform": 0
+    "Nationality": "Austria"
   },
   {
     "Name": "Charles Milesi",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Jules Gounon",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Frederic Makowiecki",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Mick Schumacher",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Antonio Fuoco",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Miguel Molina",
-    "Nationality": "Spain",
-    "GamePlatform": 0
+    "Nationality": "Spain"
   },
   {
     "Name": "Nicklas Nielsen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "James Calado",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Antonio Giovinazzi",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Alessandro Pier Guidi",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Phil Hanson",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Robert Kubica",
-    "Nationality": "Poland",
-    "GamePlatform": 0
+    "Nationality": "Poland"
   },
   {
     "Name": "Yifei Ye",
-    "Nationality": "China",
-    "GamePlatform": 0
+    "Nationality": "China"
   },
   {
     "Name": "Paul di Resta",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Mikkel Jensen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Jean-Eric Vergne",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Loic Duval",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Malthe Jakobsen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Stoffel Vandoorne",
-    "Nationality": "Belgium",
-    "GamePlatform": 0
+    "Nationality": "Belgium"
   },
   {
     "Name": "Neel Jani",
-    "Nationality": "Switzerland",
-    "GamePlatform": 0
+    "Nationality": "Switzerland"
   },
   {
     "Name": "Nico Pino",
-    "Nationality": "Chile",
-    "GamePlatform": 0
+    "Nationality": "Chile"
   },
   {
     "Name": "Nicolas Varrone",
-    "Nationality": "Argentina",
-    "GamePlatform": 0
+    "Nationality": "Argentina"
   },
   {
     "Name": "Eduardo Barrichello",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Valentin Hasse-Clot",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Derek DeBoer",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Anthony McIntosh",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Mattia Drudi",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Ian James",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Zacharie Robichon",
-    "Nationality": "Canada",
-    "GamePlatform": 0
+    "Nationality": "Canada"
   },
   {
     "Name": "Francois Heriau",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Simon Mann",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Alessio Rovera",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Francesco Castellacci",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Thomas Flohr",
-    "Nationality": "Switzerland",
-    "GamePlatform": 0
+    "Nationality": "Switzerland"
   },
   {
     "Name": "Davide Rigon",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Augusto Farfus",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Yasser Shahin",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Timur Boguslavskiy",
-    "Nationality": "Russia",
-    "GamePlatform": 0
+    "Nationality": "Russia"
   },
   {
     "Name": "Pedro Ebrahim",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Ahmad Al Harthy",
-    "Nationality": "Oman",
-    "GamePlatform": 0
+    "Nationality": "Oman"
   },
   {
     "Name": "Valentino Rossi",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Kelvin van der Linde",
-    "Nationality": "South Africa",
-    "GamePlatform": 0
+    "Nationality": "South Africa"
   },
   {
     "Name": "Jonny Edgar",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Daniel Juncadella",
-    "Nationality": "Spain",
-    "GamePlatform": 0
+    "Nationality": "Spain"
   },
   {
     "Name": "Ben Keating",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Rui Andrade",
-    "Nationality": "Angola",
-    "GamePlatform": 0
+    "Nationality": "Angola"
   },
   {
     "Name": "Charlie Eastwood",
-    "Nationality": "Ireland",
-    "GamePlatform": 0
+    "Nationality": "Ireland"
   },
   {
     "Name": "Tom van Rompuy",
-    "Nationality": "Belgium",
-    "GamePlatform": 0
+    "Nationality": "Belgium"
   },
   {
     "Name": "Sebastien Baud",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "James Cottingham",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Gregoire Saucy",
-    "Nationality": "Switzerland",
-    "GamePlatform": 0
+    "Nationality": "Switzerland"
   },
   {
     "Name": "Sean Gelael",
-    "Nationality": "Indonesia",
-    "GamePlatform": 0
+    "Nationality": "Indonesia"
   },
   {
     "Name": "Darren Leung",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Marino Sato",
-    "Nationality": "Japan",
-    "GamePlatform": 0
+    "Nationality": "Japan"
   },
   {
     "Name": "Matteo Cairoli",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Matteo Cressoni",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Claudio Schiavoni",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Brenton Grove",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Stephen Grove",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Andrew Gilbert",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Lorcan Hanafin",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Lin Hodenius",
-    "Nationality": "Netherlands",
-    "GamePlatform": 0
+    "Nationality": "Netherlands"
   },
   {
     "Name": "Maxime Martin",
-    "Nationality": "Belgium",
-    "GamePlatform": 0
+    "Nationality": "Belgium"
   },
   {
     "Name": "Christian Ried",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Martin Berry",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Ben Barker",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Bernardo Sousa",
-    "Nationality": "Portugal",
-    "GamePlatform": 0
+    "Nationality": "Portugal"
   },
   {
     "Name": "Ben Tuck",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Stefano Gattuso",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Giammarco Levorato",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Dennis Olsen",
-    "Nationality": "Norway",
-    "GamePlatform": 0
+    "Nationality": "Norway"
   },
   {
     "Name": "Finn Gehrsitz",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Arnold Robin",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Ben Barnicoat",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Esteban Masson",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Yuichi Nakayama",
-    "Nationality": "Japan",
-    "GamePlatform": 0
+    "Nationality": "Japan"
   },
   {
     "Name": "Jack Hawksworth",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Jose Maria Lopez",
-    "Nationality": "Argentina",
-    "GamePlatform": 0
+    "Nationality": "Argentina"
   },
   {
     "Name": "Clemens Schmid",
-    "Nationality": "Austria",
-    "GamePlatform": 0
+    "Nationality": "Austria"
   },
   {
     "Name": "Razvan Umbrarescu",
-    "Nationality": "Romania",
-    "GamePlatform": 0
+    "Nationality": "Romania"
   },
   {
     "Name": "Rahel Frey",
-    "Nationality": "Switzerland",
-    "GamePlatform": 0
+    "Nationality": "Switzerland"
   },
   {
     "Name": "Celia Martin",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Michelle Gatting",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Sarah Bovy",
-    "Nationality": "Belgium",
-    "GamePlatform": 0
+    "Nationality": "Belgium"
   },
   {
     "Name": "Ryan Hardwick",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Richard Lietz",
-    "Nationality": "Austria",
-    "GamePlatform": 0
+    "Nationality": "Austria"
   },
   {
     "Name": "Riccardo Pera",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Alex Palou",
-    "Nationality": "Spain",
-    "GamePlatform": 0
+    "Nationality": "Spain"
   },
   {
     "Name": "Andre Lotterer",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Carl Bennett",
-    "Nationality": "Thailand",
-    "GamePlatform": 0
+    "Nationality": "Thailand"
   },
   {
     "Name": "Antonio Serravalle",
-    "Nationality": "Canada",
-    "GamePlatform": 0
+    "Nationality": "Canada"
   },
   {
     "Name": "Jean-Karl Vernay",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Callum Ilott",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Oliver Rasmussen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Matthieu Vaxiviere",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Nicolas Lapierre",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Robert Shwartzman",
-    "Nationality": "Israel",
-    "GamePlatform": 0
+    "Nationality": "Israel"
   },
   {
     "Name": "Mirko Bortolotti",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Daniil Kvyat",
-    "Nationality": "Russia",
-    "GamePlatform": 0
+    "Nationality": "Russia"
   },
   {
     "Name": "Edoardo Mortara",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Andrea Caldarelli",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Daniel Mancinelli",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Erwan Bastard",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Clement Mateu",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Satoshi Hoshino",
-    "Nationality": "Japan",
-    "GamePlatform": 0
+    "Nationality": "Japan"
   },
   {
     "Name": "Nicolas Costa",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Josh Caygill",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Hiroshi Hamagushi",
-    "Nationality": "Japan",
-    "GamePlatform": 0
+    "Nationality": "Japan"
   },
   {
     "Name": "Franck Perera",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Doriane Pin",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Mikkel Pedersen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Giorgio Roda",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Ritomo Miyata",
-    "Nationality": "Japan",
-    "GamePlatform": 0
+    "Nationality": "Japan"
   },
   {
     "Name": "Conrad Laursen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Takeshi Kimura",
-    "Nationality": "Japan",
-    "GamePlatform": 0
+    "Nationality": "Japan"
   },
   {
     "Name": "Hiroshi Koizumi",
-    "Nationality": "Japan",
-    "GamePlatform": 0
+    "Nationality": "Japan"
   },
   {
     "Name": "Morris Schuring",
-    "Nationality": "Netherlands",
-    "GamePlatform": 0
+    "Nationality": "Netherlands"
   },
   {
     "Name": "Klaus Bachler",
-    "Nationality": "Austria",
-    "GamePlatform": 0
+    "Nationality": "Austria"
   },
   {
     "Name": "Alex Malykhin",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Joel Sturm",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Maceo Capietto",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Jonas Ried",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Ryan Cullen",
-    "Nationality": "Ireland",
-    "GamePlatform": 0
+    "Nationality": "Ireland"
   },
   {
     "Name": "Pietro Fittipaldi",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Vladislav Lomko",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Jamie Chadwick",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Mathys Jaubert",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Ben Hanley",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Manuel Maldonado",
-    "Nationality": "Venezuela",
-    "GamePlatform": 0
+    "Nationality": "Venezuela"
   },
   {
     "Name": "Filipe Albuquerque",
-    "Nationality": "Portugal",
-    "GamePlatform": 0
+    "Nationality": "Portugal"
   },
   {
     "Name": "Cem Bolukbasi",
-    "Nationality": "Turkey",
-    "GamePlatform": 0
+    "Nationality": "Turkey"
   },
   {
     "Name": "Lorenzo Fluxa",
-    "Nationality": "Spain",
-    "GamePlatform": 0
+    "Nationality": "Spain"
   },
   {
     "Name": "Matthias Kaiser",
-    "Nationality": "Liechtenstein",
-    "GamePlatform": 0
+    "Nationality": "Liechtenstein"
   },
   {
     "Name": "Theo Pourchaire",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Paul Lafargue",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Job van Uitert",
-    "Nationality": "Netherlands",
-    "GamePlatform": 0
+    "Nationality": "Netherlands"
   },
   {
     "Name": "Reshad de Gerus",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Francesco Simonazzi",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Benjamin Pedersen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Luca Ghiotto",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Pedro Perino",
-    "Nationality": "Mozambique",
-    "GamePlatform": 0
+    "Nationality": "Mozambique"
   },
   {
     "Name": "Jean-Baptiste Simmenauer",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Tom Blomqvist",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Tristan Vautier",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Tom Dillmann",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Jakub Smiechowski",
-    "Nationality": "Poland",
-    "GamePlatform": 0
+    "Nationality": "Poland"
   },
   {
     "Name": "Nick Yelloly",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Manuel Espirito Santo",
-    "Nationality": "Portugal",
-    "GamePlatform": 0
+    "Nationality": "Portugal"
   },
   {
     "Name": "Enzo Fittipaldi",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Pipo Derani",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Sebastian Alvarez",
-    "Nationality": "Mexico",
-    "GamePlatform": 0
+    "Nationality": "Mexico"
   },
   {
     "Name": "Oliver Gray",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Laurents Horr",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Georgios Kolovos",
-    "Nationality": "Greece",
-    "GamePlatform": 0
+    "Nationality": "Greece"
   },
   {
     "Name": "Thomas Laurent",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Felipe Fraga",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Rene Binder",
-    "Nationality": "Austria",
-    "GamePlatform": 0
+    "Nationality": "Austria"
   },
   {
     "Name": "Bent Viscaal",
-    "Nationality": "Netherlands",
-    "GamePlatform": 0
+    "Nationality": "Netherlands"
   },
   {
     "Name": "Olli Caldwell",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Kriton Lendoudis",
-    "Nationality": "Greece",
-    "GamePlatform": 0
+    "Nationality": "Greece"
   },
   {
     "Name": "Alex Quinn",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Oliver Jarvis",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Daniel Schneider",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "James Allen",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Sergio Sette Camara",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Anthony Wells",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "John Falb",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Mathias Beche",
-    "Nationality": "Switzerland",
-    "GamePlatform": 0
+    "Nationality": "Switzerland"
   },
   {
     "Name": "Clement Novalak",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Rodrigo Sales",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Francois Perrodo",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Dane Cameron",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Louis Deletraz",
-    "Nationality": "Switzerland",
-    "GamePlatform": 0
+    "Nationality": "Switzerland"
   },
   {
     "Name": "Phillip Hyett",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Wyatt Brichacek",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Antti Rammo",
-    "Nationality": "Estonia",
-    "GamePlatform": 0
+    "Nationality": "Estonia"
   },
   {
     "Name": "Rik Koen",
-    "Nationality": "Netherlands",
-    "GamePlatform": 0
+    "Nationality": "Netherlands"
   },
   {
     "Name": "Daniel Nogales",
-    "Nationality": "Spain",
-    "GamePlatform": 0
+    "Nationality": "Spain"
   },
   {
     "Name": "Jacek Zielonka",
-    "Nationality": "Poland",
-    "GamePlatform": 0
+    "Nationality": "Poland"
   },
   {
     "Name": "Julien Gerbi",
-    "Nationality": "Algeria",
-    "GamePlatform": 0
+    "Nationality": "Algeria"
   },
   {
     "Name": "Ian Aguilera",
-    "Nationality": "Mexico",
-    "GamePlatform": 0
+    "Nationality": "Mexico"
   },
   {
     "Name": "Fabien Michal",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Sebastian Gravlund",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Miguel Cristovao",
-    "Nationality": "Portugal",
-    "GamePlatform": 0
+    "Nationality": "Portugal"
   },
   {
     "Name": "Torsten Kratz",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Griffin Peebles",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Leonard Weiss",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Nick Adcock",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Gillian Henrion",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Michael Jensen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Adrien Closmenil",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Theodor Jensen",
-    "Nationality": "Denmark",
-    "GamePlatform": 0
+    "Nationality": "Denmark"
   },
   {
     "Name": "Paul Lanchere",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Marius Fossard",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Jean-Ludovic Foubert",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Jacques Wolff",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Jean-Baptiste Lahaye",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Matthieu Lahaye",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Louis Rossi",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Louis Stern",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Quentin Antonel",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Stephane Tribaudini",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Tim Creswick",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Douwe Dedecker",
-    "Nationality": "Belgium",
-    "GamePlatform": 0
+    "Nationality": "Belgium"
   },
   {
     "Name": "Reece Gold",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Michael Birch",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Wayne Boyd",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Garnet Patterson",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Riccardo Agostini",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Custodio Toledo",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Lilou Wadoux",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Charles-Henri Samani",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Duncan Cameron",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Matt Griffin",
-    "Nationality": "Ireland",
-    "GamePlatform": 0
+    "Nationality": "Ireland"
   },
   {
     "Name": "David Perel",
-    "Nationality": "South Africa",
-    "GamePlatform": 0
+    "Nationality": "South Africa"
   },
   {
     "Name": "Daniel Serra",
-    "Nationality": "Brazil",
-    "GamePlatform": 0
+    "Nationality": "Brazil"
   },
   {
     "Name": "Fran Rueda",
-    "Nationality": "Spain",
-    "GamePlatform": 0
+    "Nationality": "Spain"
   },
   {
     "Name": "Alessio Picariello",
-    "Nationality": "Belgium",
-    "GamePlatform": 0
+    "Nationality": "Belgium"
   },
   {
     "Name": "Antares Au",
-    "Nationality": "Hong Kong",
-    "GamePlatform": 0
+    "Nationality": "Hong Kong"
   },
   {
     "Name": "Horst Felbermayr Jr.",
-    "Nationality": "Austria",
-    "GamePlatform": 0
+    "Nationality": "Austria"
   },
   {
     "Name": "Horst Felix Felbermayr",
-    "Nationality": "Austria",
-    "GamePlatform": 0
+    "Nationality": "Austria"
   },
   {
     "Name": "Fabian Schiller",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Gianmaria Bruni",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Jason Hart",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Scott Noble",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Tom Fleming",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Michael Wainwright",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Antonio Felix da Costa",
-    "Nationality": "Portugal",
-    "GamePlatform": 0
+    "Nationality": "Portugal"
   },
   {
     "Name": "Victor Martins",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Jonny Adam",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Gray Newell",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Dan Harper",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Parker Thompson",
-    "Nationality": "Canada",
-    "GamePlatform": 0
+    "Nationality": "Canada"
   },
   {
     "Name": "Jack Aitken",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Nicky Catsburg",
-    "Nationality": "Netherlands",
-    "GamePlatform": 0
+    "Nationality": "Netherlands"
   },
   {
     "Name": "Blake McDonald",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Peter Dempsey",
-    "Nationality": "Ireland",
-    "GamePlatform": 0
+    "Nationality": "Ireland"
   },
   {
     "Name": "Salih Yoluc",
-    "Nationality": "Turkey",
-    "GamePlatform": 0
+    "Nationality": "Turkey"
   },
   {
     "Name": "Eric Powell",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Sebastian Priaulx",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   },
   {
     "Name": "Logan Sargeant",
-    "Nationality": "United States Of America",
-    "GamePlatform": 0
+    "Nationality": "United States Of America"
   },
   {
     "Name": "Hadrien David",
-    "Nationality": "France",
-    "GamePlatform": 0
+    "Nationality": "France"
   },
   {
     "Name": "Marvin Kirchhofer",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Benjamin Goethe",
-    "Nationality": "Germany",
-    "GamePlatform": 0
+    "Nationality": "Germany"
   },
   {
     "Name": "Alexander West",
-    "Nationality": "Sweden",
-    "GamePlatform": 0
+    "Nationality": "Sweden"
   },
   {
     "Name": "Johannes Zelger",
-    "Nationality": "Italy",
-    "GamePlatform": 0
+    "Nationality": "Italy"
   },
   {
     "Name": "Nick Cassidy",
-    "Nationality": "Australia",
-    "GamePlatform": 0
+    "Nationality": "Australia"
   },
   {
     "Name": "Ayhancan Guven",
-    "Nationality": "Turkey",
-    "GamePlatform": 0
+    "Nationality": "Turkey"
   },
   {
     "Name": "Will Stevens",
-    "Nationality": "United Kingdom",
-    "GamePlatform": 0
+    "Nationality": "United Kingdom"
   }
 ]

@@ -311,9 +311,10 @@
       "formula.v10.gen2.b",
       "formula.v10.gen2.m",
       "formula.v10.gen3.b",
-      "formula.v10.gen3.m"
+      "formula.v10.gen3.m",
+      "panoz.esperante.gtr1"
     ],
-    "Teams": [],
+    "Teams": [ ],
     "Tracks": [
       "adelaide.1999",
       "adelaide.1985",
@@ -540,7 +541,7 @@
     "SeatsPerTeam": 2,
     "SeatsReserve": 20,
     "EventFormat": {
-      "Presets": []
+      "Presets": [ ]
     },
     "FastestLapPointsPositionEdge": 10,
     "IgnoreWorstEventsEachDriver": 0,

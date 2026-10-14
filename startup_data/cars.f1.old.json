@@ -6,9 +6,9 @@
         "Vendor": "lotus",
         "Year": 1986,
         "Power": 900,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "williams.fw11",
@@ -16,9 +16,9 @@
         "CarClass": "f1",
         "Year": 1986,
         "Power": 1200,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lola.thl2",
@@ -27,9 +27,9 @@
         "Vendor": "lola",
         "Year": 1986,
         "Power": 900,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003b8e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "arrows.a9",
@@ -37,9 +37,9 @@
         "CarClass": "f1",
         "Year": 1986,
         "Power": 1681,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#e9e7d3",
+        "SecondaryColor": "#8f423c",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.honda.mp44",
@@ -48,9 +48,9 @@
         "Vendor": "mclaren",
         "Year": 1988,
         "Power": 675,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "tyrrell.017",
@@ -58,9 +58,9 @@
         "CarClass": "f1",
         "Year": 1988,
         "Power": 630,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#000000",
+        "SecondaryColor": "#f39f00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "williams.fw12",
@@ -68,9 +68,9 @@
         "CarClass": "f1",
         "Year": 1988,
         "Power": 650,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.f187",
@@ -79,9 +79,9 @@
         "Vendor": "ferrari",
         "Year": 1988,
         "Power": 720,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mclaren.honda.mp45b",
@@ -90,9 +90,9 @@
         "Vendor": "mclaren",
         "Year": 1990,
         "Power": 690,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "williams.fw13",
@@ -100,9 +100,9 @@
         "CarClass": "f1",
         "Year": 1990,
         "Power": 660,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.643",
@@ -111,9 +111,9 @@
         "Vendor": "ferrari",
         "Year": 1991,
         "Power": 710,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "williams.fw14",
@@ -121,9 +121,9 @@
         "CarClass": "f1",
         "Year": 1991,
         "Power": 750,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "benetton.b191",
@@ -131,9 +131,9 @@
         "CarClass": "f1",
         "Year": 1991,
         "Power": 660,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#fca819",
+        "SecondaryColor": "#30287c",
+        "TertiaryColor": "#0e893c"
     },
     {
         "UniqueName": "mclaren.honda.mp46",
@@ -142,9 +142,9 @@
         "Vendor": "mclaren",
         "Year": 1991,
         "Power": 757,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ferrari.641",
@@ -153,9 +153,9 @@
         "Vendor": "ferrari",
         "Year": 1990,
         "Power": 680,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "red.bull.rb9",
@@ -163,9 +163,9 @@
         "CarClass": "f1",
         "Year": 2013,
         "Power": 750,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#EC1845",
+        "SecondaryColor": "#000B8D",
+        "TertiaryColor": "#FED502"
     },
     {
         "UniqueName": "red.bull.rb10",
@@ -173,9 +173,9 @@
         "CarClass": "f1",
         "Year": 2014,
         "Power": 760,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#EC1845",
+        "SecondaryColor": "#000B8D",
+        "TertiaryColor": "#FED502"
     },
     {
         "UniqueName": "brabham.bt44",
@@ -184,9 +184,9 @@
         "Vendor": "brabham",
         "Year": 1974,
         "Power": 480,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffffff",
+        "SecondaryColor": "#d91016",
+        "TertiaryColor": "#2fb8ec"
     },
     {
         "UniqueName": "mclaren.m23",
@@ -195,9 +195,9 @@
         "Vendor": "mclaren",
         "Year": 1974,
         "Power": 465,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "shadow.dn3",
@@ -205,9 +205,9 @@
         "CarClass": "f1",
         "Year": 1974,
         "Power": 530,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#000000",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#e5dfa1"
     },
     {
         "UniqueName": "ferrari.312.b3.74",
@@ -216,9 +216,9 @@
         "Vendor": "ferrari",
         "Year": 1974,
         "Power": 490,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.type72e",
@@ -227,9 +227,9 @@
         "Vendor": "lotus",
         "Year": 1974,
         "Power": 480,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "brabham.bt46b",
@@ -238,9 +238,9 @@
         "Vendor": "brabham",
         "Year": 1978,
         "Power": 510,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d91016",
+        "SecondaryColor": "#2fb8ec",
+        "TertiaryColor": "#05053c"
     },
     {
         "UniqueName": "shadow.dn9",
@@ -248,9 +248,9 @@
         "CarClass": "f1",
         "Year": 1978,
         "Power": 530,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#000000",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#e5dfa1"
     },
     {
         "UniqueName": "lotus.type79",
@@ -259,9 +259,9 @@
         "Vendor": "lotus",
         "Year": 1978,
         "Power": 501,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "brabham.bt49",
@@ -270,9 +270,9 @@
         "Vendor": "brabham",
         "Year": 1979,
         "Power": 502,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffffff",
+        "SecondaryColor": "#05053c",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.f92a",
@@ -281,9 +281,9 @@
         "Vendor": "ferrari",
         "Year": 1992,
         "Power": 735,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "williams.fw14b",
@@ -291,9 +291,9 @@
         "CarClass": "f1",
         "Year": 1992,
         "Power": 750,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "benetton.b192",
@@ -301,9 +301,9 @@
         "CarClass": "f1",
         "Year": 1992,
         "Power": 680,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#fca819",
+        "SecondaryColor": "#0e893c",
+        "TertiaryColor": "#30287c"
     },
     {
         "UniqueName": "mclaren.mp47a",
@@ -312,9 +312,9 @@
         "Vendor": "mclaren",
         "Year": 1992,
         "Power": 776,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.mp48",
@@ -323,9 +323,9 @@
         "Vendor": "mclaren",
         "Year": 1993,
         "Power": 662,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "benetton.b193",
@@ -333,9 +333,9 @@
         "CarClass": "f1",
         "Year": 1993,
         "Power": 730,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#fca819",
+        "SecondaryColor": "#0e893c",
+        "TertiaryColor": "#30287c"
     },
     {
         "UniqueName": "williams.fw15c",
@@ -343,9 +343,9 @@
         "CarClass": "f1",
         "Year": 1993,
         "Power": 780,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.f93a",
@@ -354,9 +354,9 @@
         "Vendor": "ferrari",
         "Year": 1993,
         "Power": 745,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mercedes.amg.f1.w10.eqpower",
@@ -365,9 +365,9 @@
         "Vendor": "mercedes",
         "Year": 2019,
         "Power": 1000,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "brabham.bt52",
@@ -376,9 +376,9 @@
         "Vendor": "brabham",
         "Year": 1983,
         "Power": 910,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffffff",
+        "SecondaryColor": "#05053c",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mclaren.mp41c",
@@ -387,9 +387,9 @@
         "Vendor": "mclaren",
         "Year": 1983,
         "Power": 526,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "arrows.a6",
@@ -397,9 +397,9 @@
         "CarClass": "f1",
         "Year": 1983,
         "Power": 530,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#e9e7d3",
+        "SecondaryColor": "#8f423c",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mclaren.mp412",
@@ -408,9 +408,9 @@
         "Vendor": "mclaren",
         "Year": 1997,
         "Power": 748,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "williams.fw23",
@@ -418,9 +418,9 @@
         "CarClass": "f1",
         "Year": 2001,
         "Power": 880,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00A0DE",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dome.f105",
@@ -428,9 +428,9 @@
         "CarClass": "f1",
         "Year": 1997,
         "Power": 680,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffffff",
+        "SecondaryColor": "#f7f100",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "ferrari.412.t2",
@@ -439,9 +439,9 @@
         "Vendor": "ferrari",
         "Year": 1995,
         "Power": 760,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.type49",
@@ -450,9 +450,9 @@
         "Vendor": "lotus",
         "Year": 1967,
         "Power": 404,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "eagleweslake.t1g.1967",
@@ -461,9 +461,9 @@
         "Vendor": "eagle",
         "Year": 1967,
         "Power": 410,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#1c4e80",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "brabham.bt26a",
@@ -472,9 +472,9 @@
         "Vendor": "brabham",
         "Year": 1969,
         "Power": 417,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#054545",
+        "SecondaryColor": "#C4A666",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.type49c",
@@ -483,9 +483,9 @@
         "Vendor": "lotus",
         "Year": 1970,
         "Power": 417,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "autounion.typed",
@@ -494,9 +494,9 @@
         "Vendor": "audi",
         "Year": 1939,
         "Power": 485,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "brabham.bt24",
@@ -505,9 +505,9 @@
         "Vendor": "brabham",
         "Year": 1967,
         "Power": 330,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#054545",
+        "SecondaryColor": "#C4A666",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "brm.p201",
@@ -516,9 +516,9 @@
         "Vendor": "brm",
         "Year": 1974,
         "Power": 451,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bugatti.type35c",
@@ -527,9 +527,9 @@
         "Vendor": "bugatti",
         "Year": 1926,
         "Power": 95,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0055a4",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.166.intersport",
@@ -538,9 +538,9 @@
         "Vendor": "ferrari",
         "Year": 1948,
         "Power": 129,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.f158",
@@ -549,9 +549,9 @@
         "Vendor": "ferrari",
         "Year": 1964,
         "Power": 210,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.312t2",
@@ -560,9 +560,9 @@
         "Vendor": "ferrari",
         "Year": 1976,
         "Power": 500,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "honda.ra300",
@@ -571,9 +571,9 @@
         "Vendor": "honda",
         "Year": 1967,
         "Power": 420,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c40000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.type35",
@@ -582,9 +582,9 @@
         "Vendor": "lotus",
         "Year": 1965,
         "Power": 275,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.77",
@@ -593,9 +593,9 @@
         "Vendor": "lotus",
         "Year": 1976,
         "Power": 465,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "lotus.98t",
@@ -604,9 +604,9 @@
         "Vendor": "lotus",
         "Year": 1986,
         "Power": 900,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#006b3f",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "maserati.8ctf",
@@ -615,9 +615,9 @@
         "Vendor": "maserati",
         "Year": 1939,
         "Power": 360,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#003b5c",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mclaren.m2b",
@@ -626,9 +626,9 @@
         "Vendor": "mclaren",
         "Year": 1966,
         "Power": 300,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.benz.w154",
@@ -637,9 +637,9 @@
         "Vendor": "mercedes",
         "Year": 1939,
         "Power": 483,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "renault.elfrs01",
@@ -648,9 +648,9 @@
         "Vendor": "renault",
         "Year": 1977,
         "Power": 500,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "benetton.b195",
@@ -658,9 +658,9 @@
         "CarClass": "f1",
         "Year": 1995,
         "Power": 675,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#059dfe",
+        "SecondaryColor": "#03057c",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mclaren.mercedes.mp410",
@@ -669,9 +669,9 @@
         "Vendor": "mclaren",
         "Year": 1995,
         "Power": 690,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ff8000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "renault.r25",
@@ -680,9 +680,9 @@
         "Vendor": "renault",
         "Year": 2005,
         "Power": 879,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "renault.r26",
@@ -691,9 +691,9 @@
         "Vendor": "renault",
         "Year": 2006,
         "Power": 716,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "renault.r28",
@@ -702,8 +702,8 @@
         "Vendor": "renault",
         "Year": 2008,
         "Power": 727,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#ffd100",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#000000"
     }
 ]

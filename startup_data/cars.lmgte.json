@@ -6,7 +6,10 @@
         "Vendor": "aston.martin",
         "Year": 2018,
         "Power": 536,
-        "AliasesRaw": "Aston Martin Vantage AMR"
+        "AliasesRaw": "Aston Martin Vantage AMR",
+        "Color": "#003530",
+        "SecondaryColor": "#cedc00",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bmw.m6.gtlm",
@@ -14,7 +17,10 @@
         "CarClass": "lmgte",
         "Vendor": "bmw",
         "Year": 2017,
-        "Power": 500
+        "Power": 500,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "bmw.m8.gte",
@@ -22,7 +28,10 @@
         "CarClass": "lmgte",
         "Vendor": "bmw",
         "Year": 2018,
-        "Power": 600
+        "Power": 600,
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "chevrolet.racing.corvette.c7r",
@@ -30,7 +39,10 @@
         "CarClass": "lmgte",
         "Vendor": "chevrolet",
         "Year": 2014,
-        "Power": 491
+        "Power": 491,
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.corvette.c8r.gte",
@@ -39,7 +51,10 @@
         "Vendor": "chevrolet",
         "Year": 2020,
         "Power": 500,
-        "AliasesRaw": "Corvette C8.R GTE"
+        "AliasesRaw": "Corvette C8.R GTE",
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "dodge.viper.gtsr",
@@ -47,7 +62,10 @@
         "CarClass": "lmgte",
         "Vendor": "dodge",
         "Year": 2014,
-        "Power": 475
+        "Power": 475,
+        "Color": "#d10000",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ferrari.488.gte",
@@ -56,7 +74,10 @@
         "Vendor": "ferrari",
         "Year": 2019,
         "Power": 600,
-        "AliasesRaw": "Ferrari 488 GTE EVO"
+        "AliasesRaw": "Ferrari 488 GTE EVO",
+        "Color": "#dc0000",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "ford.gtlm",
@@ -64,7 +85,10 @@
         "CarClass": "lmgte",
         "Vendor": "ford",
         "Year": 2016,
-        "Power": 530
+        "Power": 530,
+        "Color": "#003478",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "porsche.991rsr",
@@ -72,7 +96,10 @@
         "CarClass": "lmgte",
         "Vendor": "porsche",
         "Year": 2015,
-        "Power": 490
+        "Power": 490,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.911.rsr.19",
@@ -81,7 +108,10 @@
         "Vendor": "porsche",
         "Year": 2019,
         "Power": 503,
-        "AliasesRaw": "Porsche 911 RSR-19"
+        "AliasesRaw": "Porsche 911 RSR-19",
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "porsche.911rsr.17",
@@ -89,6 +119,9 @@
         "CarClass": "lmgte",
         "Vendor": "porsche",
         "Year": 2017,
-        "Power": 503
+        "Power": 503,
+        "Color": "#b12b28",
+        "SecondaryColor": "#d4af37",
+        "TertiaryColor": "#ffffff"
     }
 ]

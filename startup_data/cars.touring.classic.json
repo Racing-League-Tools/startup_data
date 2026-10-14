@@ -6,9 +6,9 @@
         "Vendor": "chevrolet",
         "Year": 1976,
         "Power": 123,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "fiat.uno.ccb",
@@ -17,9 +17,9 @@
         "Vendor": "fiat",
         "Year": 1987,
         "Power": 127,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#96172e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "mini.cooper.s.ccb",
@@ -28,9 +28,9 @@
         "Vendor": "mini",
         "Year": 1964,
         "Power": 117,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8102e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "puma.gte.ccb",
@@ -39,9 +39,9 @@
         "Vendor": "puma",
         "Year": 1976,
         "Power": 123,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.gol.ccb",
@@ -50,9 +50,9 @@
         "Vendor": "volkswagen",
         "Year": 1989,
         "Power": 120,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.passat.ccb",
@@ -61,9 +61,9 @@
         "Vendor": "volkswagen",
         "Year": 1981,
         "Power": 120,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "puma.gtb.ccfl",
@@ -72,9 +72,9 @@
         "Vendor": "puma",
         "Year": 1974,
         "Power": 212,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0057b8",
+        "SecondaryColor": "#ffd100",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.fusca.ccfl",
@@ -83,9 +83,9 @@
         "Vendor": "volkswagen",
         "Year": 2011,
         "Power": 165,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.gol.ccfl",
@@ -94,9 +94,9 @@
         "Vendor": "volkswagen",
         "Year": 1991,
         "Power": 173,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.passat.ccfl",
@@ -105,9 +105,9 @@
         "Vendor": "volkswagen",
         "Year": 1981,
         "Power": 173,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.fusca.cf",
@@ -116,9 +116,9 @@
         "Vendor": "volkswagen",
         "Year": 2011,
         "Power": 123,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "fiat.copa.uno",
@@ -127,9 +127,9 @@
         "Vendor": "fiat",
         "Year": 1995,
         "Power": 120,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#96172e",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "audi.v8.quattro.dtm",
@@ -138,9 +138,9 @@
         "Vendor": "audi",
         "Year": 1990,
         "Power": 445,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#bb0a30",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bmw.m3.sport.evo.groupa",
@@ -149,9 +149,9 @@
         "Vendor": "bmw",
         "Year": 1992,
         "Power": 328,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mercedes.benz.190e.evo2.dtm",
@@ -160,9 +160,9 @@
         "Vendor": "mercedes",
         "Year": 1992,
         "Power": 340,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#00a19b",
+        "SecondaryColor": "#c0c0c0",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "volkswagen.fusca.1hc",
@@ -171,9 +171,9 @@
         "Vendor": "volkswagen",
         "Year": 1983,
         "Power": 160,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.fusca.2hc",
@@ -182,9 +182,9 @@
         "Vendor": "volkswagen",
         "Year": 1983,
         "Power": 160,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.gol.hc",
@@ -193,9 +193,9 @@
         "Vendor": "volkswagen",
         "Year": 1983,
         "Power": 160,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "volkswagen.passat.hc",
@@ -204,9 +204,9 @@
         "Vendor": "volkswagen",
         "Year": 1983,
         "Power": 165,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#001e50",
+        "SecondaryColor": "#66b2ff",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "chevrolet.opala.osr",
@@ -215,9 +215,9 @@
         "Vendor": "chevrolet",
         "Year": 2014,
         "Power": 293,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8a200",
+        "SecondaryColor": "#202020",
+        "TertiaryColor": "#ffffff"
     },
     {
         "UniqueName": "bmw.2002.turbo.r",
@@ -226,9 +226,9 @@
         "Vendor": "bmw",
         "Year": 1973,
         "Power": 190,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#0066b1",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "mini.cooper.s.r",
@@ -237,9 +237,9 @@
         "Vendor": "mini",
         "Year": 1961,
         "Power": 108,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#c8102e",
+        "SecondaryColor": "#ffffff",
+        "TertiaryColor": "#000000"
     },
     {
         "UniqueName": "lamborghini.miura.sv",
@@ -248,8 +248,8 @@
         "Vendor": "lamborghini",
         "Year": 1971,
         "Power": 398,
-        "Color": "",
-        "SecondaryColor": "",
-        "TertiaryColor": ""
+        "Color": "#d4af37",
+        "SecondaryColor": "#000000",
+        "TertiaryColor": "#ffffff"
     }
 ]
